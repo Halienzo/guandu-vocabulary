@@ -1,0 +1,3 @@
+.publish-check/
+.playwright-mcp/
+*.zip

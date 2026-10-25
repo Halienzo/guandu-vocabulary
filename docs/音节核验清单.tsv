@@ -1,0 +1,4226 @@
+ID	单元	原词	辅助分读	数据状态
+w00001	Unit 1	abandon	a·ban·don	lexical
+w00002	Unit 1	abbreviation	ab·bre·vi·a·tion	lexical
+w00003	Unit 1	abdomen	ab·do·men	lexical
+w00004	Unit 1	abnormal	ab·nor·mal	lexical
+w00005	Unit 1	aboriginal	ab·o·rig·i·nal	reviewed
+w00006	Unit 1	abortion	a·bor·tion	lexical
+w00007	Unit 1	absenteeism	ab·sen·tee·is·m	reviewed
+w00008	Unit 1	absorb	ab·sorb	lexical
+w00009	Unit 1	absolute	ab·so·lute	lexical
+w00010	Unit 1	abstract	ab·stract	lexical
+w00011	Unit 1	abuse	a·buse	lexical
+w00012	Unit 1	academic	ac·a·dem·ic	reviewed
+w00013	Unit 1	accelerate	ac·cel·er·ate	lexical
+w00014	Unit 1	accept	ac·cept	lexical
+w00015	Unit 1	access	ac·cess	lexical
+w00016	Unit 1	accessible	ac·ces·si·ble	lexical
+w00017	Unit 1	accessory	ac·ces·so·ry	lexical
+w00018	Unit 1	accident	ac·ci·dent	lexical
+w00019	Unit 1	acclaim	ac·claim	lexical
+w00020	Unit 1	accent	ac·cent	lexical
+w00021	Unit 1	accommodate	ac·com·mo·date	lexical
+w00022	Unit 1	accommodation	ac·com·mo·da·tion	reviewed
+w00023	Unit 1	accompany	ac·com·pa·ny	reviewed
+w00024	Unit 1	accomplish	ac·com·plish	reviewed
+w00025	Unit 1	account	ac·count	lexical
+w00026	Unit 1	accredit	ac·cred·it	reviewed
+w00027	Unit 1	accumulate	ac·cu·mu·late	lexical
+w00028	Unit 1	accuracy	ac·cu·ra·cy	lexical
+w00029	Unit 1	accuse	ac·cuse	lexical
+w00030	Unit 1	accustom	ac·cus·tom	lexical
+w00031	Unit 1	acid	ac·id	lexical
+w00032	Unit 1	acknowledge	ac·knowl·edge	reviewed
+w00033	Unit 1	acquaintance	ac·quaint·ance	lexical
+w00034	Unit 1	acquire	ac·quire	lexical
+w00035	Unit 1	activate	ac·ti·vate	lexical
+w00036	Unit 1	acupuncture	ac·u·punc·ture	reviewed
+w00037	Unit 1	acute	a·cute	lexical
+w00038	Unit 1	adapt	a·dapt	lexical
+w00039	Unit 1	adaptable	a·dapt·a·ble	lexical
+w00040	Unit 1	adaptation	ad·ap·ta·tion	lexical
+w00041	Unit 1	addict	ad·dict	lexical
+w00042	Unit 1	addition	ad·di·tion	reviewed
+w00043	Unit 1	address	ad·dress	lexical
+w00044	Unit 1	ad hoc	ad hoc	lexical
+w00045	Unit 1	adequate	ad·e·quate	lexical
+w00046	Unit 1	adhere	ad·here	lexical
+w00047	Unit 1	adjacent	ad·ja·cent	lexical
+w00048	Unit 1	adjust	ad·just	lexical
+w00049	Unit 1	administration	ad·min·is·tra·tion	reviewed
+w00050	Unit 1	admire	ad·mire	lexical
+w00051	Unit 1	admit	ad·mit	lexical
+w00052	Unit 1	adolescent	ad·o·les·cent	lexical
+w00053	Unit 1	adopt	a·dopt	lexical
+w00054	Unit 1	adore	a·dore	lexical
+w00055	Unit 1	advance	ad·vance	lexical
+w00056	Unit 1	adventure	ad·ven·ture	lexical
+w00057	Unit 1	adverse	ad·verse	lexical
+w00058	Unit 1	advertise	ad·ver·tise	lexical
+w00059	Unit 1	advocate	ad·vo·cate	lexical
+w00060	Unit 1	aerobic	aer·o·bic	lexical
+w00061	Unit 1	aesthetic	aes·thet·ic	reviewed
+w00062	Unit 1	affect	af·fect	lexical
+w00063	Unit 1	affection	af·fec·tion	lexical
+w00064	Unit 1	affiliate	af·fil·i·ate	reviewed
+w00065	Unit 1	affirm	af·firm	lexical
+w00066	Unit 1	affluent	af·flu·ent	lexical
+w00067	Unit 1	afford	af·ford	lexical
+w00068	Unit 1	agency	a·gen·cy	lexical
+w00069	Unit 1	agenda	a·gen·da	lexical
+w00070	Unit 1	aggravate	ag·gra·vate	lexical
+w00071	Unit 1	agitate	ag·i·tate	lexical
+w00072	Unit 1	agreeable	a·gree·a·ble	lexical
+w00073	Unit 1	aid	aid	lexical
+w00074	Unit 1	airborne	air·borne	reviewed
+w00075	Unit 1	airtight	air·tight	lexical
+w00076	Unit 1	aisle	aisle	lexical
+w00077	Unit 1	alarm	a·larm	lexical
+w00078	Unit 1	albeit	al·be·it	reviewed
+w00079	Unit 1	alchemy	al·che·my	reviewed
+w00080	Unit 1	alcohol	al·co·hol	reviewed
+w00081	Unit 1	algae	al·gae	reviewed
+w00082	Unit 1	algebra	al·ge·bra	reviewed
+w00083	Unit 1	alien	a·li·en	lexical
+w00084	Unit 1	alight	a·light	lexical
+w00085	Unit 1	allege	al·lege	lexical
+w00086	Unit 1	allergy	al·ler·gy	lexical
+w00087	Unit 1	allergic	al·ler·gic	lexical
+w00088	Unit 1	alleviate	al·le·vi·ate	reviewed
+w00089	Unit 1	allocate	al·lo·cate	reviewed
+w00090	Unit 1	allot	al·lot	lexical
+w00091	Unit 1	allowance	al·low·ance	lexical
+w00092	Unit 1	allure	al·lure	lexical
+w00093	Unit 1	almond	al·mond	lexical
+w00094	Unit 1	alter	al·ter	lexical
+w00095	Unit 1	alternative	al·ter·na·tive	lexical
+w00096	Unit 1	altitude	al·ti·tude	reviewed
+w00097	Unit 1	alumni	a·lum·ni	lexical
+w00098	Unit 1	amateur	am·a·teur	lexical
+w00099	Unit 1	amaze	a·maze	lexical
+w00100	Unit 1	amazing	a·maz·ing	lexical
+w00101	Unit 2	ambassador	am·bas·sa·dor	reviewed
+w00102	Unit 2	ambiguous	am·big·u·ous	reviewed
+w00103	Unit 2	ambition	am·bi·tion	reviewed
+w00104	Unit 2	ambitious	am·bi·tious	lexical
+w00105	Unit 2	ameliorate	a·me·lio·rate	reviewed
+w00106	Unit 2	amend	a·mend	lexical
+w00107	Unit 2	amenity	a·men·i·ty	reviewed
+w00108	Unit 2	amid	a·mid	lexical
+w00109	Unit 2	amphibian	am·phib·i·an	reviewed
+w00110	Unit 2	ample	am·ple	lexical
+w00111	Unit 2	amplify	am·pli·fy	lexical
+w00112	Unit 2	amuse	a·muse	lexical
+w00113	Unit 2	anaesthetic	an·aes·thet·ic	reviewed
+w00114	Unit 2	analogy	a·nal·o·gy	reviewed
+w00115	Unit 2	analyse	an·a·lyse	reviewed
+w00116	Unit 2	analysis	a·nal·y·sis	reviewed
+w00117	Unit 2	analyst	an·a·lyst	lexical
+w00118	Unit 2	anatomy	a·nat·o·my	reviewed
+w00119	Unit 2	ancestor	an·ces·tor	lexical
+w00120	Unit 2	ancient	an·cient	lexical
+w00121	Unit 2	animation	an·i·ma·tion	reviewed
+w00122	Unit 2	annihilate	an·ni·hi·late	lexical
+w00123	Unit 2	anniversary	an·ni·ver·sa·ry	reviewed
+w00124	Unit 2	announce	an·nounce	lexical
+w00125	Unit 2	announcement	an·nounce·ment	lexical
+w00126	Unit 2	anonymous	a·non·y·mous	reviewed
+w00127	Unit 2	annoy	an·noy	lexical
+w00128	Unit 2	anthropology	an·thro·pol·o·gy	lexical
+w00129	Unit 2	antibiotic	an·ti·bi·ot·ic	reviewed
+w00130	Unit 2	anticipate	an·tic·i·pate	reviewed
+w00131	Unit 2	anticipation	an·tic·i·pa·tion	reviewed
+w00132	Unit 2	antique	an·tique	lexical
+w00133	Unit 2	anyhow	an·y·how	lexical
+w00134	Unit 2	apathetic	ap·a·thet·ic	reviewed
+w00135	Unit 2	apparatus	ap·pa·ra·tus	reviewed
+w00136	Unit 2	apparent	ap·par·ent	lexical
+w00137	Unit 2	appeal	ap·peal	lexical
+w00138	Unit 2	appearance	ap·pear·ance	lexical
+w00139	Unit 2	append	ap·pend	lexical
+w00140	Unit 2	appetite	ap·pe·tite	lexical
+w00141	Unit 2	applaud	ap·plaud	lexical
+w00142	Unit 2	appliance	ap·pli·ance	lexical
+w00143	Unit 2	application	ap·pli·ca·tion	reviewed
+w00144	Unit 2	apply	ap·ply	lexical
+w00145	Unit 2	appoint	ap·point	lexical
+w00146	Unit 2	appointment	ap·point·ment	lexical
+w00147	Unit 2	appreciate	ap·pre·ci·ate	reviewed
+w00148	Unit 2	apprentice	ap·pren·tice	lexical
+w00149	Unit 2	approach	ap·proach	lexical
+w00150	Unit 2	appropriate	ap·pro·pri·ate	lexical
+w00151	Unit 2	approval	ap·prov·al	lexical
+w00152	Unit 2	approve	ap·prove	lexical
+w00153	Unit 2	approximate	ap·prox·i·mate	reviewed
+w00154	Unit 2	apt	apt	lexical
+w00155	Unit 2	aptitude	ap·ti·tude	reviewed
+w00156	Unit 2	aquarium	a·quar·i·um	reviewed
+w00157	Unit 2	aquatic	a·quat·ic	reviewed
+w00158	Unit 2	arbitrary	ar·bi·trar·y	reviewed
+w00159	Unit 2	arch	arch	lexical
+w00160	Unit 2	archaeology	ar·chae·ol·o·gy	lexical
+w00161	Unit 2	arduous	ar·du·ous	reviewed
+w00162	Unit 2	arena	a·re·na	lexical
+w00163	Unit 2	arise	a·rise	lexical
+w00164	Unit 2	aromatic	ar·o·mat·ic	reviewed
+w00165	Unit 2	arouse	a·rouse	lexical
+w00166	Unit 2	arrange	ar·range	reviewed
+w00167	Unit 2	artery	ar·ter·y	lexical
+w00168	Unit 2	arthritis	ar·thri·tis	lexical
+w00169	Unit 2	artifact	ar·ti·fact	lexical
+w00170	Unit 2	artificial	ar·ti·fi·cial	lexical
+w00171	Unit 2	ascend	as·cend	lexical
+w00172	Unit 2	ascribe	as·cribe	lexical
+w00173	Unit 2	aspect	as·pect	lexical
+w00174	Unit 2	ash	ash	lexical
+w00175	Unit 2	aspiration	as·pi·ra·tion	lexical
+w00176	Unit 2	aspire	as·pire	lexical
+w00177	Unit 2	assault	as·sault	lexical
+w00178	Unit 2	assemble	as·sem·ble	lexical
+w00179	Unit 2	assert	as·sert	lexical
+w00180	Unit 2	assess	as·sess	lexical
+w00181	Unit 2	assessment	as·sess·ment	lexical
+w00182	Unit 2	asset	as·set	lexical
+w00183	Unit 2	assign	as·sign	lexical
+w00184	Unit 2	associate	as·so·ci·ate	reviewed
+w00185	Unit 2	assort	as·sort	lexical
+w00186	Unit 2	assorted	a·ssor·ted	lexical
+w00187	Unit 2	assume	as·sume	lexical
+w00188	Unit 2	assumption	as·sump·tion	lexical
+w00189	Unit 2	assurance	as·sur·ance	lexical
+w00190	Unit 2	assure	as·sure	lexical
+w00191	Unit 2	astonish	as·ton·ish	lexical
+w00192	Unit 2	astound	as·tound	lexical
+w00193	Unit 2	astronaut	as·tro·naut	lexical
+w00194	Unit 2	astronomer	as·tron·o·mer	lexical
+w00195	Unit 2	asylum	a·sy·lum	lexical
+w00196	Unit 2	asymmetry	a·sym·me·try	lexical
+w00197	Unit 2	atheism	a·the·ism	lexical
+w00198	Unit 2	athlete	ath·lete	lexical
+w00199	Unit 2	atlas	at·las	lexical
+w00200	Unit 2	atmosphere	at·mos·phere	lexical
+w00201	Unit 2	atom	at·om	lexical
+w00202	Unit 2	attain	at·tain	lexical
+w00203	Unit 2	attempt	at·tempt	lexical
+w00204	Unit 3	attend	at·tend	lexical
+w00205	Unit 3	attorney	at·tor·ney	lexical
+w00206	Unit 3	attract	at·tract	lexical
+w00207	Unit 3	attribute	at·trib·ute	lexical
+w00208	Unit 3	auction	auc·tion	lexical
+w00209	Unit 3	audience	au·di·ence	lexical
+w00210	Unit 3	audit	au·dit	lexical
+w00211	Unit 3	augment	aug·ment	lexical
+w00212	Unit 3	authentic	au·then·tic	lexical
+w00213	Unit 3	authority	au·thor·i·ty	reviewed
+w00214	Unit 3	authorise	au·thor·ise	reviewed
+w00215	Unit 3	automatic	au·to·mat·ic	reviewed
+w00216	Unit 3	auxiliary	aux·il·i·a·ry	reviewed
+w00217	Unit 3	avalanche	av·a·lanche	reviewed
+w00218	Unit 3	available	a·vail·a·ble	lexical
+w00219	Unit 3	avenue	av·e·nue	lexical
+w00220	Unit 3	average	av·er·age	lexical
+w00221	Unit 3	aviation	av·i·a·tion	reviewed
+w00222	Unit 3	aware	a·ware	lexical
+w00223	Unit 3	awesome	awe·some	lexical
+w00224	Unit 3	awkward	awk·ward	lexical
+w00225	Unit 3	axis	ax·is	lexical
+w00226	Unit 3	bachelor	bach·e·lor	reviewed
+w00227	Unit 3	backbone	back·bone	lexical
+w00228	Unit 3	background	back·ground	lexical
+w00229	Unit 3	backup	back·up	lexical
+w00230	Unit 3	bacteria	bac·te·ri·a	reviewed
+w00231	Unit 3	badge	badge	lexical
+w00232	Unit 3	badminton	bad·min·ton	reviewed
+w00233	Unit 3	baggage	bag·gage	lexical
+w00234	Unit 3	bait	bait	lexical
+w00235	Unit 3	balcony	bal·co·ny	reviewed
+w00236	Unit 3	bald	bald	lexical
+w00237	Unit 3	ballet	bal·let	lexical
+w00238	Unit 3	ballot	bal·lot	lexical
+w00239	Unit 3	ban	ban	lexical
+w00240	Unit 3	band	band	lexical
+w00241	Unit 3	bankrupt	bank·rupt	lexical
+w00242	Unit 3	banquet	ban·quet	lexical
+w00243	Unit 3	baptise	bap·tise	reviewed
+w00244	Unit 3	bar	bar	lexical
+w00245	Unit 3	barbecue	bar·be·cue	reviewed
+w00246	Unit 3	bare	bare	lexical
+w00247	Unit 3	bargain	bar·gain	reviewed
+w00248	Unit 3	bark	bark	lexical
+w00249	Unit 3	barrel	bar·rel	lexical
+w00250	Unit 3	barren	bar·ren	reviewed
+w00251	Unit 3	barrier	bar·ri·er	reviewed
+w00252	Unit 3	basis	ba·sis	lexical
+w00253	Unit 3	battery	bat·ter·y	lexical
+w00254	Unit 3	battle	bat·tle	lexical
+w00255	Unit 3	bead	bead	lexical
+w00256	Unit 3	beard	beard	lexical
+w00257	Unit 3	beam	beam	lexical
+w00258	Unit 3	bear	bear	lexical
+w00259	Unit 3	beast	beast	lexical
+w00260	Unit 3	beforehand	be·fore·hand	lexical
+w00261	Unit 3	behalf	be·half	lexical
+w00262	Unit 3	behaviour	be·hav·iour	reviewed
+w00263	Unit 3	benchmark	bench·mark	lexical
+w00264	Unit 3	bend	bend	lexical
+w00265	Unit 3	beneficial	ben·e·fi·cial	lexical
+w00266	Unit 3	beset	be·set	lexical
+w00267	Unit 3	bet	bet	lexical
+w00268	Unit 3	beverage	bev·er·age	reviewed
+w00269	Unit 3	bewilder	be·wil·der	reviewed
+w00270	Unit 3	bias	bi·as	lexical
+w00271	Unit 3	bibliography	bib·li·og·ra·phy	reviewed
+w00272	Unit 3	bid	bid	lexical
+w00273	Unit 3	bilateral	bi·lat·er·al	lexical
+w00274	Unit 3	billiards	bil·liards	lexical
+w00275	Unit 3	bind	bind	lexical
+w00276	Unit 3	bite	bite	lexical
+w00277	Unit 3	bizarre	bi·zarre	lexical
+w00278	Unit 3	blame	blame	lexical
+w00279	Unit 3	blank	blank	lexical
+w00280	Unit 3	blend	blend	lexical
+w00281	Unit 3	bless	bless	lexical
+w00282	Unit 3	block	block	lexical
+w00283	Unit 3	bloom	bloom	lexical
+w00284	Unit 3	blossom	blos·som	lexical
+w00285	Unit 3	blot	blot	lexical
+w00286	Unit 3	blow	blow	lexical
+w00287	Unit 3	blueprint	blue·print	lexical
+w00288	Unit 3	blunt	blunt	lexical
+w00289	Unit 3	blur	blur	lexical
+w00290	Unit 3	boast	boast	lexical
+w00291	Unit 3	boil	boil	lexical
+w00292	Unit 3	bold	bold	lexical
+w00293	Unit 3	bombard	bom·bard	lexical
+w00294	Unit 3	bonanza	bo·nan·za	lexical
+w00295	Unit 3	bond	bond	lexical
+w00296	Unit 3	bonus	bo·nus	lexical
+w00297	Unit 3	boom	boom	lexical
+w00298	Unit 3	boost	boost	lexical
+w00299	Unit 3	booth	booth	lexical
+w00300	Unit 3	border	bor·der	lexical
+w00301	Unit 3	bore	bore	lexical
+w00302	Unit 3	botany	bot·a·ny	reviewed
+w00303	Unit 3	bother	both·er	lexical
+w00304	Unit 3	boundary	bound·a·ry	lexical
+w00305	Unit 4	bow	bow	lexical
+w00306	Unit 4	boycott	boy·cott	lexical
+w00307	Unit 4	brainstorm	brain·storm	lexical
+w00308	Unit 4	brag	brag	lexical
+w00309	Unit 4	branch	branch	lexical
+w00310	Unit 4	brand	brand	lexical
+w00311	Unit 4	breach	breach	lexical
+w00312	Unit 4	breakthrough	break·through	lexical
+w00313	Unit 4	breed	breed	lexical
+w00314	Unit 4	bribe	bribe	mono
+w00315	Unit 4	brief	brief	lexical
+w00316	Unit 4	brochure	bro·chure	lexical
+w00317	Unit 4	bruise	bruise	lexical
+w00318	Unit 4	bubble	bub·ble	lexical
+w00319	Unit 4	bucket	buck·et	lexical
+w00320	Unit 4	budget	budg·et	lexical
+w00321	Unit 4	bud	bud	lexical
+w00322	Unit 4	bulge	bulge	lexical
+w00323	Unit 4	bulk	bulk	lexical
+w00324	Unit 4	bully	bul·ly	reviewed
+w00325	Unit 4	bump	bump	lexical
+w00326	Unit 4	bunch	bunch	lexical
+w00327	Unit 4	buoyant	buoy·ant	lexical
+w00328	Unit 4	bureaucracy	bu·reauc·ra·cy	lexical
+w00329	Unit 4	burgeon	bur·geon	reviewed
+w00330	Unit 4	burrow	bur·row	reviewed
+w00331	Unit 4	burst	burst	lexical
+w00332	Unit 4	bushfire	bush·fire	lexical
+w00333	Unit 4	bustle	bus·tle	lexical
+w00334	Unit 4	buzz	buzz	lexical
+w00335	Unit 4	bypass	by·pass	lexical
+w00336	Unit 4	byproduct	by·prod·uct	lexical
+w00337	Unit 4	cafeteria	caf·e·te·ri·a	reviewed
+w00338	Unit 4	calamity	ca·lam·i·ty	reviewed
+w00339	Unit 4	calculate	cal·cu·late	lexical
+w00340	Unit 4	calculation	cal·cu·la·tion	lexical
+w00341	Unit 4	calculus	cal·cu·lus	lexical
+w00342	Unit 4	calendar	cal·en·dar	lexical
+w00343	Unit 4	camp	camp	lexical
+w00344	Unit 4	campaign	cam·paign	lexical
+w00345	Unit 4	camouflage	cam·ou·flage	lexical
+w00346	Unit 4	campus	cam·pus	lexical
+w00347	Unit 4	can	can	lexical
+w00348	Unit 4	cancel	can·cel	lexical
+w00349	Unit 4	candidate	can·di·date	lexical
+w00350	Unit 4	canteen	can·teen	lexical
+w00351	Unit 4	capable	ca·pa·ble	reviewed
+w00352	Unit 4	capacity	ca·pac·i·ty	lexical
+w00353	Unit 4	capital	cap·i·tal	lexical
+w00354	Unit 4	capsule	cap·sule	lexical
+w00355	Unit 4	captive	cap·tive	lexical
+w00356	Unit 4	capture	cap·ture	lexical
+w00357	Unit 4	career	ca·reer	lexical
+w00358	Unit 4	cargo	car·go	lexical
+w00359	Unit 4	carnivore	car·ni·vore	lexical
+w00360	Unit 4	carve	carve	lexical
+w00361	Unit 4	cashier	cash·ier	lexical
+w00362	Unit 4	casino	ca·si·no	reviewed
+w00363	Unit 4	casualty	cas·u·al·ty	reviewed
+w00364	Unit 4	catalogue	cat·a·logue	lexical
+w00365	Unit 4	catastrophe	ca·tas·tro·phe	reviewed
+w00366	Unit 4	catalyst	cat·a·lyst	reviewed
+w00367	Unit 4	catching	ca·tching	lexical
+w00368	Unit 4	category	cat·e·go·ry	lexical
+w00369	Unit 4	cater	ca·ter	lexical
+w00370	Unit 4	cathedral	ca·the·dral	lexical
+w00371	Unit 4	caution	cau·tion	reviewed
+w00372	Unit 4	cease	cease	lexical
+w00373	Unit 4	celebrate	cel·e·brate	lexical
+w00374	Unit 4	celebrity	ce·leb·ri·ty	reviewed
+w00375	Unit 4	cellular	cel·lu·lar	reviewed
+w00376	Unit 4	census	cen·sus	lexical
+w00377	Unit 4	ceramic	ce·ram·ic	reviewed
+w00378	Unit 4	cereal	ce·re·al	reviewed
+w00379	Unit 4	ceremony	cer·e·mo·ny	reviewed
+w00380	Unit 4	certainty	cer·tain·ty	lexical
+w00381	Unit 4	certificate	cer·tif·i·cate	reviewed
+w00382	Unit 4	certify	cer·ti·fy	reviewed
+w00383	Unit 4	chain	chain	lexical
+w00384	Unit 4	challenge	chal·lenge	lexical
+w00385	Unit 4	chamber	cham·ber	lexical
+w00386	Unit 4	champagne	cham·pagne	lexical
+w00387	Unit 4	champion	cham·pi·on	reviewed
+w00388	Unit 4	chancellor	chan·cel·lor	reviewed
+w00389	Unit 4	channel	chan·nel	lexical
+w00390	Unit 4	chaos	cha·os	lexical
+w00391	Unit 4	chapter	chap·ter	lexical
+w00392	Unit 4	character	char·ac·ter	lexical
+w00393	Unit 4	characteristic	char·ac·ter·is·tic	reviewed
+w00394	Unit 4	charcoal	char·coal	reviewed
+w00395	Unit 4	charge	charge	lexical
+w00396	Unit 4	charity	char·i·ty	lexical
+w00397	Unit 4	charm	charm	lexical
+w00398	Unit 4	chart	chart	lexical
+w00399	Unit 4	charter	char·ter	lexical
+w00400	Unit 4	chase	chase	lexical
+w00401	Unit 4	cheat	cheat	lexical
+w00402	Unit 4	checklist	check·list	lexical
+w00403	Unit 4	chef	chef	lexical
+w00404	Unit 4	cherish	cher·ish	lexical
+w00405	Unit 4	chill	chill	lexical
+w00406	Unit 4	cholesterol	cho·les·ter·ol	reviewed
+w00407	Unit 5	chop	chop	lexical
+w00408	Unit 5	chore	chore	lexical
+w00409	Unit 5	chronic	chron·ic	reviewed
+w00410	Unit 5	chronological	chron·o·log·i·cal	lexical
+w00411	Unit 5	circulate	cir·cu·late	lexical
+w00412	Unit 5	circulation	cir·cu·la·tion	lexical
+w00413	Unit 5	circumstance	cir·cum·stance	lexical
+w00414	Unit 5	circus	cir·cus	lexical
+w00415	Unit 5	cite	cite	lexical
+w00416	Unit 5	civil	civ·il	lexical
+w00417	Unit 5	civilisation	civ·i·li·sa·tion	reviewed
+w00418	Unit 5	claim	claim	lexical
+w00419	Unit 5	clan	clan	lexical
+w00420	Unit 5	clarify	clar·i·fy	lexical
+w00421	Unit 5	classic	clas·sic	lexical
+w00422	Unit 5	classify	clas·si·fy	lexical
+w00423	Unit 5	clause	clause	lexical
+w00424	Unit 5	clay	clay	lexical
+w00425	Unit 5	clearance	clear·ance	lexical
+w00426	Unit 5	cliche	cli·che	lexical
+w00427	Unit 5	client	cli·ent	lexical
+w00428	Unit 5	climate	cli·mate	lexical
+w00429	Unit 5	climax	cli·max	lexical
+w00430	Unit 5	cling	cling	lexical
+w00431	Unit 5	clinic	clin·ic	reviewed
+w00432	Unit 5	clinical	clin·i·cal	lexical
+w00433	Unit 5	clone	clone	lexical
+w00434	Unit 5	clue	clue	lexical
+w00435	Unit 5	clumsy	clum·sy	lexical
+w00436	Unit 5	coach	coach	lexical
+w00437	Unit 5	coarse	coarse	lexical
+w00438	Unit 5	coax	coax	lexical
+w00439	Unit 5	cobra	co·bra	lexical
+w00440	Unit 5	cockroach	cock·roach	lexical
+w00441	Unit 5	crocodile	croc·o·dile	lexical
+w00442	Unit 5	code	code	lexical
+w00443	Unit 5	coed	co·ed	reviewed
+w00444	Unit 5	coffee	cof·fee	lexical
+w00445	Unit 5	cognitive	cog·ni·tive	lexical
+w00446	Unit 5	coherence	co·her·ence	lexical
+w00447	Unit 5	coherent	co·her·ent	lexical
+w00448	Unit 5	cohesive	co·he·sive	reviewed
+w00449	Unit 5	coincide	co·in·cide	lexical
+w00450	Unit 5	coincidence	co·in·ci·dence	lexical
+w00451	Unit 5	collaborate	col·lab·o·rate	reviewed
+w00452	Unit 5	collapse	col·lapse	lexical
+w00453	Unit 5	colleague	col·league	lexical
+w00454	Unit 5	collect	col·lect	lexical
+w00455	Unit 5	collective	col·lec·tive	lexical
+w00456	Unit 5	collide	col·lide	lexical
+w00457	Unit 5	collision	col·li·sion	lexical
+w00458	Unit 5	colony	col·o·ny	lexical
+w00459	Unit 5	colossal	co·los·sal	lexical
+w00460	Unit 5	combine	com·bine	lexical
+w00461	Unit 5	comedy	com·e·dy	lexical
+w00462	Unit 5	comet	com·et	lexical
+w00463	Unit 5	comic	com·ic	reviewed
+w00464	Unit 5	comfort	com·fort	reviewed
+w00465	Unit 5	command	com·mand	lexical
+w00466	Unit 5	commemorate	com·mem·o·rate	reviewed
+w00467	Unit 5	commence	com·mence	lexical
+w00468	Unit 5	comment	com·ment	lexical
+w00469	Unit 5	commentary	com·men·ta·ry	reviewed
+w00470	Unit 5	commentator	com·men·ta·tor	lexical
+w00471	Unit 5	commerce	com·merce	lexical
+w00472	Unit 5	commercial	com·mer·cial	lexical
+w00473	Unit 5	commission	com·mis·sion	lexical
+w00474	Unit 5	commit	com·mit	lexical
+w00475	Unit 5	commitment	com·mit·ment	lexical
+w00476	Unit 5	committee	com·mit·tee	lexical
+w00477	Unit 5	commodity	com·mod·i·ty	lexical
+w00478	Unit 5	commonplace	com·mon·place	reviewed
+w00479	Unit 5	communicate	com·mu·ni·cate	reviewed
+w00480	Unit 5	community	com·mu·ni·ty	reviewed
+w00481	Unit 5	commuter	com·mut·er	reviewed
+w00482	Unit 5	compact	com·pact	lexical
+w00483	Unit 5	companion	com·pan·ion	reviewed
+w00484	Unit 5	comparable	com·pa·ra·ble	lexical
+w00485	Unit 5	compare	com·pare	lexical
+w00486	Unit 5	comparison	com·par·i·son	lexical
+w00487	Unit 5	compatible	com·pat·i·ble	reviewed
+w00488	Unit 5	compel	com·pel	lexical
+w00489	Unit 5	compelling	com·pel·ling	reviewed
+w00490	Unit 5	compensate	com·pen·sate	lexical
+w00491	Unit 5	compensation	com·pen·sa·tion	lexical
+w00492	Unit 5	competent	com·pe·tent	lexical
+w00493	Unit 5	competence	com·pe·tence	lexical
+w00494	Unit 5	competition	com·pe·ti·tion	reviewed
+w00495	Unit 5	compile	com·pile	lexical
+w00496	Unit 5	complacency	com·pla·cen·cy	reviewed
+w00497	Unit 5	complement	com·ple·ment	lexical
+w00498	Unit 5	complex	com·plex	lexical
+w00499	Unit 5	compliance	com·pli·ance	lexical
+w00500	Unit 5	complicated	com·pli·ca·ted	lexical
+w00501	Unit 5	compliment	com·pli·ment	lexical
+w00502	Unit 5	comply	com·ply	lexical
+w00503	Unit 5	component	com·po·nent	lexical
+w00504	Unit 5	compose	com·pose	lexical
+w00505	Unit 5	compound	com·pound	lexical
+w00506	Unit 5	comprehensive	com·pre·hen·sive	reviewed
+w00507	Unit 6	comprise	com·prise	reviewed
+w00508	Unit 6	compromise	com·pro·mise	lexical
+w00509	Unit 6	compulsory	com·pul·so·ry	reviewed
+w00510	Unit 6	compute	com·pute	lexical
+w00511	Unit 6	concave	con·cave	lexical
+w00512	Unit 6	conceal	con·ceal	reviewed
+w00513	Unit 6	concede	con·cede	lexical
+w00514	Unit 6	conceit	con·ceit	reviewed
+w00515	Unit 6	conceivable	con·ceiv·a·ble	lexical
+w00516	Unit 6	conceive	con·ceive	lexical
+w00517	Unit 6	concentrate	con·cen·trate	lexical
+w00518	Unit 6	concept	con·cept	lexical
+w00519	Unit 6	conception	con·cep·tion	lexical
+w00520	Unit 6	concern	con·cern	lexical
+w00521	Unit 6	concert	con·cert	lexical
+w00522	Unit 6	concise	con·cise	reviewed
+w00523	Unit 6	conclusion	con·clu·sion	lexical
+w00524	Unit 6	concrete	con·crete	lexical
+w00525	Unit 6	concurrent	con·cur·rent	lexical
+w00526	Unit 6	condemn	con·demn	lexical
+w00527	Unit 6	condense	con·dense	lexical
+w00528	Unit 6	condolence	con·do·lence	lexical
+w00529	Unit 6	condom	con·dom	reviewed
+w00530	Unit 6	conducive	con·du·cive	lexical
+w00531	Unit 6	conduct	con·duct	lexical
+w00532	Unit 6	cone	cone	lexical
+w00533	Unit 6	confer	con·fer	lexical
+w00534	Unit 6	conference	con·fer·ence	lexical
+w00535	Unit 6	confess	con·fess	lexical
+w00536	Unit 6	confidence	con·fi·dence	lexical
+w00537	Unit 6	confident	con·fi·dent	lexical
+w00538	Unit 6	confidential	con·fi·den·tial	reviewed
+w00539	Unit 6	configuration	con·fig·u·ra·tion	lexical
+w00540	Unit 6	confine	con·fine	lexical
+w00541	Unit 6	confirm	con·firm	lexical
+w00542	Unit 6	conflict	con·flict	lexical
+w00543	Unit 6	conform	con·form	lexical
+w00544	Unit 6	confront	con·front	lexical
+w00545	Unit 6	confuse	con·fuse	reviewed
+w00546	Unit 6	congested	con·gest·ed	reviewed
+w00547	Unit 6	congratulate	con·grat·u·late	reviewed
+w00548	Unit 6	congress	con·gress	lexical
+w00549	Unit 6	connect	con·nect	lexical
+w00550	Unit 6	conquer	con·quer	lexical
+w00551	Unit 6	conscience	con·science	lexical
+w00552	Unit 6	conscious	con·scious	lexical
+w00553	Unit 6	consecutive	con·sec·u·tive	reviewed
+w00554	Unit 6	consensus	con·sen·sus	lexical
+w00555	Unit 6	consent	con·sent	lexical
+w00556	Unit 6	consequence	con·se·quence	lexical
+w00557	Unit 6	conservative	con·serv·a·tive	reviewed
+w00558	Unit 6	considerable	con·sid·er·a·ble	lexical
+w00559	Unit 6	consist	con·sist	lexical
+w00560	Unit 6	consistent	con·sist·ent	lexical
+w00561	Unit 6	consortium	con·sor·ti·um	reviewed
+w00562	Unit 6	conspiracy	con·spir·a·cy	lexical
+w00563	Unit 6	constant	con·stant	reviewed
+w00564	Unit 6	constellation	con·stel·la·tion	lexical
+w00565	Unit 6	constitute	con·sti·tute	lexical
+w00566	Unit 6	constrain	con·strain	lexical
+w00567	Unit 6	construct	con·struct	lexical
+w00568	Unit 6	consult	con·sult	lexical
+w00569	Unit 6	consultant	con·sult·ant	lexical
+w00570	Unit 6	consume	con·sume	lexical
+w00571	Unit 6	contact	con·tact	lexical
+w00572	Unit 6	contain	con·tain	lexical
+w00573	Unit 6	contaminant	con·tam·i·nant	reviewed
+w00574	Unit 6	contaminate	con·tam·i·nate	reviewed
+w00575	Unit 6	contemplate	con·tem·plate	lexical
+w00576	Unit 6	contemporary	con·tem·po·rar·y	lexical
+w00577	Unit 6	contempt	con·tempt	lexical
+w00578	Unit 6	contend	con·tend	lexical
+w00579	Unit 6	content	con·tent	lexical
+w00580	Unit 6	contention	con·ten·tion	lexical
+w00581	Unit 6	contest	con·test	lexical
+w00582	Unit 6	context	con·text	lexical
+w00583	Unit 6	continental	con·ti·nen·tal	lexical
+w00584	Unit 6	contingency	con·tin·gen·cy	lexical
+w00585	Unit 6	continuous	con·tin·u·ous	lexical
+w00586	Unit 6	contract	con·tract	lexical
+w00587	Unit 6	contradict	con·tra·dict	reviewed
+w00588	Unit 6	contrary	con·trar·y	lexical
+w00589	Unit 6	contrast	con·trast	lexical
+w00590	Unit 6	contribute	con·trib·ute	lexical
+w00591	Unit 6	contribution	con·tri·bu·tion	lexical
+w00592	Unit 6	controversy	con·tro·ver·sy	lexical
+w00593	Unit 6	convenience	con·ven·ience	lexical
+w00594	Unit 6	conventional	con·ven·tion·al	lexical
+w00595	Unit 6	converse	con·verse	lexical
+w00596	Unit 6	convert	con·vert	lexical
+w00597	Unit 6	convict	con·vict	lexical
+w00598	Unit 6	convey	con·vey	lexical
+w00599	Unit 6	convince	con·vince	lexical
+w00600	Unit 6	cooperate	co·op·er·ate	lexical
+w00601	Unit 6	coordinate	co·or·di·nate	reviewed
+w00602	Unit 6	cope	cope	lexical
+w00603	Unit 6	copyright	cop·y·right	lexical
+w00604	Unit 6	cord	cord	lexical
+w00605	Unit 6	core	core	lexical
+w00606	Unit 6	corporate	cor·po·rate	lexical
+w00607	Unit 6	corporation	cor·po·ra·tion	lexical
+w00608	Unit 6	corpus	cor·pus	lexical
+w00609	Unit 7	correspond	cor·re·spond	lexical
+w00610	Unit 7	corridor	cor·ri·dor	lexical
+w00611	Unit 7	corrupt	cor·rupt	lexical
+w00612	Unit 7	cosmetic	cos·met·ic	reviewed
+w00613	Unit 7	cosmopolitan	cos·mo·pol·i·tan	reviewed
+w00614	Unit 7	costume	cos·tume	lexical
+w00615	Unit 7	cottage	cot·tage	lexical
+w00616	Unit 7	counsellor	coun·sel·lor	reviewed
+w00617	Unit 7	counter	count·er	lexical
+w00618	Unit 7	counterfeit	coun·ter·feit	lexical
+w00619	Unit 7	counterpart	coun·ter·part	lexical
+w00620	Unit 7	counterproductive	coun·ter·pro·duc·tive	lexical
+w00621	Unit 7	couple	cou·ple	lexical
+w00622	Unit 7	coupon	cou·pon	lexical
+w00623	Unit 7	courteous	cour·te·ous	reviewed
+w00624	Unit 7	cover	cov·er	lexical
+w00625	Unit 7	coverage	cov·er·age	lexical
+w00626	Unit 7	crack	crack	lexical
+w00627	Unit 7	cradle	cra·dle	lexical
+w00628	Unit 7	craft	craft	lexical
+w00629	Unit 7	craftsman	crafts·man	lexical
+w00630	Unit 7	crash	crash	lexical
+w00631	Unit 7	crater	cra·ter	lexical
+w00632	Unit 7	crawl	crawl	lexical
+w00633	Unit 7	creature	crea·ture	lexical
+w00634	Unit 7	credit	cred·it	lexical
+w00635	Unit 7	creep	creep	lexical
+w00636	Unit 7	crew	crew	lexical
+w00637	Unit 7	crime	crime	lexical
+w00638	Unit 7	criminal	crim·i·nal	lexical
+w00639	Unit 7	cripple	crip·ple	lexical
+w00640	Unit 7	crisis	cri·sis	lexical
+w00641	Unit 7	criteria	cri·te·ri·a	reviewed
+w00642	Unit 7	criticism	crit·i·cis·m	reviewed
+w00643	Unit 7	crucial	cru·cial	lexical
+w00644	Unit 7	crude	crude	lexical
+w00645	Unit 7	cruise	cruise	lexical
+w00646	Unit 7	crush	crush	lexical
+w00647	Unit 7	crystal	crys·tal	lexical
+w00648	Unit 7	cube	cube	lexical
+w00649	Unit 7	cultivate	cul·ti·vate	lexical
+w00650	Unit 7	curative	cur·a·tive	lexical
+w00651	Unit 7	curb	curb	lexical
+w00652	Unit 7	cure	cure	lexical
+w00653	Unit 7	curious	cu·ri·ous	lexical
+w00654	Unit 7	curl	curl	lexical
+w00655	Unit 7	currency	cur·ren·cy	lexical
+w00656	Unit 7	current	cur·rent	lexical
+w00657	Unit 7	curriculum	cur·ric·u·lum	reviewed
+w00658	Unit 7	curse	curse	lexical
+w00659	Unit 7	curve	curve	lexical
+w00660	Unit 7	cushion	cush·ion	lexical
+w00661	Unit 7	custody	cus·to·dy	lexical
+w00662	Unit 7	custom	cus·tom	lexical
+w00663	Unit 7	cute	cute	lexical
+w00664	Unit 7	cycle	cy·cle	lexical
+w00665	Unit 7	cylinder	cyl·in·der	lexical
+w00666	Unit 7	dairy	dair·y	lexical
+w00667	Unit 7	dam	dam	lexical
+w00668	Unit 7	damage	dam·age	lexical
+w00669	Unit 7	damp	damp	lexical
+w00670	Unit 7	dash	dash	lexical
+w00671	Unit 7	data	da·ta	reviewed
+w00672	Unit 7	dawn	dawn	lexical
+w00673	Unit 7	deadline	dead·line	lexical
+w00674	Unit 7	deadly	dead·ly	lexical
+w00675	Unit 7	dealer	deal·er	lexical
+w00676	Unit 7	dean	dean	lexical
+w00677	Unit 7	debate	de·bate	lexical
+w00678	Unit 7	debris	de·bris	lexical
+w00679	Unit 7	decade	dec·ade	lexical
+w00680	Unit 7	decay	de·cay	lexical
+w00681	Unit 7	deceive	de·ceive	lexical
+w00682	Unit 7	decent	de·cent	lexical
+w00683	Unit 7	decimal	dec·i·mal	reviewed
+w00684	Unit 7	decimation	dec·i·ma·tion	lexical
+w00685	Unit 7	decipher	de·ci·pher	reviewed
+w00686	Unit 7	declare	de·clare	lexical
+w00687	Unit 7	decline	de·cline	lexical
+w00688	Unit 7	decompose	de·com·pose	lexical
+w00689	Unit 7	decorate	dec·o·rate	lexical
+w00690	Unit 7	decoration	dec·o·ra·tion	lexical
+w00691	Unit 7	decorative	dec·o·ra·tive	lexical
+w00692	Unit 7	decrease	de·crease	lexical
+w00693	Unit 7	dedicate	ded·i·cate	lexical
+w00694	Unit 7	deduce	de·duce	lexical
+w00695	Unit 7	deem	deem	lexical
+w00696	Unit 7	default	de·fault	lexical
+w00697	Unit 7	defeat	de·feat	lexical
+w00698	Unit 7	defect	de·fect	lexical
+w00699	Unit 7	defend	de·fend	lexical
+w00700	Unit 7	defensive	de·fen·sive	lexical
+w00701	Unit 7	defer	de·fer	lexical
+w00702	Unit 7	deficiency	de·fi·cien·cy	lexical
+w00703	Unit 7	define	de·fine	lexical
+w00704	Unit 7	definite	def·i·nite	lexical
+w00705	Unit 7	deflect	de·flect	lexical
+w00706	Unit 7	deforest	de·for·est	lexical
+w00707	Unit 7	degrade	de·grade	reviewed
+w00708	Unit 7	degree	de·gree	lexical
+w00709	Unit 7	delay	de·lay	lexical
+w00710	Unit 8	delegate	del·e·gate	lexical
+w00711	Unit 8	delete	de·lete	lexical
+w00712	Unit 8	deliberate	de·lib·er·ate	reviewed
+w00713	Unit 8	delicate	del·i·cate	lexical
+w00714	Unit 8	delicious	de·li·cious	lexical
+w00715	Unit 8	delight	de·light	lexical
+w00716	Unit 8	deliver	de·liv·er	lexical
+w00717	Unit 8	delta	del·ta	lexical
+w00718	Unit 8	demand	de·mand	lexical
+w00719	Unit 8	demanding	de·mand·ing	lexical
+w00720	Unit 8	demerit	de·mer·it	reviewed
+w00721	Unit 8	demise	de·mise	lexical
+w00722	Unit 8	democracy	de·moc·ra·cy	lexical
+w00723	Unit 8	demographic	dem·o·graph·ic	lexical
+w00724	Unit 8	demolish	de·mol·ish	lexical
+w00725	Unit 8	demonstrate	dem·on·strate	lexical
+w00726	Unit 8	denote	de·note	lexical
+w00727	Unit 8	dense	dense	lexical
+w00728	Unit 8	density	den·si·ty	lexical
+w00729	Unit 8	dental	den·tal	lexical
+w00730	Unit 8	deny	de·ny	lexical
+w00731	Unit 8	depart	de·part	lexical
+w00732	Unit 8	departure	de·par·ture	lexical
+w00733	Unit 8	department	de·part·ment	lexical
+w00734	Unit 8	depend	de·pend	lexical
+w00735	Unit 8	depict	de·pict	lexical
+w00736	Unit 8	deplete	de·plete	lexical
+w00737	Unit 8	deploy	de·ploy	lexical
+w00738	Unit 8	deposit	de·pos·it	lexical
+w00739	Unit 8	depress	de·press	lexical
+w00740	Unit 8	depression	de·pres·sion	reviewed
+w00741	Unit 8	deprive	de·prive	lexical
+w00742	Unit 8	deputy	dep·u·ty	lexical
+w00743	Unit 8	derive	de·rive	lexical
+w00744	Unit 8	descend	de·scend	lexical
+w00745	Unit 8	descent	de·scent	reviewed
+w00746	Unit 8	describe	de·scribe	lexical
+w00747	Unit 8	desert	de·sert	lexical
+w00748	Unit 8	deserve	de·serve	lexical
+w00749	Unit 8	design	de·sign	lexical
+w00750	Unit 8	designate	des·ig·nate	lexical
+w00751	Unit 8	desire	de·sire	lexical
+w00752	Unit 8	despair	de·spair	lexical
+w00753	Unit 8	desperate	des·per·ate	lexical
+w00754	Unit 8	despite	de·spite	lexical
+w00755	Unit 8	destine	des·tine	reviewed
+w00756	Unit 8	destiny	des·ti·ny	reviewed
+w00757	Unit 8	destitute	des·ti·tute	lexical
+w00758	Unit 8	destroy	de·stroy	lexical
+w00759	Unit 8	detach	de·tach	lexical
+w00760	Unit 8	detail	de·tail	lexical
+w00761	Unit 8	detect	de·tect	lexical
+w00762	Unit 8	detective	de·tec·tive	reviewed
+w00763	Unit 8	deter	de·ter	lexical
+w00764	Unit 8	detergent	de·ter·gent	lexical
+w00765	Unit 8	deteriorate	de·te·ri·o·rate	reviewed
+w00766	Unit 8	determine	de·ter·mine	lexical
+w00767	Unit 8	detriment	det·ri·ment	lexical
+w00768	Unit 8	detrimental	det·ri·men·tal	lexical
+w00769	Unit 8	devastate	dev·as·tate	lexical
+w00770	Unit 8	deviate	de·vi·ate	reviewed
+w00771	Unit 8	device	de·vice	lexical
+w00772	Unit 8	devil	dev·il	lexical
+w00773	Unit 8	devise	de·vise	lexical
+w00774	Unit 8	devote	de·vote	lexical
+w00775	Unit 8	devour	de·vour	lexical
+w00776	Unit 8	diagnose	di·ag·nose	reviewed
+w00777	Unit 8	diagonal	di·ag·o·nal	reviewed
+w00778	Unit 8	diagram	di·a·gram	lexical
+w00779	Unit 8	dialect	di·a·lect	lexical
+w00780	Unit 8	diameter	di·am·e·ter	reviewed
+w00781	Unit 8	dictate	dic·tate	lexical
+w00782	Unit 8	diction	dic·tion	lexical
+w00783	Unit 8	diet	di·et	lexical
+w00784	Unit 8	differ	dif·fer	lexical
+w00785	Unit 8	differentiate	dif·fer·en·ti·ate	reviewed
+w00786	Unit 8	diffuse	dif·fuse	lexical
+w00787	Unit 8	digest	di·gest	lexical
+w00788	Unit 8	dignity	dig·ni·ty	reviewed
+w00789	Unit 8	dilate	di·late	lexical
+w00790	Unit 8	dilemma	di·lem·ma	lexical
+w00791	Unit 8	diligent	dil·i·gent	lexical
+w00792	Unit 8	dilute	di·lute	lexical
+w00793	Unit 8	dim	dim	lexical
+w00794	Unit 8	dimension	di·men·sion	lexical
+w00795	Unit 8	diminish	di·min·ish	reviewed
+w00796	Unit 8	dip	dip	lexical
+w00797	Unit 8	diploma	di·plo·ma	lexical
+w00798	Unit 8	diplomat	dip·lo·mat	lexical
+w00799	Unit 8	diplomatic	dip·lo·mat·ic	lexical
+w00800	Unit 8	disable	dis·a·ble	lexical
+w00801	Unit 8	disadvantage	dis·ad·van·tage	reviewed
+w00802	Unit 8	disaster	dis·as·ter	lexical
+w00803	Unit 8	discard	dis·card	lexical
+w00804	Unit 8	discern	dis·cern	lexical
+w00805	Unit 8	discipline	dis·ci·pline	lexical
+w00806	Unit 8	disclose	dis·close	lexical
+w00807	Unit 8	discount	dis·count	lexical
+w00808	Unit 8	discourage	dis·cour·age	lexical
+w00809	Unit 8	discreet	dis·creet	lexical
+w00810	Unit 8	discrete	dis·crete	lexical
+w00811	Unit 9	discrepancy	dis·crep·an·cy	reviewed
+w00812	Unit 9	discriminate	dis·crim·i·nate	reviewed
+w00813	Unit 9	discrimination	dis·crim·i·na·tion	reviewed
+w00814	Unit 9	discussion	dis·cus·sion	lexical
+w00815	Unit 9	disguise	dis·guise	lexical
+w00816	Unit 9	disgust	dis·gust	lexical
+w00817	Unit 9	disillusion	dis·il·lu·sion	lexical
+w00818	Unit 9	dismay	dis·may	lexical
+w00819	Unit 9	dismiss	dis·miss	lexical
+w00820	Unit 9	disorder	dis·or·der	lexical
+w00821	Unit 9	disparity	dis·par·i·ty	reviewed
+w00822	Unit 9	dispatch	dis·patch	reviewed
+w00823	Unit 9	displace	dis·place	reviewed
+w00824	Unit 9	display	dis·play	lexical
+w00825	Unit 9	dispose	dis·pose	reviewed
+w00826	Unit 9	disposal	dis·pos·al	lexical
+w00827	Unit 9	dispute	dis·pute	lexical
+w00828	Unit 9	disregard	dis·re·gard	lexical
+w00829	Unit 9	disseminate	dis·sem·i·nate	lexical
+w00830	Unit 9	dissolve	dis·solve	lexical
+w00831	Unit 9	dissertation	dis·ser·ta·tion	lexical
+w00832	Unit 9	distil	dis·til	lexical
+w00833	Unit 9	distinct	dis·tinct	lexical
+w00834	Unit 9	distinction	dis·tinc·tion	lexical
+w00835	Unit 9	distinguish	dis·tin·guish	lexical
+w00836	Unit 9	distort	dis·tort	lexical
+w00837	Unit 9	distract	dis·tract	lexical
+w00838	Unit 9	distraction	dis·trac·tion	lexical
+w00839	Unit 9	distress	dis·tress	lexical
+w00840	Unit 9	distribute	dis·trib·ute	lexical
+w00841	Unit 9	district	dis·trict	lexical
+w00842	Unit 9	disturb	dis·turb	lexical
+w00843	Unit 9	diverse	di·verse	lexical
+w00844	Unit 9	diversify	di·ver·si·fy	reviewed
+w00845	Unit 9	diversity	di·ver·si·ty	reviewed
+w00846	Unit 9	divert	di·vert	lexical
+w00847	Unit 9	dividend	div·i·dend	lexical
+w00848	Unit 9	divine	di·vine	lexical
+w00849	Unit 9	divorce	di·vorce	lexical
+w00850	Unit 9	dizzy	diz·zy	lexical
+w00851	Unit 9	doctorate	doc·tor·ate	lexical
+w00852	Unit 9	document	doc·u·ment	lexical
+w00853	Unit 9	documentary	doc·u·men·ta·ry	reviewed
+w00854	Unit 9	documentation	doc·u·men·ta·tion	reviewed
+w00855	Unit 9	domain	do·main	lexical
+w00856	Unit 9	dome	dome	lexical
+w00857	Unit 9	domestic	do·mes·tic	reviewed
+w00858	Unit 9	dominate	dom·i·nate	lexical
+w00859	Unit 9	dominant	dom·i·nant	reviewed
+w00860	Unit 9	donate	do·nate	lexical
+w00861	Unit 9	doom	doom	lexical
+w00862	Unit 9	dormant	dor·mant	lexical
+w00863	Unit 9	dormitory	dor·mi·to·ry	reviewed
+w00864	Unit 9	dose	dose	lexical
+w00865	Unit 9	dot	dot	lexical
+w00866	Unit 9	double	dou·ble	lexical
+w00867	Unit 9	downpour	down·pour	lexical
+w00868	Unit 9	downsize	down·size	lexical
+w00869	Unit 9	doze	doze	lexical
+w00870	Unit 9	draft	draft	lexical
+w00871	Unit 9	drainage	drain·age	lexical
+w00872	Unit 9	drama	dra·ma	lexical
+w00873	Unit 9	dramatic	dra·mat·ic	reviewed
+w00874	Unit 9	drawback	draw·back	lexical
+w00875	Unit 9	dredge	dredge	lexical
+w00876	Unit 9	drift	drift	lexical
+w00877	Unit 9	drill	drill	lexical
+w00878	Unit 9	drip	drip	lexical
+w00879	Unit 9	drought	drought	lexical
+w00880	Unit 9	drown	drown	lexical
+w00881	Unit 9	dual	du·al	lexical
+w00882	Unit 9	due	due	lexical
+w00883	Unit 9	dull	dull	lexical
+w00884	Unit 9	dumb	dumb	lexical
+w00885	Unit 9	dump	dump	lexical
+w00886	Unit 9	duplicate	du·pli·cate	lexical
+w00887	Unit 9	durable	du·ra·ble	lexical
+w00888	Unit 9	duration	du·ra·tion	lexical
+w00889	Unit 9	dusk	dusk	lexical
+w00890	Unit 9	duty	du·ty	lexical
+w00891	Unit 9	dwarf	dwarf	lexical
+w00892	Unit 9	dwell	dwell	lexical
+w00893	Unit 9	dwindle	dwin·dle	lexical
+w00894	Unit 9	dye	dye	lexical
+w00895	Unit 9	dynamic	dy·nam·ic	reviewed
+w00896	Unit 9	dynasty	dy·nas·ty	reviewed
+w00897	Unit 9	dysfunction	dys·func·tion	lexical
+w00898	Unit 9	eccentric	ec·cen·tric	lexical
+w00899	Unit 9	echo	ech·o	lexical
+w00900	Unit 9	eclipse	e·clipse	lexical
+w00901	Unit 9	ecology	e·col·o·gy	lexical
+w00902	Unit 9	economy	e·con·o·my	reviewed
+w00903	Unit 9	edge	edge	lexical
+w00904	Unit 9	edible	ed·i·ble	reviewed
+w00905	Unit 9	edit	ed·it	lexical
+w00906	Unit 9	edition	e·di·tion	reviewed
+w00907	Unit 9	effect	ef·fect	lexical
+w00908	Unit 9	effective	ef·fec·tive	lexical
+w00909	Unit 9	efficient	ef·fi·cient	lexical
+w00910	Unit 9	egalitarian	e·gal·i·tar·i·an	lexical
+w00911	Unit 9	ego	e·go	lexical
+w00912	Unit 9	elaborate	e·lab·o·rate	reviewed
+w00913	Unit 9	elapse	e·lapse	lexical
+w00914	Unit 10	elastic	e·las·tic	reviewed
+w00915	Unit 10	elasticity	e·las·tic·i·ty	reviewed
+w00916	Unit 10	elective	e·lec·tive	lexical
+w00917	Unit 10	elegant	el·e·gant	lexical
+w00918	Unit 10	element	el·e·ment	lexical
+w00919	Unit 10	elevate	el·e·vate	lexical
+w00920	Unit 10	elicit	e·lic·it	lexical
+w00921	Unit 10	eligible	el·i·gi·ble	reviewed
+w00922	Unit 10	eliminate	e·lim·i·nate	lexical
+w00923	Unit 10	elite	e·lite	lexical
+w00924	Unit 10	elusive	e·lu·sive	lexical
+w00925	Unit 10	embark	em·bark	lexical
+w00926	Unit 10	embarrass	em·bar·rass	reviewed
+w00927	Unit 10	embed	em·bed	lexical
+w00928	Unit 10	embellish	em·bel·lish	reviewed
+w00929	Unit 10	embody	em·bod·y	lexical
+w00930	Unit 10	embrace	em·brace	lexical
+w00931	Unit 10	embroider	em·broi·der	reviewed
+w00932	Unit 10	embryo	em·bry·o	lexical
+w00933	Unit 10	emerge	e·merge	lexical
+w00934	Unit 10	emigrate	em·i·grate	lexical
+w00935	Unit 10	eminent	em·i·nent	reviewed
+w00936	Unit 10	emit	e·mit	lexical
+w00937	Unit 10	emission	e·mis·sion	lexical
+w00938	Unit 10	emotion	e·mo·tion	lexical
+w00939	Unit 10	emphasize	em·pha·size	lexical
+w00940	Unit 10	empirical	em·pir·i·cal	lexical
+w00941	Unit 10	employ	em·ploy	lexical
+w00942	Unit 10	emulate	em·u·late	lexical
+w00943	Unit 10	enable	en·a·ble	lexical
+w00944	Unit 10	enact	en·act	lexical
+w00945	Unit 10	enclose	en·close	lexical
+w00946	Unit 10	encompass	en·com·pass	lexical
+w00947	Unit 10	encounter	en·coun·ter	lexical
+w00948	Unit 10	encyclopedia	en·cy·clo·pe·di·a	lexical
+w00949	Unit 10	endanger	en·dan·ger	lexical
+w00950	Unit 10	endeavour	en·deav·our	reviewed
+w00951	Unit 10	endorse	en·dorse	lexical
+w00952	Unit 10	endow	en·dow	lexical
+w00953	Unit 10	endure	en·dure	lexical
+w00954	Unit 10	energetic	en·er·get·ic	reviewed
+w00955	Unit 10	enforce	en·force	lexical
+w00956	Unit 10	engage	en·gage	lexical
+w00957	Unit 10	engagement	en·gage·ment	lexical
+w00958	Unit 10	enhance	en·hance	lexical
+w00959	Unit 10	enlighten	en·light·en	lexical
+w00960	Unit 10	enormous	e·nor·mous	lexical
+w00961	Unit 10	enquiry	en·quir·y	lexical
+w00962	Unit 10	enrich	en·rich	reviewed
+w00963	Unit 10	enrol	en·rol	reviewed
+w00964	Unit 10	ensue	en·sue	lexical
+w00965	Unit 10	ensure	en·sure	lexical
+w00966	Unit 10	entail	en·tail	lexical
+w00967	Unit 10	enterprise	en·ter·prise	lexical
+w00968	Unit 10	enterprising	en·ter·pri·sing	lexical
+w00969	Unit 10	entertain	en·ter·tain	lexical
+w00970	Unit 10	enthusiasm	en·thu·si·as·m	reviewed
+w00971	Unit 10	enthusiastic	en·thu·si·as·tic	reviewed
+w00972	Unit 10	entire	en·tire	lexical
+w00973	Unit 10	entitle	en·ti·tle	reviewed
+w00974	Unit 10	entity	en·ti·ty	reviewed
+w00975	Unit 10	environment	en·vi·ron·ment	lexical
+w00976	Unit 10	envisage	en·vis·age	lexical
+w00977	Unit 10	envy	en·vy	lexical
+w00978	Unit 10	epic	ep·ic	lexical
+w00979	Unit 10	epidemic	ep·i·dem·ic	reviewed
+w00980	Unit 10	episode	ep·i·sode	lexical
+w00981	Unit 10	equate	e·quate	lexical
+w00982	Unit 10	equation	e·qua·tion	lexical
+w00983	Unit 10	equilibrium	e·qui·lib·ri·um	reviewed
+w00984	Unit 10	equip	e·quip	lexical
+w00985	Unit 10	equity	eq·ui·ty	reviewed
+w00986	Unit 10	equivalent	e·quiv·a·lent	lexical
+w00987	Unit 10	era	e·ra	lexical
+w00988	Unit 10	eradicate	e·rad·i·cate	reviewed
+w00989	Unit 10	erase	e·rase	lexical
+w00990	Unit 10	erect	e·rect	lexical
+w00991	Unit 10	erode	e·rode	lexical
+w00992	Unit 10	error	er·ror	lexical
+w00993	Unit 10	eruption	e·rup·tion	lexical
+w00994	Unit 10	escalate	es·ca·late	reviewed
+w00995	Unit 10	escalator	es·ca·la·tor	lexical
+w00996	Unit 10	essay	es·say	lexical
+w00997	Unit 10	essence	es·sence	lexical
+w00998	Unit 10	essential	es·sen·tial	lexical
+w00999	Unit 10	establish	es·tab·lish	lexical
+w01000	Unit 10	establishment	es·tab·lish·ment	lexical
+w01001	Unit 10	estate	es·tate	lexical
+w01002	Unit 10	esteem	es·teem	lexical
+w01003	Unit 10	estimate	es·ti·mate	lexical
+w01004	Unit 10	eternal	e·ter·nal	lexical
+w01005	Unit 10	ethic	eth·ic	reviewed
+w01006	Unit 10	ethnic	eth·nic	lexical
+w01007	Unit 10	etiquette	et·i·quette	lexical
+w01008	Unit 10	evade	e·vade	lexical
+w01009	Unit 10	evacuate	e·vac·u·ate	reviewed
+w01010	Unit 10	evaluate	e·val·u·ate	reviewed
+w01011	Unit 10	evaluation	e·val·u·a·tion	reviewed
+w01012	Unit 10	evaporate	e·vap·o·rate	reviewed
+w01013	Unit 11	even	e·ven	lexical
+w01014	Unit 11	event	e·vent	lexical
+w01015	Unit 11	eventual	e·ven·tu·al	lexical
+w01016	Unit 11	everlasting	ev·er·last·ing	lexical
+w01017	Unit 11	evidence	ev·i·dence	lexical
+w01018	Unit 11	evident	ev·i·dent	lexical
+w01019	Unit 11	evoke	e·voke	lexical
+w01020	Unit 11	evolve	e·volve	lexical
+w01021	Unit 11	exact	ex·act	lexical
+w01022	Unit 11	exaggerate	ex·ag·ger·ate	reviewed
+w01023	Unit 11	example	ex·am·ple	lexical
+w01024	Unit 11	excavate	ex·ca·vate	lexical
+w01025	Unit 11	exceed	ex·ceed	lexical
+w01026	Unit 11	excel	ex·cel	lexical
+w01027	Unit 11	exception	ex·cep·tion	lexical
+w01028	Unit 11	excess	ex·cess	lexical
+w01029	Unit 11	exclude	ex·clude	lexical
+w01030	Unit 11	excursion	ex·cur·sion	lexical
+w01031	Unit 11	execute	ex·e·cute	lexical
+w01032	Unit 11	exemplify	ex·em·pli·fy	reviewed
+w01033	Unit 11	exempt	ex·empt	lexical
+w01034	Unit 11	exert	ex·ert	lexical
+w01035	Unit 11	exhale	ex·hale	lexical
+w01036	Unit 11	exhaust	ex·haust	lexical
+w01037	Unit 11	exhibit	ex·hib·it	lexical
+w01038	Unit 11	exhilarate	ex·hil·a·rate	reviewed
+w01039	Unit 11	exotic	ex·ot·ic	reviewed
+w01040	Unit 11	expand	ex·pand	lexical
+w01041	Unit 11	expedition	ex·pe·di·tion	reviewed
+w01042	Unit 11	expel	ex·pel	lexical
+w01043	Unit 11	expert	ex·pert	lexical
+w01044	Unit 11	expertise	ex·per·tise	lexical
+w01045	Unit 11	expire	ex·pire	lexical
+w01046	Unit 11	explicit	ex·plic·it	lexical
+w01047	Unit 11	explode	ex·plode	lexical
+w01048	Unit 11	exploit	ex·ploit	reviewed
+w01049	Unit 11	exploration	ex·plo·ra·tion	lexical
+w01050	Unit 11	explore	ex·plore	lexical
+w01051	Unit 11	explosion	ex·plo·sion	lexical
+w01052	Unit 11	exponent	ex·po·nent	lexical
+w01053	Unit 11	export	ex·port	lexical
+w01054	Unit 11	expose	ex·pose	lexical
+w01055	Unit 11	exquisite	ex·quis·ite	lexical
+w01056	Unit 11	extend	ex·tend	lexical
+w01057	Unit 11	extent	ex·tent	lexical
+w01058	Unit 11	exterior	ex·te·ri·or	reviewed
+w01059	Unit 11	exterminate	ex·ter·mi·nate	lexical
+w01060	Unit 11	external	ex·ter·nal	lexical
+w01061	Unit 11	extinct	ex·tinct	lexical
+w01062	Unit 11	extinguish	ex·tin·guish	lexical
+w01063	Unit 11	extra	ex·tra	lexical
+w01064	Unit 11	extract	ex·tract	lexical
+w01065	Unit 11	extracurricular	ex·tra·cur·ric·u·lar	reviewed
+w01066	Unit 11	extraordinary	ex·traor·di·nar·y	reviewed
+w01067	Unit 11	extravagant	ex·trav·a·gant	reviewed
+w01068	Unit 11	extreme	ex·treme	lexical
+w01069	Unit 11	fable	fa·ble	lexical
+w01070	Unit 11	fabric	fab·ric	lexical
+w01071	Unit 11	fabricate	fab·ri·cate	lexical
+w01072	Unit 11	fabulous	fab·u·lous	lexical
+w01073	Unit 11	facet	fac·et	lexical
+w01074	Unit 11	facilitate	fa·cil·i·tate	reviewed
+w01075	Unit 11	facility	fa·cil·i·ty	lexical
+w01076	Unit 11	factor	fac·tor	lexical
+w01077	Unit 11	faculty	fac·ul·ty	lexical
+w01078	Unit 11	fade	fade	lexical
+w01079	Unit 11	Fahrenheit	Fahr·en·heit	reviewed
+w01080	Unit 11	faint	faint	lexical
+w01081	Unit 11	fair	fair	lexical
+w01082	Unit 11	faith	faith	lexical
+w01083	Unit 11	fake	fake	lexical
+w01084	Unit 11	falcon	fal·con	lexical
+w01085	Unit 11	fame	fame	lexical
+w01086	Unit 11	familiar	fa·mil·iar	lexical
+w01087	Unit 11	famine	fam·ine	lexical
+w01088	Unit 11	fang	fang	lexical
+w01089	Unit 11	fantastic	fan·tas·tic	lexical
+w01090	Unit 11	fascinate	fas·ci·nate	lexical
+w01091	Unit 11	fascinating	fas·ci·nat·ing	reviewed
+w01092	Unit 11	fashion	fash·ion	lexical
+w01093	Unit 11	fasten	fas·ten	lexical
+w01094	Unit 11	fatal	fa·tal	lexical
+w01095	Unit 11	fatigue	fa·tigue	lexical
+w01096	Unit 11	fault	fault	lexical
+w01097	Unit 11	favourite	fa·vour·ite	reviewed
+w01098	Unit 11	feasible	fea·si·ble	lexical
+w01099	Unit 11	feat	feat	lexical
+w01100	Unit 11	feature	fea·ture	lexical
+w01101	Unit 11	federal	fed·er·al	lexical
+w01102	Unit 11	fee	fee	lexical
+w01103	Unit 11	feeble	fee·ble	lexical
+w01104	Unit 11	feedback	feed·back	lexical
+w01105	Unit 11	female	fe·male	lexical
+w01106	Unit 11	ferment	fer·ment	lexical
+w01107	Unit 11	ferry	fer·ry	reviewed
+w01108	Unit 11	fertile	fer·tile	lexical
+w01109	Unit 11	fertilizer	fer·ti·liz·er	lexical
+w01110	Unit 11	festival	fes·ti·val	lexical
+w01111	Unit 11	flip	flip	lexical
+w01112	Unit 11	fiber	fi·ber	lexical
+w01113	Unit 11	fiction	fic·tion	lexical
+w01114	Unit 11	field	field	lexical
+w01115	Unit 12	fierce	fierce	lexical
+w01116	Unit 12	figure	fig·ure	lexical
+w01117	Unit 12	file	file	lexical
+w01118	Unit 12	filter	fil·ter	lexical
+w01119	Unit 12	final	fi·nal	lexical
+w01120	Unit 12	finance	fi·nance	lexical
+w01121	Unit 12	financial	fi·nan·cial	lexical
+w01122	Unit 12	finite	fi·nite	lexical
+w01123	Unit 12	firm	firm	lexical
+w01124	Unit 12	flame	flame	lexical
+w01125	Unit 12	flash	flash	lexical
+w01126	Unit 12	flat	flat	lexical
+w01127	Unit 12	flatter	flat·ter	lexical
+w01128	Unit 12	flavour	fla·vour	reviewed
+w01129	Unit 12	flaw	flaw	lexical
+w01130	Unit 12	flee	flee	lexical
+w01131	Unit 12	flexible	flex·i·ble	lexical
+w01132	Unit 12	float	float	lexical
+w01133	Unit 12	flock	flock	lexical
+w01134	Unit 12	flora	flo·ra	lexical
+w01135	Unit 12	flourish	flour·ish	lexical
+w01136	Unit 12	flu	flu	lexical
+w01137	Unit 12	fluctuate	fluc·tu·ate	lexical
+w01138	Unit 12	fluid	flu·id	lexical
+w01139	Unit 12	focus	fo·cus	lexical
+w01140	Unit 12	fold	fold	lexical
+w01141	Unit 12	folklore	folk·lore	lexical
+w01142	Unit 12	forbid	for·bid	lexical
+w01143	Unit 12	forecast	fore·cast	lexical
+w01144	Unit 12	foresee	fore·see	lexical
+w01145	Unit 12	forgive	for·give	lexical
+w01146	Unit 12	forge	forge	lexical
+w01147	Unit 12	forgo	for·go	lexical
+w01148	Unit 12	format	for·mat	lexical
+w01149	Unit 12	formation	for·ma·tion	lexical
+w01150	Unit 12	former	for·mer	lexical
+w01151	Unit 12	formidable	for·mi·da·ble	reviewed
+w01152	Unit 12	formula	for·mu·la	lexical
+w01153	Unit 12	formulate	for·mu·late	lexical
+w01154	Unit 12	forthcoming	forth·com·ing	lexical
+w01155	Unit 12	fortnight	fort·night	reviewed
+w01156	Unit 12	forum	fo·rum	lexical
+w01157	Unit 12	fossil	fos·sil	lexical
+w01158	Unit 12	foster	fos·ter	lexical
+w01159	Unit 12	foul	foul	lexical
+w01160	Unit 12	found	found	lexical
+w01161	Unit 12	foundation	foun·da·tion	lexical
+w01162	Unit 12	fountain	foun·tain	lexical
+w01163	Unit 12	fraction	frac·tion	lexical
+w01164	Unit 12	fragile	frag·ile	lexical
+w01165	Unit 12	fragment	frag·ment	lexical
+w01166	Unit 12	fragrance	fra·grance	lexical
+w01167	Unit 12	framework	frame·work	lexical
+w01168	Unit 12	franchise	fran·chise	lexical
+w01169	Unit 12	fraud	fraud	lexical
+w01170	Unit 12	freeze	freeze	lexical
+w01171	Unit 12	freight	freight	lexical
+w01172	Unit 12	frequency	fre·quen·cy	lexical
+w01173	Unit 12	fresher	fresh·er	lexical
+w01174	Unit 12	friction	fric·tion	lexical
+w01175	Unit 12	fridge	fridge	lexical
+w01176	Unit 12	fringe	fringe	lexical
+w01177	Unit 12	frustrate	frus·trate	lexical
+w01178	Unit 12	frustrating	frus·trat·ing	lexical
+w01179	Unit 12	fuel	fu·el	lexical
+w01180	Unit 12	fulfill	ful·fill	reviewed
+w01181	Unit 12	fume	fume	lexical
+w01182	Unit 12	function	func·tion	lexical
+w01183	Unit 12	fund	fund	lexical
+w01184	Unit 12	fundamental	fun·da·men·tal	reviewed
+w01185	Unit 12	fungus	fun·gus	lexical
+w01186	Unit 12	furious	fu·ri·ous	reviewed
+w01187	Unit 12	furnish	fur·nish	lexical
+w01188	Unit 12	furniture	fur·ni·ture	reviewed
+w01189	Unit 12	furthermore	fur·ther·more	lexical
+w01190	Unit 12	fuse	fuse	lexical
+w01191	Unit 12	fuss	fuss	lexical
+w01192	Unit 12	futile	fu·tile	lexical
+w01193	Unit 12	galaxy	gal·ax·y	lexical
+w01194	Unit 12	gale	gale	lexical
+w01195	Unit 12	gallery	gal·ler·y	lexical
+w01196	Unit 12	gamble	gam·ble	lexical
+w01197	Unit 12	gang	gang	lexical
+w01198	Unit 12	gap	gap	lexical
+w01199	Unit 12	garbage	gar·bage	lexical
+w01200	Unit 12	garment	gar·ment	reviewed
+w01201	Unit 12	gather	gath·er	reviewed
+w01202	Unit 12	gay	gay	lexical
+w01203	Unit 12	gaze	gaze	lexical
+w01204	Unit 12	gear	gear	lexical
+w01205	Unit 12	gem	gem	lexical
+w01206	Unit 12	gender	gen·der	lexical
+w01207	Unit 12	gene	gene	lexical
+w01208	Unit 12	generalise	gen·er·al·ise	reviewed
+w01209	Unit 12	generate	gen·er·ate	lexical
+w01210	Unit 12	generation	gen·er·a·tion	lexical
+w01211	Unit 12	genius	gen·ius	lexical
+w01212	Unit 12	genuine	gen·u·ine	lexical
+w01213	Unit 12	geology	ge·ol·o·gy	reviewed
+w01214	Unit 12	geometry	ge·om·e·try	reviewed
+w01215	Unit 13	germ	germ	lexical
+w01216	Unit 13	gesture	ges·ture	lexical
+w01217	Unit 13	giant	gi·ant	lexical
+w01218	Unit 13	gift	gift	lexical
+w01219	Unit 13	gigantic	gi·gan·tic	reviewed
+w01220	Unit 13	ginger	gin·ger	lexical
+w01221	Unit 13	gist	gist	lexical
+w01222	Unit 13	gizmo	giz·mo	reviewed
+w01223	Unit 13	glamour	glam·our	lexical
+w01224	Unit 13	glance	glance	lexical
+w01225	Unit 13	gland	gland	lexical
+w01226	Unit 13	glare	glare	lexical
+w01227	Unit 13	glide	glide	lexical
+w01228	Unit 13	glimpse	glimpse	lexical
+w01229	Unit 13	global	glob·al	lexical
+w01230	Unit 13	globe	globe	lexical
+w01231	Unit 13	glorious	glo·ri·ous	lexical
+w01232	Unit 13	glossary	glos·sa·ry	lexical
+w01233	Unit 13	glow	glow	lexical
+w01234	Unit 13	glue	glue	lexical
+w01235	Unit 13	goal	goal	lexical
+w01236	Unit 13	golf	golf	lexical
+w01237	Unit 13	gorge	gorge	lexical
+w01238	Unit 13	gorgeous	gor·geous	lexical
+w01239	Unit 13	gossip	gos·sip	lexical
+w01240	Unit 13	gourmet	gour·met	reviewed
+w01241	Unit 13	govern	gov·ern	lexical
+w01242	Unit 13	grab	grab	lexical
+w01243	Unit 13	graceful	grace·ful	lexical
+w01244	Unit 13	grade	grade	lexical
+w01245	Unit 13	gradual	grad·u·al	lexical
+w01246	Unit 13	graduate	grad·u·ate	lexical
+w01247	Unit 13	grand	grand	lexical
+w01248	Unit 13	granite	gran·ite	lexical
+w01249	Unit 13	graphic	graph·ic	reviewed
+w01250	Unit 13	grasp	grasp	lexical
+w01251	Unit 13	grateful	grate·ful	lexical
+w01252	Unit 13	gratitude	grat·i·tude	reviewed
+w01253	Unit 13	gravity	grav·i·ty	reviewed
+w01254	Unit 13	greedy	greed·y	lexical
+w01255	Unit 13	greenhouse	green·house	lexical
+w01256	Unit 13	greet	greet	lexical
+w01257	Unit 13	grid	grid	lexical
+w01258	Unit 13	grief	grief	lexical
+w01259	Unit 13	grind	grind	lexical
+w01260	Unit 13	groom	groom	lexical
+w01261	Unit 13	gross	gross	lexical
+w01262	Unit 13	grudge	grudge	mono
+w01263	Unit 13	guarantee	guar·an·tee	lexical
+w01264	Unit 13	guardian	guard·i·an	reviewed
+w01265	Unit 13	guideline	guide·line	lexical
+w01266	Unit 13	guilt	guilt	lexical
+w01267	Unit 13	guilty	guilt·y	lexical
+w01268	Unit 13	gum	gum	lexical
+w01269	Unit 13	gust	gust	lexical
+w01270	Unit 13	gym	gym	lexical
+w01271	Unit 13	habitat	hab·i·tat	lexical
+w01272	Unit 13	habitual	ha·bit·u·al	lexical
+w01273	Unit 13	hail	hail	lexical
+w01274	Unit 13	hairdressing	hair·dress·ing	lexical
+w01275	Unit 13	halt	halt	lexical
+w01276	Unit 13	hallmark	hall·mark	lexical
+w01277	Unit 13	hallowed	hal·lowed	lexical
+w01278	Unit 13	hamper	ham·per	lexical
+w01279	Unit 13	handicap	hand·i·cap	reviewed
+w01280	Unit 13	handle	han·dle	lexical
+w01281	Unit 13	handout	hand·out	lexical
+w01282	Unit 13	haphazard	hap·haz·ard	lexical
+w01283	Unit 13	harass	ha·rass	lexical
+w01284	Unit 13	harbour	har·bour	reviewed
+w01285	Unit 13	harmony	har·mo·ny	lexical
+w01286	Unit 13	harness	har·ness	lexical
+w01287	Unit 13	harsh	harsh	lexical
+w01288	Unit 13	hatch	hatch	lexical
+w01289	Unit 13	haul	haul	lexical
+w01290	Unit 13	haunt	haunt	lexical
+w01291	Unit 13	hazard	haz·ard	reviewed
+w01292	Unit 13	heal	heal	lexical
+w01293	Unit 13	heap	heap	lexical
+w01294	Unit 13	heatstroke	heat·stroke	lexical
+w01295	Unit 13	hectare	hec·tare	lexical
+w01296	Unit 13	hectic	hec·tic	lexical
+w01297	Unit 13	heed	heed	lexical
+w01298	Unit 13	heighten	height·en	lexical
+w01299	Unit 13	heir	heir	lexical
+w01300	Unit 13	helicopter	hel·i·cop·ter	reviewed
+w01301	Unit 13	helix	he·lix	lexical
+w01302	Unit 13	hemisphere	hem·i·sphere	lexical
+w01303	Unit 13	hence	hence	lexical
+w01304	Unit 13	herb	herb	lexical
+w01305	Unit 13	herald	her·ald	lexical
+w01306	Unit 13	herbivore	her·bi·vore	lexical
+w01307	Unit 13	herd	herd	lexical
+w01308	Unit 13	heritage	her·it·age	lexical
+w01309	Unit 13	heroin	her·o·in	reviewed
+w01310	Unit 13	hesitate	hes·i·tate	lexical
+w01311	Unit 13	hesitation	hes·i·ta·tion	lexical
+w01312	Unit 13	hierarchy	hi·er·ar·chy	reviewed
+w01313	Unit 13	highlight	high·light	lexical
+w01314	Unit 13	hijack	hi·jack	lexical
+w01315	Unit 13	hike	hike	lexical
+w01316	Unit 13	hinder	hin·der	reviewed
+w01317	Unit 14	hinge	hinge	lexical
+w01318	Unit 14	hint	hint	lexical
+w01319	Unit 14	hire	hire	lexical
+w01320	Unit 14	historic	his·tor·ic	lexical
+w01321	Unit 14	hive	hive	lexical
+w01322	Unit 14	holistic	ho·lis·tic	lexical
+w01323	Unit 14	hockey	hock·ey	lexical
+w01324	Unit 14	hollow	hol·low	reviewed
+w01325	Unit 14	holy	ho·ly	lexical
+w01326	Unit 14	homestay	home·stay	lexical
+w01327	Unit 14	homogeneous	ho·mo·ge·ne·ous	reviewed
+w01328	Unit 14	honest	hon·est	lexical
+w01329	Unit 14	honesty	hon·es·ty	reviewed
+w01330	Unit 14	honk	honk	lexical
+w01331	Unit 14	honour	hon·our	reviewed
+w01332	Unit 14	hook	hook	lexical
+w01333	Unit 14	hop	hop	lexical
+w01334	Unit 14	horizon	ho·ri·zon	lexical
+w01335	Unit 14	horizontal	hor·i·zon·tal	reviewed
+w01336	Unit 14	hormone	hor·mone	lexical
+w01337	Unit 14	horrible	hor·ri·ble	lexical
+w01338	Unit 14	hospitality	hos·pi·tal·i·ty	lexical
+w01339	Unit 14	hostage	hos·tage	lexical
+w01340	Unit 14	hostel	hos·tel	lexical
+w01341	Unit 14	hostile	hos·tile	lexical
+w01342	Unit 14	hourglass	hour·glass	lexical
+w01343	Unit 14	hover	hov·er	lexical
+w01344	Unit 14	hug	hug	lexical
+w01345	Unit 14	hull	hull	lexical
+w01346	Unit 14	humanity	hu·man·i·ty	reviewed
+w01347	Unit 14	humble	hum·ble	lexical
+w01348	Unit 14	humidity	hu·mid·i·ty	lexical
+w01349	Unit 14	humiliate	hu·mil·i·ate	reviewed
+w01350	Unit 14	hurdle	hur·dle	lexical
+w01351	Unit 14	hurricane	hur·ri·cane	reviewed
+w01352	Unit 14	hybrid	hy·brid	lexical
+w01353	Unit 14	hygiene	hy·giene	lexical
+w01354	Unit 14	hypothesis	hy·poth·e·sis	reviewed
+w01355	Unit 14	icon	i·con	lexical
+w01356	Unit 14	ideal	i·de·al	lexical
+w01357	Unit 14	identical	i·den·ti·cal	lexical
+w01358	Unit 14	identify	i·den·ti·fy	lexical
+w01359	Unit 14	identity	i·den·ti·ty	reviewed
+w01360	Unit 14	ideology	i·de·ol·o·gy	reviewed
+w01361	Unit 14	idiom	id·i·om	reviewed
+w01362	Unit 14	idiot	id·i·ot	lexical
+w01363	Unit 14	idle	i·dle	lexical
+w01364	Unit 14	idol	i·dol	lexical
+w01365	Unit 14	ignition	ig·ni·tion	lexical
+w01366	Unit 14	ignorance	ig·no·rance	lexical
+w01367	Unit 14	ignorant	ig·no·rant	lexical
+w01368	Unit 14	ignore	ig·nore	lexical
+w01369	Unit 14	illegal	il·le·gal	lexical
+w01370	Unit 14	illiteracy	il·lit·er·a·cy	lexical
+w01371	Unit 14	illusion	il·lu·sion	lexical
+w01372	Unit 14	illustrate	il·lus·trate	reviewed
+w01373	Unit 14	image	im·age	lexical
+w01374	Unit 14	imitate	im·i·tate	lexical
+w01375	Unit 14	immature	im·ma·ture	reviewed
+w01376	Unit 14	immediate	im·me·di·ate	reviewed
+w01377	Unit 14	immense	im·mense	lexical
+w01378	Unit 14	immerse	im·merse	lexical
+w01379	Unit 14	immigrate	im·mi·grate	reviewed
+w01380	Unit 14	imminent	im·mi·nent	lexical
+w01381	Unit 14	immoral	im·mor·al	lexical
+w01382	Unit 14	immune	im·mune	lexical
+w01383	Unit 14	impair	im·pair	lexical
+w01384	Unit 14	impact	im·pact	lexical
+w01385	Unit 14	impair	im·pair	lexical
+w01386	Unit 14	impart	im·part	lexical
+w01387	Unit 14	impede	im·pede	lexical
+w01388	Unit 14	impetus	im·pe·tus	lexical
+w01389	Unit 14	implement	im·ple·ment	reviewed
+w01390	Unit 14	implicate	im·pli·cate	lexical
+w01391	Unit 14	implicit	im·plic·it	lexical
+w01392	Unit 14	imply	im·ply	lexical
+w01393	Unit 14	impose	im·pose	lexical
+w01394	Unit 14	impress	im·press	lexical
+w01395	Unit 14	improve	im·prove	lexical
+w01396	Unit 14	improvise	im·pro·vise	reviewed
+w01397	Unit 14	impulse	im·pulse	lexical
+w01398	Unit 14	inadequate	in·ad·e·quate	lexical
+w01399	Unit 14	incentive	in·cen·tive	reviewed
+w01400	Unit 14	incessant	in·ces·sant	reviewed
+w01401	Unit 14	incidence	in·ci·dence	lexical
+w01402	Unit 14	incident	in·ci·dent	lexical
+w01403	Unit 14	incite	in·cite	lexical
+w01404	Unit 14	inclination	in·cli·na·tion	lexical
+w01405	Unit 14	incline	in·cline	lexical
+w01406	Unit 14	inclusive	in·clu·sive	lexical
+w01407	Unit 14	income	in·come	lexical
+w01408	Unit 14	incorporate	in·cor·po·rate	lexical
+w01409	Unit 14	increase	in·crease	reviewed
+w01410	Unit 14	incredible	in·cred·i·ble	lexical
+w01411	Unit 14	increment	in·cre·ment	lexical
+w01412	Unit 14	incur	in·cur	lexical
+w01413	Unit 14	indefinite	in·def·i·nite	reviewed
+w01414	Unit 14	index	in·dex	lexical
+w01415	Unit 14	indicate	in·di·cate	lexical
+w01416	Unit 14	indicator	in·di·ca·tor	lexical
+w01417	Unit 14	indifferent	in·dif·fer·ent	reviewed
+w01418	Unit 14	indigenous	in·dig·e·nous	reviewed
+w01419	Unit 15	indispensable	in·dis·pen·sa·ble	lexical
+w01420	Unit 15	individual	in·di·vid·u·al	lexical
+w01421	Unit 15	induce	in·duce	lexical
+w01422	Unit 15	indulge	in·dulge	lexical
+w01423	Unit 15	industrious	in·dus·tri·ous	reviewed
+w01424	Unit 15	inept	in·ept	lexical
+w01425	Unit 15	inert	in·ert	lexical
+w01426	Unit 15	inevitable	in·ev·i·ta·ble	reviewed
+w01427	Unit 15	infant	in·fant	lexical
+w01428	Unit 15	infect	in·fect	lexical
+w01429	Unit 15	infer	in·fer	lexical
+w01430	Unit 15	inferior	in·fe·ri·or	reviewed
+w01431	Unit 15	infinite	in·fi·nite	lexical
+w01432	Unit 15	inflation	in·fla·tion	lexical
+w01433	Unit 15	influence	in·flu·ence	lexical
+w01434	Unit 15	influenza	in·flu·en·za	reviewed
+w01435	Unit 15	influx	in·flux	lexical
+w01436	Unit 15	inform	in·form	lexical
+w01437	Unit 15	informative	in·for·ma·tive	lexical
+w01438	Unit 15	infrastructure	in·fra·struc·ture	lexical
+w01439	Unit 15	infringe	in·fringe	lexical
+w01440	Unit 15	ingenious	in·gen·ious	lexical
+w01441	Unit 15	ingredient	in·gre·di·ent	reviewed
+w01442	Unit 15	inhabit	in·hab·it	lexical
+w01443	Unit 15	inhabitant	in·hab·it·ant	lexical
+w01444	Unit 15	inhale	in·hale	lexical
+w01445	Unit 15	inherent	in·her·ent	lexical
+w01446	Unit 15	inherit	in·her·it	reviewed
+w01447	Unit 15	inhibit	in·hib·it	lexical
+w01448	Unit 15	initial	in·i·tial	lexical
+w01449	Unit 15	initiate	in·i·ti·ate	reviewed
+w01450	Unit 15	inject	in·ject	lexical
+w01451	Unit 15	injury	in·ju·ry	lexical
+w01452	Unit 15	innate	in·nate	lexical
+w01453	Unit 15	inner	in·ner	lexical
+w01454	Unit 15	innocent	in·no·cent	lexical
+w01455	Unit 15	innovate	in·no·vate	lexical
+w01456	Unit 15	innovation	in·no·va·tion	lexical
+w01457	Unit 15	innumerable	in·nu·mer·a·ble	reviewed
+w01458	Unit 15	input	in·put	lexical
+w01459	Unit 15	inquiry	in·quir·y	lexical
+w01460	Unit 15	insane	in·sane	lexical
+w01461	Unit 15	insect	in·sect	lexical
+w01462	Unit 15	insert	in·sert	lexical
+w01463	Unit 15	insight	in·sight	lexical
+w01464	Unit 15	insist	in·sist	lexical
+w01465	Unit 15	insomnia	in·som·ni·a	lexical
+w01466	Unit 15	inspect	in·spect	lexical
+w01467	Unit 15	inspire	in·spire	lexical
+w01468	Unit 15	install	in·stall	lexical
+w01469	Unit 15	installment	in·stall·ment	lexical
+w01470	Unit 15	instance	in·stance	lexical
+w01471	Unit 15	instantaneous	in·stan·ta·ne·ous	reviewed
+w01472	Unit 15	instinct	in·stinct	lexical
+w01473	Unit 15	institute	in·sti·tute	lexical
+w01474	Unit 15	institution	in·sti·tu·tion	lexical
+w01475	Unit 15	instruct	in·struct	lexical
+w01476	Unit 15	instrument	in·stru·ment	lexical
+w01477	Unit 15	insufficient	in·suf·fi·cient	reviewed
+w01478	Unit 15	insulate	in·su·late	lexical
+w01479	Unit 15	insult	in·sult	lexical
+w01480	Unit 15	insure	in·sure	reviewed
+w01481	Unit 15	insurmountable	in·sur·mount·a·ble	lexical
+w01482	Unit 15	intact	in·tact	lexical
+w01483	Unit 15	intake	in·take	lexical
+w01484	Unit 15	integrate	in·te·grate	lexical
+w01485	Unit 15	integrity	in·teg·ri·ty	reviewed
+w01486	Unit 15	intellectual	in·tel·lec·tu·al	reviewed
+w01487	Unit 15	intelligence	in·tel·li·gence	reviewed
+w01488	Unit 15	intelligible	in·tel·li·gi·ble	reviewed
+w01489	Unit 15	intend	in·tend	lexical
+w01490	Unit 15	intense	in·tense	lexical
+w01491	Unit 15	intensive	in·ten·sive	lexical
+w01492	Unit 15	intention	in·ten·tion	lexical
+w01493	Unit 15	interact	in·ter·act	lexical
+w01494	Unit 15	interbreed	in·ter·breed	lexical
+w01495	Unit 15	interdependent	in·ter·de·pend·ent	reviewed
+w01496	Unit 15	interfere	in·ter·fere	reviewed
+w01497	Unit 15	interior	in·te·ri·or	reviewed
+w01498	Unit 15	intermediate	in·ter·me·di·ate	reviewed
+w01499	Unit 15	internal	in·ter·nal	lexical
+w01500	Unit 15	interpret	in·ter·pret	reviewed
+w01501	Unit 15	interrupt	in·ter·rupt	lexical
+w01502	Unit 15	intersection	in·ter·sec·tion	lexical
+w01503	Unit 15	interval	in·ter·val	lexical
+w01504	Unit 15	intervene	in·ter·vene	lexical
+w01505	Unit 15	interview	in·ter·view	lexical
+w01506	Unit 15	intestine	in·tes·tine	lexical
+w01507	Unit 15	intimate	in·ti·mate	lexical
+w01508	Unit 15	intricate	in·tri·cate	lexical
+w01509	Unit 15	intrinsic	in·trin·sic	lexical
+w01510	Unit 15	intrude	in·trude	reviewed
+w01511	Unit 15	intuition	in·tu·i·tion	lexical
+w01512	Unit 15	invade	in·vade	lexical
+w01513	Unit 15	invalid	in·val·id	lexical
+w01514	Unit 15	invaluable	in·val·u·a·ble	lexical
+w01515	Unit 15	invent	in·vent	lexical
+w01516	Unit 15	inventory	in·ven·to·ry	reviewed
+w01517	Unit 15	inverse	in·verse	lexical
+w01518	Unit 15	invest	in·vest	lexical
+w01519	Unit 15	investigate	in·ves·ti·gate	reviewed
+w01520	Unit 15	invite	in·vite	lexical
+w01521	Unit 16	invoice	in·voice	reviewed
+w01522	Unit 16	invoke	in·voke	lexical
+w01523	Unit 16	involve	in·volve	lexical
+w01524	Unit 16	irony	i·ro·ny	lexical
+w01525	Unit 16	irrelevant	ir·rel·e·vant	lexical
+w01526	Unit 16	irresistible	ir·re·sist·i·ble	lexical
+w01527	Unit 16	irrigation	ir·ri·ga·tion	lexical
+w01528	Unit 16	irritate	ir·ri·tate	lexical
+w01529	Unit 16	isolate	i·so·late	lexical
+w01530	Unit 16	issue	is·sue	lexical
+w01531	Unit 16	item	i·tem	lexical
+w01532	Unit 16	itch	itch	lexical
+w01533	Unit 16	itinerary	i·tin·er·ar·y	reviewed
+w01534	Unit 16	jail	jail	lexical
+w01535	Unit 16	jam	jam	lexical
+w01536	Unit 16	jar	jar	lexical
+w01537	Unit 16	jargon	jar·gon	reviewed
+w01538	Unit 16	jealous	jeal·ous	lexical
+w01539	Unit 16	jean	jean	mono
+w01540	Unit 16	jeopardize	jeop·ard·ize	lexical
+w01541	Unit 16	jewellery	jew·el·ler·y	lexical
+w01542	Unit 16	jigsaw	jig·saw	lexical
+w01543	Unit 16	jog	jog	lexical
+w01544	Unit 16	joint	joint	lexical
+w01545	Unit 16	journal	jour·nal	lexical
+w01546	Unit 16	journey	jour·ney	lexical
+w01547	Unit 16	judgment	judg·ment	lexical
+w01548	Unit 16	junction	junc·tion	lexical
+w01549	Unit 16	jungle	jun·gle	lexical
+w01550	Unit 16	junior	jun·ior	lexical
+w01551	Unit 16	junk	junk	lexical
+w01552	Unit 16	jury	ju·ry	lexical
+w01553	Unit 16	justice	jus·tice	lexical
+w01554	Unit 16	justify	jus·ti·fy	lexical
+w01555	Unit 16	juvenile	ju·ve·nile	lexical
+w01556	Unit 16	kangaroo	kan·ga·roo	reviewed
+w01557	Unit 16	keen	keen	lexical
+w01558	Unit 16	kidnap	kid·nap	lexical
+w01559	Unit 16	kidney	kid·ney	lexical
+w01560	Unit 16	kin	kin	lexical
+w01561	Unit 16	kiosk	ki·osk	lexical
+w01562	Unit 16	kit	kit	lexical
+w01563	Unit 16	kneel	kneel	lexical
+w01564	Unit 16	knight	knight	lexical
+w01565	Unit 16	knit	knit	lexical
+w01566	Unit 16	knob	knob	lexical
+w01567	Unit 16	knot	knot	lexical
+w01568	Unit 16	knowledge	knowl·edge	lexical
+w01569	Unit 16	knowledgeable	knowl·edge·a·ble	lexical
+w01570	Unit 16	label	la·bel	lexical
+w01571	Unit 16	laboratory	la·bor·a·to·ry	reviewed
+w01572	Unit 16	labour	la·bour	lexical
+w01573	Unit 16	lack	lack	lexical
+w01574	Unit 16	lag	lag	lexical
+w01575	Unit 16	lame	lame	lexical
+w01576	Unit 16	lament	la·ment	lexical
+w01577	Unit 16	landfill	land·fill	lexical
+w01578	Unit 16	landmark	land·mark	lexical
+w01579	Unit 16	landscape	land·scape	lexical
+w01580	Unit 16	lane	lane	lexical
+w01581	Unit 16	laptop	lap·top	reviewed
+w01582	Unit 16	larva	lar·va	lexical
+w01583	Unit 16	latitude	lat·i·tude	reviewed
+w01584	Unit 16	latter	lat·ter	lexical
+w01585	Unit 16	launch	launch	lexical
+w01586	Unit 16	laundry	laun·dry	lexical
+w01587	Unit 16	lava	la·va	lexical
+w01588	Unit 16	layer	lay·er	lexical
+w01589	Unit 16	layoff	lay·off	reviewed
+w01590	Unit 16	layout	lay·out	lexical
+w01591	Unit 16	leaflet	leaf·let	lexical
+w01592	Unit 16	leak	leak	lexical
+w01593	Unit 16	lean	lean	lexical
+w01594	Unit 16	leap	leap	lexical
+w01595	Unit 16	lease	lease	lexical
+w01596	Unit 16	leather	leath·er	lexical
+w01597	Unit 16	lecture	lec·ture	lexical
+w01598	Unit 16	legacy	leg·a·cy	lexical
+w01599	Unit 16	legal	le·gal	lexical
+w01600	Unit 16	legend	leg·end	lexical
+w01601	Unit 16	legendary	leg·end·ar·y	lexical
+w01602	Unit 16	legible	leg·i·ble	reviewed
+w01603	Unit 16	legislate	leg·is·late	reviewed
+w01604	Unit 16	leisure	lei·sure	lexical
+w01605	Unit 16	lemon	lem·on	reviewed
+w01606	Unit 16	lenient	le·ni·ent	lexical
+w01607	Unit 16	lens	lens	lexical
+w01608	Unit 16	lessen	less·en	lexical
+w01609	Unit 16	lesser	less·er	lexical
+w01610	Unit 16	lethal	le·thal	lexical
+w01611	Unit 16	lettuce	let·tuce	lexical
+w01612	Unit 16	lever	lev·er	lexical
+w01613	Unit 16	levy	lev·y	reviewed
+w01614	Unit 16	liability	li·a·bi·li·ty	lexical
+w01615	Unit 16	liable	li·a·ble	lexical
+w01616	Unit 16	liberal	lib·er·al	lexical
+w01617	Unit 16	license	li·cense	lexical
+w01618	Unit 16	lift	lift	lexical
+w01619	Unit 16	likelihood	like·li·hood	lexical
+w01620	Unit 16	likewise	like·wise	lexical
+w01621	Unit 16	lightning	light·ning	lexical
+w01622	Unit 17	linger	lin·ger	lexical
+w01623	Unit 17	linguist	lin·guist	lexical
+w01624	Unit 17	link	link	lexical
+w01625	Unit 17	liquid	liq·uid	lexical
+w01626	Unit 17	literacy	lit·er·a·cy	lexical
+w01627	Unit 17	literally	lit·er·al·ly	lexical
+w01628	Unit 17	literature	lit·er·a·ture	reviewed
+w01629	Unit 17	litter	lit·ter	lexical
+w01630	Unit 17	load	load	lexical
+w01631	Unit 17	loaf	loaf	lexical
+w01632	Unit 17	loan	loan	lexical
+w01633	Unit 17	lobby	lob·by	reviewed
+w01634	Unit 17	locality	lo·cal·i·ty	lexical
+w01635	Unit 17	locate	lo·cate	lexical
+w01636	Unit 17	lodge	lodge	lexical
+w01637	Unit 17	log	log	lexical
+w01638	Unit 17	logical	log·i·cal	lexical
+w01639	Unit 17	logistics	lo·gis·tics	reviewed
+w01640	Unit 17	logo	lo·go	lexical
+w01641	Unit 17	longitude	lon·gi·tude	reviewed
+w01642	Unit 17	long-term	long-term	lexical
+w01643	Unit 17	loom	loom	lexical
+w01644	Unit 17	loop	loop	lexical
+w01645	Unit 17	loosen	loos·en	lexical
+w01646	Unit 17	lotion	lo·tion	lexical
+w01647	Unit 17	lottery	lot·ter·y	reviewed
+w01648	Unit 17	lounge	lounge	lexical
+w01649	Unit 17	loyal	loy·al	lexical
+w01650	Unit 17	lubricate	lu·bri·cate	lexical
+w01651	Unit 17	lucrative	lu·cra·tive	lexical
+w01652	Unit 17	luggage	lug·gage	lexical
+w01653	Unit 17	lull	lull	lexical
+w01654	Unit 17	lump	lump	lexical
+w01655	Unit 17	lung	lung	lexical
+w01656	Unit 17	lure	lure	lexical
+w01657	Unit 17	luxurious	lux·u·ri·ous	reviewed
+w01658	Unit 17	lyric	lyr·ic	reviewed
+w01659	Unit 17	macro	mac·ro	lexical
+w01660	Unit 17	magic	mag·ic	lexical
+w01661	Unit 17	magma	mag·ma	lexical
+w01662	Unit 17	magnet	mag·net	lexical
+w01663	Unit 17	magnify	mag·ni·fy	lexical
+w01664	Unit 17	magnificent	mag·nif·i·cent	reviewed
+w01665	Unit 17	magnitude	mag·ni·tude	reviewed
+w01666	Unit 17	maiden	maid·en	lexical
+w01667	Unit 17	mainstream	main·stream	lexical
+w01668	Unit 17	maintain	main·tain	lexical
+w01669	Unit 17	majesty	maj·es·ty	reviewed
+w01670	Unit 17	major	ma·jor	lexical
+w01671	Unit 17	majority	ma·jor·i·ty	lexical
+w01672	Unit 17	malfunction	mal·func·tion	lexical
+w01673	Unit 17	mall	mall	lexical
+w01674	Unit 17	mammal	mam·mal	lexical
+w01675	Unit 17	mandatory	man·da·to·ry	reviewed
+w01676	Unit 17	manifest	man·i·fest	lexical
+w01677	Unit 17	manipulate	ma·nip·u·late	reviewed
+w01678	Unit 17	manoeuvre	ma·noeu·vre	reviewed
+w01679	Unit 17	mansion	man·sion	lexical
+w01680	Unit 17	mantle	man·tle	lexical
+w01681	Unit 17	manual	man·u·al	lexical
+w01682	Unit 17	manufacture	man·u·fac·ture	reviewed
+w01683	Unit 17	manuscript	man·u·script	lexical
+w01684	Unit 17	marathon	mar·a·thon	lexical
+w01685	Unit 17	marble	mar·ble	lexical
+w01686	Unit 17	margin	mar·gin	lexical
+w01687	Unit 17	marine	ma·rine	lexical
+w01688	Unit 17	maritime	mar·i·time	lexical
+w01689	Unit 17	mark	mark	mono
+w01690	Unit 17	marketing	mar·ket·ing	reviewed
+w01691	Unit 17	marvel	mar·vel	lexical
+w01692	Unit 17	masculine	mas·cu·line	lexical
+w01693	Unit 17	masquerade	mas·quer·ade	reviewed
+w01694	Unit 17	massacre	mas·sa·cre	lexical
+w01695	Unit 17	massive	mas·sive	lexical
+w01696	Unit 17	masterpiece	mas·ter·piece	lexical
+w01697	Unit 17	mate	mate	lexical
+w01698	Unit 17	material	ma·te·ri·al	reviewed
+w01699	Unit 17	maternal	ma·ter·nal	lexical
+w01700	Unit 17	matrix	ma·trix	lexical
+w01701	Unit 17	mattress	mat·tress	lexical
+w01702	Unit 17	mature	ma·ture	lexical
+w01703	Unit 17	maximise	max·i·mise	reviewed
+w01704	Unit 17	maximum	max·i·mum	lexical
+w01705	Unit 17	meadow	mead·ow	lexical
+w01706	Unit 17	mean	mean	lexical
+w01707	Unit 17	measure	meas·ure	lexical
+w01708	Unit 17	mechanism	mech·a·nis·m	reviewed
+w01709	Unit 17	media	me·di·a	lexical
+w01710	Unit 17	mediate	me·di·ate	lexical
+w01711	Unit 17	medical	med·i·cal	lexical
+w01712	Unit 17	medieval	me·di·e·val	reviewed
+w01713	Unit 17	medium	me·di·um	lexical
+w01714	Unit 17	melody	mel·o·dy	lexical
+w01715	Unit 17	melt	melt	lexical
+w01716	Unit 17	memorandum	mem·o·ran·dum	reviewed
+w01717	Unit 17	mental	men·tal	lexical
+w01718	Unit 17	mentor	men·tor	reviewed
+w01719	Unit 17	merchandise	mer·chan·dise	lexical
+w01720	Unit 17	mercury	mer·cu·ry	reviewed
+w01721	Unit 18	mercy	mer·cy	lexical
+w01722	Unit 18	merger	merg·er	lexical
+w01723	Unit 18	merit	mer·it	reviewed
+w01724	Unit 18	mesmerize	mes·mer·ize	lexical
+w01725	Unit 18	mess	mess	lexical
+w01726	Unit 18	metabolism	me·tab·o·lis·m	reviewed
+w01727	Unit 18	meteorology	me·te·or·ol·o·gy	lexical
+w01728	Unit 18	method	meth·od	lexical
+w01729	Unit 18	metropolis	me·trop·o·lis	reviewed
+w01730	Unit 18	microscope	mi·cro·scope	lexical
+w01731	Unit 18	migrate	mi·grate	lexical
+w01732	Unit 18	mild	mild	lexical
+w01733	Unit 18	milestone	mile·stone	lexical
+w01734	Unit 18	military	mil·i·tar·y	lexical
+w01735	Unit 18	millennium	mil·len·ni·um	reviewed
+w01736	Unit 18	mimic	mim·ic	reviewed
+w01737	Unit 18	mineral	min·er·al	lexical
+w01738	Unit 18	miniature	min·ia·ture	reviewed
+w01739	Unit 18	minimal	min·i·mal	reviewed
+w01740	Unit 18	minimise	min·i·mise	reviewed
+w01741	Unit 18	minimum	min·i·mum	lexical
+w01742	Unit 18	ministry	min·is·try	lexical
+w01743	Unit 18	minor	mi·nor	lexical
+w01744	Unit 18	minority	mi·nor·i·ty	lexical
+w01745	Unit 18	mint	mint	lexical
+w01746	Unit 18	minus	mi·nus	lexical
+w01747	Unit 18	miracle	mir·a·cle	lexical
+w01748	Unit 18	miscellaneous	mis·cel·la·ne·ous	lexical
+w01749	Unit 18	miserable	mis·er·a·ble	lexical
+w01750	Unit 18	mishap	mis·hap	lexical
+w01751	Unit 18	missile	mis·sile	lexical
+w01752	Unit 18	mission	mis·sion	lexical
+w01753	Unit 18	mitigate	mit·i·gate	lexical
+w01754	Unit 18	mixture	mix·ture	lexical
+w01755	Unit 18	moan	moan	lexical
+w01756	Unit 18	mobility	mo·bil·i·ty	lexical
+w01757	Unit 18	mock	mock	lexical
+w01758	Unit 18	mode	mode	lexical
+w01759	Unit 18	model	mod·el	lexical
+w01760	Unit 18	moderate	mod·er·ate	lexical
+w01761	Unit 18	modest	mod·est	lexical
+w01762	Unit 18	modify	mod·i·fy	lexical
+w01763	Unit 18	module	mod·ule	lexical
+w01764	Unit 18	moist	moist	lexical
+w01765	Unit 18	moisture	mois·ture	lexical
+w01766	Unit 18	monitor	mon·i·tor	lexical
+w01767	Unit 18	molecule	mol·e·cule	lexical
+w01768	Unit 18	monopoly	mo·nop·o·ly	reviewed
+w01769	Unit 18	monsoon	mon·soon	reviewed
+w01770	Unit 18	monument	mon·u·ment	lexical
+w01771	Unit 18	mop	mop	lexical
+w01772	Unit 18	moral	mor·al	lexical
+w01773	Unit 18	morphine	mor·phine	reviewed
+w01774	Unit 18	mortal	mor·tal	lexical
+w01775	Unit 18	mortgage	mort·gage	lexical
+w01776	Unit 18	mortify	mor·ti·fy	lexical
+w01777	Unit 18	mosquito	mos·qui·to	reviewed
+w01778	Unit 18	motion	mo·tion	lexical
+w01779	Unit 18	motivate	mo·ti·vate	lexical
+w01780	Unit 18	motive	mo·tive	lexical
+w01781	Unit 18	motto	mot·to	lexical
+w01782	Unit 18	mould	mould	lexical
+w01783	Unit 18	mount	mount	lexical
+w01784	Unit 18	mow	mow	lexical
+w01785	Unit 18	muffle	muf·fle	lexical
+w01786	Unit 18	multiply	mul·ti·ply	lexical
+w01787	Unit 18	mundane	mun·dane	lexical
+w01788	Unit 18	municipal	mu·nic·i·pal	reviewed
+w01789	Unit 18	murmur	mur·mur	lexical
+w01790	Unit 18	muscle	mus·cle	lexical
+w01791	Unit 18	muscular	mus·cu·lar	reviewed
+w01792	Unit 18	mushroom	mush·room	lexical
+w01793	Unit 18	mustard	mus·tard	reviewed
+w01794	Unit 18	mute	mute	lexical
+w01795	Unit 18	mutual	mu·tu·al	lexical
+w01796	Unit 18	mystery	mys·ter·y	lexical
+w01797	Unit 18	myth	myth	lexical
+w01798	Unit 18	nail	nail	lexical
+w01799	Unit 18	naive	na·ive	lexical
+w01800	Unit 18	naked	na·ked	lexical
+w01801	Unit 18	namely	name·ly	lexical
+w01802	Unit 18	narrate	nar·rate	lexical
+w01803	Unit 18	narrow	nar·row	lexical
+w01804	Unit 18	national	na·tion·al	lexical
+w01805	Unit 18	native	na·tive	lexical
+w01806	Unit 18	naughty	naugh·ty	lexical
+w01807	Unit 18	navigable	nav·i·ga·ble	lexical
+w01808	Unit 18	navigate	nav·i·gate	lexical
+w01809	Unit 18	navigation	nav·i·ga·tion	lexical
+w01810	Unit 18	neat	neat	lexical
+w01811	Unit 18	necessity	ne·ces·si·ty	lexical
+w01812	Unit 18	negate	ne·gate	lexical
+w01813	Unit 18	negative	neg·a·tive	lexical
+w01814	Unit 18	neglect	ne·glect	lexical
+w01815	Unit 18	negligible	neg·li·gi·ble	reviewed
+w01816	Unit 18	negotiate	ne·go·ti·ate	reviewed
+w01817	Unit 18	nerve	nerve	lexical
+w01818	Unit 18	network	net·work	lexical
+w01819	Unit 19	neutral	neu·tral	lexical
+w01820	Unit 19	nevertheless	nev·er·the·less	lexical
+w01821	Unit 19	New Zealand	New Zeal·and	reviewed
+w01822	Unit 19	nightmare	night·mare	lexical
+w01823	Unit 19	nobility	no·bil·i·ty	reviewed
+w01824	Unit 19	nocturnal	noc·tur·nal	lexical
+w01825	Unit 19	nominate	nom·i·nate	lexical
+w01826	Unit 19	nonetheless	none·the·less	lexical
+w01827	Unit 19	norm	norm	mono
+w01828	Unit 19	normal	nor·mal	lexical
+w01829	Unit 19	nostalgia	nos·tal·gia	lexical
+w01830	Unit 19	notable	no·ta·ble	lexical
+w01831	Unit 19	noticeable	no·tice·a·ble	lexical
+w01832	Unit 19	notify	no·ti·fy	reviewed
+w01833	Unit 19	notion	no·tion	lexical
+w01834	Unit 19	notorious	no·to·ri·ous	reviewed
+w01835	Unit 19	notwithstanding	not·with·stand·ing	lexical
+w01836	Unit 19	nourish	nour·ish	lexical
+w01837	Unit 19	novelty	nov·el·ty	reviewed
+w01838	Unit 19	novice	nov·ice	lexical
+w01839	Unit 19	noxious	nox·ious	lexical
+w01840	Unit 19	nuclear	nu·cle·ar	reviewed
+w01841	Unit 19	nuisance	nui·sance	lexical
+w01842	Unit 19	numerous	nu·mer·ous	reviewed
+w01843	Unit 19	nursery	nurs·er·y	reviewed
+w01844	Unit 19	nurture	nur·ture	lexical
+w01845	Unit 19	nutrition	nu·tri·tion	lexical
+w01846	Unit 19	nylon	ny·lon	reviewed
+w01847	Unit 19	oasis	o·a·sis	reviewed
+w01848	Unit 19	oath	oath	lexical
+w01849	Unit 19	obese	o·bese	lexical
+w01850	Unit 19	obey	o·bey	lexical
+w01851	Unit 19	obedient	o·be·di·ent	reviewed
+w01852	Unit 19	objection	ob·jec·tion	lexical
+w01853	Unit 19	objective	ob·jec·tive	lexical
+w01854	Unit 19	obligation	ob·li·ga·tion	lexical
+w01855	Unit 19	oblige	o·blige	lexical
+w01856	Unit 19	oblivious	ob·liv·i·ous	reviewed
+w01857	Unit 19	obscure	ob·scure	lexical
+w01858	Unit 19	observation	ob·ser·va·tion	lexical
+w01859	Unit 19	observe	ob·serve	lexical
+w01860	Unit 19	obsess	ob·sess	lexical
+w01861	Unit 19	obsolete	ob·so·lete	lexical
+w01862	Unit 19	obstacle	ob·sta·cle	lexical
+w01863	Unit 19	obstruct	ob·struct	lexical
+w01864	Unit 19	obstruction	ob·struc·tion	lexical
+w01865	Unit 19	obtrusive	ob·tru·sive	lexical
+w01866	Unit 19	obvious	ob·vi·ous	lexical
+w01867	Unit 19	occasion	oc·ca·sion	lexical
+w01868	Unit 19	occupy	oc·cu·py	lexical
+w01869	Unit 19	occur	oc·cur	lexical
+w01870	Unit 19	occurrence	oc·cur·rence	lexical
+w01871	Unit 19	odd	odd	lexical
+w01872	Unit 19	odds	odds	lexical
+w01873	Unit 19	odour	o·dour	lexical
+w01874	Unit 19	official	of·fi·cial	lexical
+w01875	Unit 19	officious	of·fi·cious	lexical
+w01876	Unit 19	off-season	off-sea·son	lexical
+w01877	Unit 19	offset	off·set	lexical
+w01878	Unit 19	offspring	off·spring	lexical
+w01879	Unit 19	olive	ol·ive	lexical
+w01880	Unit 19	omit	o·mit	lexical
+w01881	Unit 19	ongoing	on·go·ing	lexical
+w01882	Unit 19	ooze	ooze	lexical
+w01883	Unit 19	opacity	o·pac·i·ty	lexical
+w01884	Unit 19	opaque	o·paque	lexical
+w01885	Unit 19	operate	op·er·ate	lexical
+w01886	Unit 19	opinion	o·pin·ion	lexical
+w01887	Unit 19	opponent	op·po·nent	lexical
+w01888	Unit 19	opposite	op·po·site	lexical
+w01889	Unit 19	oppress	op·press	lexical
+w01890	Unit 19	opt	opt	lexical
+w01891	Unit 19	optical	op·ti·cal	lexical
+w01892	Unit 19	optimal	op·ti·mal	lexical
+w01893	Unit 19	optimistic	op·ti·mis·tic	lexical
+w01894	Unit 19	option	op·tion	lexical
+w01895	Unit 19	orchestra	or·ches·tra	lexical
+w01896	Unit 19	orbit	or·bit	lexical
+w01897	Unit 19	order	or·der	lexical
+w01898	Unit 19	ore	ore	lexical
+w01899	Unit 19	organism	or·gan·is·m	reviewed
+w01900	Unit 19	organise	or·gan·ise	reviewed
+w01901	Unit 19	oriental	o·ri·en·tal	lexical
+w01902	Unit 19	original	o·rig·i·nal	reviewed
+w01903	Unit 19	originate	o·rig·i·nate	lexical
+w01904	Unit 19	ornament	or·na·ment	reviewed
+w01905	Unit 19	orthodox	or·tho·dox	lexical
+w01906	Unit 19	otherwise	oth·er·wise	lexical
+w01907	Unit 19	ounce	ounce	lexical
+w01908	Unit 19	outcome	out·come	lexical
+w01909	Unit 19	outfit	out·fit	lexical
+w01910	Unit 19	outlet	out·let	lexical
+w01911	Unit 19	outline	out·line	lexical
+w01912	Unit 19	output	out·put	lexical
+w01913	Unit 19	outset	out·set	lexical
+w01914	Unit 19	outstanding	out·stand·ing	lexical
+w01915	Unit 19	outweigh	out·weigh	lexical
+w01916	Unit 19	overall	o·ver·all	lexical
+w01917	Unit 19	overcome	o·ver·come	lexical
+w01918	Unit 19	overdue	o·ver·due	lexical
+w01919	Unit 19	overlap	o·ver·lap	lexical
+w01920	Unit 19	overlook	o·ver·look	lexical
+w01921	Unit 20	overseas	o·ver·seas	lexical
+w01922	Unit 20	oversee	o·ver·see	lexical
+w01923	Unit 20	overshadow	o·ver·shad·ow	lexical
+w01924	Unit 20	overtime	o·ver·time	lexical
+w01925	Unit 20	overwhelming	o·ver·whelm·ing	reviewed
+w01926	Unit 20	owe	owe	lexical
+w01927	Unit 20	ownership	own·er·ship	lexical
+w01928	Unit 20	oxide	ox·ide	lexical
+w01929	Unit 20	ozone	o·zone	lexical
+w01930	Unit 20	pace	pace	lexical
+w01931	Unit 20	pacific	pa·cif·ic	reviewed
+w01932	Unit 20	package	pack·age	lexical
+w01933	Unit 20	packaging	pack·ag·ing	reviewed
+w01934	Unit 20	pagoda	pa·go·da	reviewed
+w01935	Unit 20	painstaking	pains·tak·ing	lexical
+w01936	Unit 20	palm	palm	lexical
+w01937	Unit 20	pamphlet	pam·phlet	lexical
+w01938	Unit 20	panel	pan·el	lexical
+w01939	Unit 20	panic	pan·ic	reviewed
+w01940	Unit 20	paperback	pa·per·back	lexical
+w01941	Unit 20	parachute	par·a·chute	lexical
+w01942	Unit 20	parade	pa·rade	lexical
+w01943	Unit 20	paradise	par·a·dise	reviewed
+w01944	Unit 20	paradox	par·a·dox	lexical
+w01945	Unit 20	paragraph	par·a·graph	lexical
+w01946	Unit 20	parallel	par·al·lel	lexical
+w01947	Unit 20	paralyse	par·a·lyse	lexical
+w01948	Unit 20	parameter	pa·ram·e·ter	reviewed
+w01949	Unit 20	paramount	par·a·mount	lexical
+w01950	Unit 20	paraphrase	par·a·phrase	reviewed
+w01951	Unit 20	parasitic	par·a·sit·ic	lexical
+w01952	Unit 20	parlour	par·lour	reviewed
+w01953	Unit 20	partial	par·tial	lexical
+w01954	Unit 20	participate	par·tic·i·pate	reviewed
+w01955	Unit 20	particle	par·ti·cle	lexical
+w01956	Unit 20	particularly	par·tic·u·lar·ly	lexical
+w01957	Unit 20	partner	part·ner	lexical
+w01958	Unit 20	passion	pas·sion	lexical
+w01959	Unit 20	passive	pas·sive	lexical
+w01960	Unit 20	pastime	pas·time	reviewed
+w01961	Unit 20	patent	pat·ent	lexical
+w01962	Unit 20	patriot	pa·tri·ot	lexical
+w01963	Unit 20	patrol	pa·trol	lexical
+w01964	Unit 20	patron	pa·tron	lexical
+w01965	Unit 20	pattern	pat·tern	lexical
+w01966	Unit 20	pause	pause	lexical
+w01967	Unit 20	payroll	pay·roll	lexical
+w01968	Unit 20	peak	peak	lexical
+w01969	Unit 20	peculiar	pe·cu·liar	lexical
+w01970	Unit 20	pedal	ped·al	lexical
+w01971	Unit 20	pedestrian	pe·des·tri·an	reviewed
+w01972	Unit 20	peel	peel	lexical
+w01973	Unit 20	peep	peep	lexical
+w01974	Unit 20	peer	peer	lexical
+w01975	Unit 20	penalty	pen·al·ty	reviewed
+w01976	Unit 20	penetrate	pen·e·trate	reviewed
+w01977	Unit 20	penguin	pen·guin	lexical
+w01978	Unit 20	penicillin	pen·i·cil·lin	lexical
+w01979	Unit 20	penny	pen·ny	lexical
+w01980	Unit 20	pension	pen·sion	lexical
+w01981	Unit 20	per	per	lexical
+w01982	Unit 20	perceive	per·ceive	lexical
+w01983	Unit 20	percent	per·cent	lexical
+w01984	Unit 20	percentage	per·cent·age	lexical
+w01985	Unit 20	perennial	per·en·ni·al	lexical
+w01986	Unit 20	performance	per·for·mance	lexical
+w01987	Unit 20	peril	per·il	lexical
+w01988	Unit 20	period	pe·ri·od	lexical
+w01989	Unit 20	periodical	pe·ri·od·i·cal	lexical
+w01990	Unit 20	peripheral	pe·riph·er·al	reviewed
+w01991	Unit 20	perish	per·ish	lexical
+w01992	Unit 20	permanent	per·ma·nent	lexical
+w01993	Unit 20	permissible	per·mis·si·ble	reviewed
+w01994	Unit 20	permit	per·mit	lexical
+w01995	Unit 20	perplex	per·plex	lexical
+w01996	Unit 20	persevere	per·se·vere	lexical
+w01997	Unit 20	persist	per·sist	lexical
+w01998	Unit 20	personality	per·son·al·i·ty	lexical
+w01999	Unit 20	personnel	per·son·nel	lexical
+w02000	Unit 20	perspective	per·spec·tive	lexical
+w02001	Unit 20	persuade	per·suade	lexical
+w02002	Unit 20	pertinent	per·ti·nent	lexical
+w02003	Unit 20	pervade	per·vade	lexical
+w02004	Unit 20	pessimistic	pes·si·mis·tic	reviewed
+w02005	Unit 20	pest	pest	lexical
+w02006	Unit 20	petition	pe·ti·tion	lexical
+w02007	Unit 20	petroleum	pe·tro·le·um	reviewed
+w02008	Unit 20	pharmacy	phar·ma·cy	reviewed
+w02009	Unit 20	phase	phase	lexical
+w02010	Unit 20	phenomenon	phe·nom·e·non	reviewed
+w02011	Unit 20	philosophy	phi·los·o·phy	lexical
+w02012	Unit 20	physical	phys·i·cal	lexical
+w02013	Unit 20	physician	phy·si·cian	lexical
+w02014	Unit 20	physiology	phys·i·ol·o·gy	lexical
+w02015	Unit 20	picnic	pic·nic	lexical
+w02016	Unit 21	picturesque	pic·tur·esque	lexical
+w02017	Unit 21	pie	pie	lexical
+w02018	Unit 21	pierce	pierce	lexical
+w02019	Unit 21	pigment	pig·ment	lexical
+w02020	Unit 21	pill	pill	lexical
+w02021	Unit 21	pillar	pil·lar	lexical
+w02022	Unit 21	pimple	pim·ple	reviewed
+w02023	Unit 21	pinpoint	pin·point	lexical
+w02024	Unit 21	pioneer	pi·o·neer	lexical
+w02025	Unit 21	pirate	pi·rate	lexical
+w02026	Unit 21	pitfall	pit·fall	lexical
+w02027	Unit 21	pivot	piv·ot	lexical
+w02028	Unit 21	placement	place·ment	lexical
+w02029	Unit 21	plagiarism	pla·gia·ris·m	reviewed
+w02030	Unit 21	plague	plague	lexical
+w02031	Unit 21	plain	plain	lexical
+w02032	Unit 21	plastic	plas·tic	lexical
+w02033	Unit 21	plateau	pla·teau	lexical
+w02034	Unit 21	platform	plat·form	lexical
+w02035	Unit 21	plausible	plau·si·ble	lexical
+w02036	Unit 21	plea	plea	lexical
+w02037	Unit 21	pledge	pledge	lexical
+w02038	Unit 21	plentiful	plen·ti·ful	reviewed
+w02039	Unit 21	plight	plight	lexical
+w02040	Unit 21	plot	plot	lexical
+w02041	Unit 21	plum	plum	lexical
+w02042	Unit 21	plume	plume	lexical
+w02043	Unit 21	plummet	plum·met	lexical
+w02044	Unit 21	plunge	plunge	lexical
+w02045	Unit 21	plus	plus	lexical
+w02046	Unit 21	poet	po·et	lexical
+w02047	Unit 21	policy	pol·i·cy	lexical
+w02048	Unit 21	polish	pol·ish	reviewed
+w02049	Unit 21	poll	poll	lexical
+w02050	Unit 21	pope	pope	lexical
+w02051	Unit 21	popularity	pop·u·lar·i·ty	lexical
+w02052	Unit 21	porcelain	por·ce·lain	reviewed
+w02053	Unit 21	pore	pore	lexical
+w02054	Unit 21	pornography	por·nog·ra·phy	lexical
+w02055	Unit 21	portable	port·a·ble	lexical
+w02056	Unit 21	portfolio	port·fo·li·o	reviewed
+w02057	Unit 21	portion	por·tion	lexical
+w02058	Unit 21	portray	por·tray	lexical
+w02059	Unit 21	pose	pose	lexical
+w02060	Unit 21	positive	pos·i·tive	lexical
+w02061	Unit 21	possess	pos·sess	lexical
+w02062	Unit 21	possession	pos·ses·sion	lexical
+w02063	Unit 21	postage	post·age	lexical
+w02064	Unit 21	postgraduate	post·grad·u·ate	lexical
+w02065	Unit 21	postpone	post·pone	lexical
+w02066	Unit 21	postulate	pos·tu·late	lexical
+w02067	Unit 21	potent	po·tent	lexical
+w02068	Unit 21	potential	po·ten·tial	lexical
+w02069	Unit 21	pour	pour	lexical
+w02070	Unit 21	poverty	pov·er·ty	lexical
+w02071	Unit 21	practical	prac·ti·cal	reviewed
+w02072	Unit 21	preach	preach	lexical
+w02073	Unit 21	precaution	pre·cau·tion	lexical
+w02074	Unit 21	precede	pre·cede	lexical
+w02075	Unit 21	precedent	prec·e·dent	lexical
+w02076	Unit 21	precise	pre·cise	lexical
+w02077	Unit 21	predator	pred·a·tor	lexical
+w02078	Unit 21	predict	pre·dict	lexical
+w02079	Unit 21	predominant	pre·dom·i·nant	reviewed
+w02080	Unit 21	preference	pref·er·ence	lexical
+w02081	Unit 21	prefix	pre·fix	lexical
+w02082	Unit 21	pregnant	preg·nant	lexical
+w02083	Unit 21	prejudice	prej·u·dice	lexical
+w02084	Unit 21	preliminary	pre·lim·i·nar·y	lexical
+w02085	Unit 21	premise	prem·ise	lexical
+w02086	Unit 21	premium	pre·mi·um	lexical
+w02087	Unit 21	prerequisite	pre·req·ui·site	lexical
+w02088	Unit 21	prescribe	pre·scribe	lexical
+w02089	Unit 21	prescription	pre·scrip·tion	lexical
+w02090	Unit 21	presence	pres·ence	lexical
+w02091	Unit 21	presentation	pres·en·ta·tion	lexical
+w02092	Unit 21	preserve	pre·serve	lexical
+w02093	Unit 21	press	press	lexical
+w02094	Unit 21	pressure	pres·sure	lexical
+w02095	Unit 21	prestige	pres·tige	lexical
+w02096	Unit 21	presume	pre·sume	lexical
+w02097	Unit 21	prevail	pre·vail	lexical
+w02098	Unit 21	prevalent	prev·a·lent	lexical
+w02099	Unit 21	previous	pre·vi·ous	lexical
+w02100	Unit 21	prey	prey	lexical
+w02101	Unit 21	primary	pri·ma·ry	lexical
+w02102	Unit 21	prime	prime	lexical
+w02103	Unit 21	primitive	prim·i·tive	lexical
+w02104	Unit 21	principal	prin·ci·pal	reviewed
+w02105	Unit 21	principle	prin·ci·ple	lexical
+w02106	Unit 21	prior	pri·or	lexical
+w02107	Unit 21	priority	pri·or·i·ty	lexical
+w02108	Unit 21	privacy	pri·va·cy	lexical
+w02109	Unit 21	privilege	priv·i·lege	lexical
+w02110	Unit 21	prize	prize	lexical
+w02111	Unit 21	probe	probe	lexical
+w02112	Unit 21	procedure	pro·ce·dure	lexical
+w02113	Unit 21	proceed	pro·ceed	lexical
+w02114	Unit 21	process	proc·ess	lexical
+w02115	Unit 21	produce	pro·duce	lexical
+w02116	Unit 21	productivity	pro·duc·tiv·i·ty	lexical
+w02117	Unit 22	professional	pro·fes·sion·al	lexical
+w02118	Unit 22	proficiency	pro·fi·cien·cy	reviewed
+w02119	Unit 22	profile	pro·file	lexical
+w02120	Unit 22	profit	prof·it	lexical
+w02121	Unit 22	profound	pro·found	lexical
+w02122	Unit 22	programme	pro·gramme	reviewed
+w02123	Unit 22	progress	prog·ress	lexical
+w02124	Unit 22	prohibit	pro·hib·it	lexical
+w02125	Unit 22	project	proj·ect	lexical
+w02126	Unit 22	proliferate	pro·lif·er·ate	lexical
+w02127	Unit 22	prolong	pro·long	lexical
+w02128	Unit 22	prominent	prom·i·nent	lexical
+w02129	Unit 22	promising	pro·mi·sing	lexical
+w02130	Unit 22	promote	pro·mote	lexical
+w02131	Unit 22	prompt	prompt	lexical
+w02132	Unit 22	prone	prone	lexical
+w02133	Unit 22	proofread	proof·read	lexical
+w02134	Unit 22	propel	pro·pel	lexical
+w02135	Unit 22	property	prop·er·ty	lexical
+w02136	Unit 22	prophet	proph·et	lexical
+w02137	Unit 22	proponent	pro·po·nent	lexical
+w02138	Unit 22	proportion	pro·por·tion	lexical
+w02139	Unit 22	proposal	pro·pos·al	reviewed
+w02140	Unit 22	prosecute	pros·e·cute	lexical
+w02141	Unit 22	prospect	pros·pect	lexical
+w02142	Unit 22	prosper	pros·per	lexical
+w02143	Unit 22	prosperous	pros·per·ous	lexical
+w02144	Unit 22	protein	pro·tein	lexical
+w02145	Unit 22	protest	pro·test	lexical
+w02146	Unit 22	protocol	pro·to·col	lexical
+w02147	Unit 22	prototype	pro·to·type	lexical
+w02148	Unit 22	proverb	prov·erb	lexical
+w02149	Unit 22	provided	pro·vi·ded	lexical
+w02150	Unit 22	province	prov·ince	lexical
+w02151	Unit 22	provision	pro·vi·sion	lexical
+w02152	Unit 22	provoke	pro·voke	lexical
+w02153	Unit 22	proximity	prox·im·i·ty	reviewed
+w02154	Unit 22	psychology	psy·chol·o·gy	lexical
+w02155	Unit 22	publication	pub·li·ca·tion	lexical
+w02156	Unit 22	publicity	pub·lic·i·ty	lexical
+w02157	Unit 22	publish	pub·lish	lexical
+w02158	Unit 22	pulse	pulse	lexical
+w02159	Unit 22	pump	pump	lexical
+w02160	Unit 22	punctual	punc·tu·al	reviewed
+w02161	Unit 22	purchase	pur·chase	lexical
+w02162	Unit 22	purity	pu·ri·ty	lexical
+w02163	Unit 22	pursuit	pur·suit	lexical
+w02164	Unit 22	puzzle	puz·zle	lexical
+w02165	Unit 22	pyramid	pyr·a·mid	lexical
+w02166	Unit 22	quadruple	quad·ru·ple	reviewed
+w02167	Unit 22	quake	quake	lexical
+w02168	Unit 22	qualification	qual·i·fi·ca·tion	reviewed
+w02169	Unit 22	qualify	qual·i·fy	reviewed
+w02170	Unit 22	qualitative	qual·i·ta·tive	reviewed
+w02171	Unit 22	qualify	qual·i·fy	reviewed
+w02172	Unit 22	quarantine	quar·an·tine	lexical
+w02173	Unit 22	quarrel	quar·rel	lexical
+w02174	Unit 22	quartz	quartz	lexical
+w02175	Unit 22	query	que·ry	lexical
+w02176	Unit 22	questionnaire	ques·tion·naire	lexical
+w02177	Unit 22	queue	queue	lexical
+w02178	Unit 22	quit	quit	lexical
+w02179	Unit 22	quiz	quiz	lexical
+w02180	Unit 22	quota	quo·ta	lexical
+w02181	Unit 22	quote	quote	lexical
+w02182	Unit 22	race	race	lexical
+w02183	Unit 22	radiate	ra·di·ate	lexical
+w02184	Unit 22	radical	rad·i·cal	lexical
+w02185	Unit 22	radius	ra·di·us	lexical
+w02186	Unit 22	rage	rage	lexical
+w02187	Unit 22	ragged	rag·ged	lexical
+w02188	Unit 22	raid	raid	lexical
+w02189	Unit 22	raincoat	rain·coat	lexical
+w02190	Unit 22	random	ran·dom	lexical
+w02191	Unit 22	range	range	lexical
+w02192	Unit 22	ranking	rank·ing	lexical
+w02193	Unit 22	rash	rash	lexical
+w02194	Unit 22	rate	rate	lexical
+w02195	Unit 22	ratio	ra·ti·o	lexical
+w02196	Unit 22	rational	ra·tion·al	lexical
+w02197	Unit 22	raw	raw	lexical
+w02198	Unit 22	razor	ra·zor	lexical
+w02199	Unit 22	react	re·act	lexical
+w02200	Unit 22	realistic	re·al·is·tic	lexical
+w02201	Unit 22	reality	re·al·i·ty	lexical
+w02202	Unit 22	realm	realm	lexical
+w02203	Unit 22	reap	reap	lexical
+w02204	Unit 22	rear	rear	lexical
+w02205	Unit 22	reasonable	rea·son·a·ble	lexical
+w02206	Unit 22	reassure	re·as·sure	lexical
+w02207	Unit 22	recall	re·call	lexical
+w02208	Unit 22	recede	re·cede	lexical
+w02209	Unit 22	receipt	re·ceipt	lexical
+w02210	Unit 22	reception	re·cep·tion	lexical
+w02211	Unit 22	recession	re·ces·sion	lexical
+w02212	Unit 22	recipe	rec·i·pe	lexical
+w02213	Unit 22	recital	re·cit·al	lexical
+w02214	Unit 23	reckless	reck·less	lexical
+w02215	Unit 23	reckon	reck·on	reviewed
+w02216	Unit 23	recognize	rec·og·nize	lexical
+w02217	Unit 23	recollect	rec·ol·lect	lexical
+w02218	Unit 23	recommend	rec·om·mend	lexical
+w02219	Unit 23	recommendation	rec·om·men·da·tion	lexical
+w02220	Unit 23	reconcile	rec·on·cile	lexical
+w02221	Unit 23	recover	re·cov·er	lexical
+w02222	Unit 23	recreation	rec·re·a·tion	lexical
+w02223	Unit 23	recruit	re·cruit	lexical
+w02224	Unit 23	rectangle	rec·tan·gle	lexical
+w02225	Unit 23	rectify	rec·ti·fy	lexical
+w02226	Unit 23	recycle	re·cy·cle	lexical
+w02227	Unit 23	redeem	re·deem	lexical
+w02228	Unit 23	reduce	re·duce	lexical
+w02229	Unit 23	redundant	re·dun·dant	lexical
+w02230	Unit 23	reef	reef	lexical
+w02231	Unit 23	reel	reel	lexical
+w02232	Unit 23	reference	ref·er·ence	reviewed
+w02233	Unit 23	refine	re·fine	lexical
+w02234	Unit 23	reflect	re·flect	lexical
+w02235	Unit 23	reform	re·form	lexical
+w02236	Unit 23	refreshing	re·fresh·ing	reviewed
+w02237	Unit 23	refund	re·fund	lexical
+w02238	Unit 23	refuse	re·fuse	lexical
+w02239	Unit 23	refute	re·fute	lexical
+w02240	Unit 23	regard	re·gard	lexical
+w02241	Unit 23	regarding	re·gar·ding	lexical
+w02242	Unit 23	regardless	re·gard·less	lexical
+w02243	Unit 23	regime	re·gime	lexical
+w02244	Unit 23	region	re·gion	lexical
+w02245	Unit 23	register	reg·is·ter	lexical
+w02246	Unit 23	registration	re·gi·stra·tion	lexical
+w02247	Unit 23	regular	reg·u·lar	lexical
+w02248	Unit 23	regulate	reg·u·late	reviewed
+w02249	Unit 23	regulation	reg·u·la·tion	reviewed
+w02250	Unit 23	rehearsal	re·hears·al	reviewed
+w02251	Unit 23	reimbursement	re·im·burse·ment	lexical
+w02252	Unit 23	reinforce	re·in·force	reviewed
+w02253	Unit 23	reject	re·ject	lexical
+w02254	Unit 23	related	re·la·ted	lexical
+w02255	Unit 23	relatively	rel·a·tive·ly	lexical
+w02256	Unit 23	relax	re·lax	lexical
+w02257	Unit 23	release	re·lease	lexical
+w02258	Unit 23	relevant	rel·e·vant	lexical
+w02259	Unit 23	reliable	re·li·a·ble	lexical
+w02260	Unit 23	relief	re·lief	lexical
+w02261	Unit 23	religious	re·li·gious	lexical
+w02262	Unit 23	reluctance	re·luc·tance	lexical
+w02263	Unit 23	rely	re·ly	lexical
+w02264	Unit 23	remainder	re·main·der	reviewed
+w02265	Unit 23	remarkable	re·mark·a·ble	lexical
+w02266	Unit 23	remedy	rem·e·dy	lexical
+w02267	Unit 23	remind	re·mind	lexical
+w02268	Unit 23	remote	re·mote	lexical
+w02269	Unit 23	remuneration	re·mu·ner·a·tion	reviewed
+w02270	Unit 23	render	ren·der	lexical
+w02271	Unit 23	replace	re·place	lexical
+w02272	Unit 23	replenish	re·plen·ish	reviewed
+w02273	Unit 23	represent	rep·re·sent	lexical
+w02274	Unit 23	reproach	re·proach	reviewed
+w02275	Unit 23	reptile	rep·tile	lexical
+w02276	Unit 23	reputable	rep·u·ta·ble	lexical
+w02277	Unit 23	reputation	rep·u·ta·tion	lexical
+w02278	Unit 23	request	re·quest	lexical
+w02279	Unit 23	require	re·quire	lexical
+w02280	Unit 23	rescue	res·cue	lexical
+w02281	Unit 23	research	re·search	lexical
+w02282	Unit 23	resemblance	re·sem·blance	lexical
+w02283	Unit 23	resemble	re·sem·ble	lexical
+w02284	Unit 23	reserve	re·serve	lexical
+w02285	Unit 23	reservoir	res·er·voir	lexical
+w02286	Unit 23	reside	re·side	lexical
+w02287	Unit 23	resign	re·sign	lexical
+w02288	Unit 23	resignation	res·ig·na·tion	lexical
+w02289	Unit 23	resist	re·sist	lexical
+w02290	Unit 23	resolution	res·o·lu·tion	lexical
+w02291	Unit 23	resolve	re·solve	lexical
+w02292	Unit 23	resort	re·sort	lexical
+w02293	Unit 23	resource	re·source	lexical
+w02294	Unit 23	respect	re·spect	lexical
+w02295	Unit 23	respond	re·spond	lexical
+w02296	Unit 23	respondent	re·spond·ent	reviewed
+w02297	Unit 23	response	re·sponse	lexical
+w02298	Unit 23	responsible	re·spon·si·ble	lexical
+w02299	Unit 23	retain	re·tain	lexical
+w02300	Unit 23	restore	re·store	lexical
+w02301	Unit 23	restrain	re·strain	lexical
+w02302	Unit 23	restrict	re·strict	lexical
+w02303	Unit 23	result	re·sult	lexical
+w02304	Unit 23	resume	re·sume	lexical
+w02305	Unit 23	résumé	résumé	special
+w02306	Unit 23	retail	re·tail	lexical
+w02307	Unit 23	retain	re·tain	lexical
+w02308	Unit 23	retreat	re·treat	lexical
+w02309	Unit 23	retrieve	re·trieve	lexical
+w02310	Unit 23	retrospect	ret·ro·spect	lexical
+w02311	Unit 23	reveal	re·veal	lexical
+w02312	Unit 23	revenge	re·venge	lexical
+w02313	Unit 23	revenue	rev·e·nue	lexical
+w02314	Unit 23	reverse	re·verse	lexical
+w02315	Unit 24	review	re·view	lexical
+w02316	Unit 24	revise	re·vise	lexical
+w02317	Unit 24	revive	re·vive	lexical
+w02318	Unit 24	revolution	rev·o·lu·tion	reviewed
+w02319	Unit 24	reward	re·ward	lexical
+w02320	Unit 24	rhythm	rhyth·m	reviewed
+w02321	Unit 24	ribbon	rib·bon	lexical
+w02322	Unit 24	riddle	rid·dle	lexical
+w02323	Unit 24	ridge	ridge	lexical
+w02324	Unit 24	ridiculous	ri·dic·u·lous	lexical
+w02325	Unit 24	rigid	rig·id	lexical
+w02326	Unit 24	rigorous	rig·or·ous	lexical
+w02327	Unit 24	rim	rim	lexical
+w02328	Unit 24	ripe	ripe	lexical
+w02329	Unit 24	risk	risk	lexical
+w02330	Unit 24	ritual	rit·u·al	reviewed
+w02331	Unit 24	rival	ri·val	lexical
+w02332	Unit 24	roar	roar	lexical
+w02333	Unit 24	robust	ro·bust	lexical
+w02334	Unit 24	rock-bottom	rock-bot·tom	lexical
+w02335	Unit 24	role	role	lexical
+w02336	Unit 24	romantic	ro·man·tic	lexical
+w02337	Unit 24	roster	ros·ter	reviewed
+w02338	Unit 24	rotate	ro·tate	lexical
+w02339	Unit 24	rough	rough	lexical
+w02340	Unit 24	rouse	rouse	lexical
+w02341	Unit 24	route	route	lexical
+w02342	Unit 24	routine	rou·tine	lexical
+w02343	Unit 24	row	row	lexical
+w02344	Unit 24	royal	roy·al	lexical
+w02345	Unit 24	ruin	ru·in	lexical
+w02346	Unit 24	rumour	ru·mour	lexical
+w02347	Unit 24	rural	ru·ral	lexical
+w02348	Unit 24	rust	rust	lexical
+w02349	Unit 24	sacred	sa·cred	lexical
+w02350	Unit 24	sacrifice	sac·ri·fice	lexical
+w02351	Unit 24	safeguard	safe·guard	lexical
+w02352	Unit 24	safety	safe·ty	lexical
+w02353	Unit 24	saga	sa·ga	lexical
+w02354	Unit 24	salad	sal·ad	lexical
+w02355	Unit 24	salon	sa·lon	lexical
+w02356	Unit 24	sample	sam·ple	lexical
+w02357	Unit 24	sandwich	sand·wich	reviewed
+w02358	Unit 24	sane	sane	lexical
+w02359	Unit 24	sanitary	san·i·tar·y	reviewed
+w02360	Unit 24	saturate	sat·u·rate	lexical
+w02361	Unit 24	savage	sav·age	lexical
+w02362	Unit 24	scaffold	scaf·fold	lexical
+w02363	Unit 24	scale	scale	lexical
+w02364	Unit 24	scan	scan	lexical
+w02365	Unit 24	scar	scar	lexical
+w02366	Unit 24	scarce	scarce	lexical
+w02367	Unit 24	scarcely	scarce·ly	lexical
+w02368	Unit 24	scatter	scat·ter	lexical
+w02369	Unit 24	scenario	sce·nar·i·o	reviewed
+w02370	Unit 24	scene	scene	lexical
+w02371	Unit 24	scent	scent	lexical
+w02372	Unit 24	sceptical	scep·ti·cal	reviewed
+w02373	Unit 24	schedule	sched·ule	lexical
+w02374	Unit 24	scheme	scheme	lexical
+w02375	Unit 24	scholarship	schol·ar·ship	lexical
+w02376	Unit 24	scold	scold	lexical
+w02377	Unit 24	score	score	lexical
+w02378	Unit 24	scratch	scratch	lexical
+w02379	Unit 24	script	script	lexical
+w02380	Unit 24	scrutinize	scru·ti·nize	lexical
+w02381	Unit 24	sculpture	sculp·ture	lexical
+w02382	Unit 24	seal	seal	lexical
+w02383	Unit 24	secondary	sec·ond·ar·y	reviewed
+w02384	Unit 24	section	sec·tion	lexical
+w02385	Unit 24	sector	sec·tor	lexical
+w02386	Unit 24	secular	sec·u·lar	reviewed
+w02387	Unit 24	secure	se·cure	lexical
+w02388	Unit 24	security	se·cu·ri·ty	lexical
+w02389	Unit 24	sediment	sed·i·ment	lexical
+w02390	Unit 24	seek	seek	lexical
+w02391	Unit 24	seep	seep	lexical
+w02392	Unit 24	segment	seg·ment	reviewed
+w02393	Unit 24	segmentation	seg·men·ta·tion	lexical
+w02394	Unit 24	segregate	seg·re·gate	lexical
+w02395	Unit 24	seize	seize	lexical
+w02396	Unit 24	seismic	seis·mic	lexical
+w02397	Unit 24	select	se·lect	lexical
+w02398	Unit 24	selection	se·lec·tion	lexical
+w02399	Unit 24	semester	se·mes·ter	lexical
+w02400	Unit 24	seminar	sem·i·nar	lexical
+w02401	Unit 24	senior	sen·ior	lexical
+w02402	Unit 24	sensational	sen·sa·tion·al	lexical
+w02403	Unit 24	sensible	sen·si·ble	lexical
+w02404	Unit 24	sensitive	sen·si·tive	lexical
+w02405	Unit 24	sensor	sen·sor	lexical
+w02406	Unit 24	separate	sep·a·rate	lexical
+w02407	Unit 24	sequence	se·quence	lexical
+w02408	Unit 24	series	se·ries	lexical
+w02409	Unit 24	session	ses·sion	lexical
+w02410	Unit 25	severe	se·vere	lexical
+w02411	Unit 25	sewerage	sew·er·age	lexical
+w02412	Unit 25	sex	sex	lexical
+w02413	Unit 25	sexual	sex·u·al	lexical
+w02414	Unit 25	shabby	shab·by	lexical
+w02415	Unit 25	shadow	shad·ow	lexical
+w02416	Unit 25	shallow	shal·low	lexical
+w02417	Unit 25	shape	shape	lexical
+w02418	Unit 25	shatter	shat·ter	lexical
+w02419	Unit 25	shed	shed	lexical
+w02420	Unit 25	sheer	sheer	lexical
+w02421	Unit 25	shelf	shelf	lexical
+w02422	Unit 25	shelter	shel·ter	lexical
+w02423	Unit 25	shift	shift	lexical
+w02424	Unit 25	shiver	shiv·er	reviewed
+w02425	Unit 25	shortly	short·ly	lexical
+w02426	Unit 25	shower	show·er	lexical
+w02427	Unit 25	shrink	shrink	lexical
+w02428	Unit 25	shuffle	shuf·fle	lexical
+w02429	Unit 25	shutter	shu·tter	lexical
+w02430	Unit 25	sibling	sib·ling	lexical
+w02431	Unit 25	siege	siege	lexical
+w02432	Unit 25	sign	sign	lexical
+w02433	Unit 25	signal	sig·nal	lexical
+w02434	Unit 25	significant	sig·nif·i·cant	reviewed
+w02435	Unit 25	signpost	sign·post	lexical
+w02436	Unit 25	silt	silt	lexical
+w02437	Unit 25	similar	sim·i·lar	lexical
+w02438	Unit 25	similarity	sim·i·lar·i·ty	lexical
+w02439	Unit 25	simplify	sim·pli·fy	lexical
+w02440	Unit 25	simulate	sim·u·late	lexical
+w02441	Unit 25	simultaneously	si·mul·ta·ne·ous·ly	reviewed
+w02442	Unit 25	sin	sin	lexical
+w02443	Unit 25	sincere	sin·cere	lexical
+w02444	Unit 25	site	site	lexical
+w02445	Unit 25	situated	si·tu·a·ted	lexical
+w02446	Unit 25	situation	sit·u·a·tion	lexical
+w02447	Unit 25	skeleton	skel·e·ton	lexical
+w02448	Unit 25	sketch	sketch	lexical
+w02449	Unit 25	skill	skill	lexical
+w02450	Unit 25	skim	skim	lexical
+w02451	Unit 25	skip	skip	lexical
+w02452	Unit 25	skull	skull	lexical
+w02453	Unit 25	slender	slen·der	reviewed
+w02454	Unit 25	slice	slice	lexical
+w02455	Unit 25	slide	slide	lexical
+w02456	Unit 25	slightly	slight·ly	lexical
+w02457	Unit 25	slim	slim	lexical
+w02458	Unit 25	slippery	slip·per·y	lexical
+w02459	Unit 25	slogan	slo·gan	lexical
+w02460	Unit 25	slope	slope	lexical
+w02461	Unit 25	slothful	sloth·ful	lexical
+w02462	Unit 25	sluggish	slug·gish	lexical
+w02463	Unit 25	slum	slum	lexical
+w02464	Unit 25	smash	smash	lexical
+w02465	Unit 25	smog	smog	lexical
+w02466	Unit 25	smuggle	smug·gle	lexical
+w02467	Unit 25	snack	snack	lexical
+w02468	Unit 25	snatch	snatch	lexical
+w02469	Unit 25	soak	soak	lexical
+w02470	Unit 25	soap	soap	lexical
+w02471	Unit 25	soar	soar	lexical
+w02472	Unit 25	so-called	so-called	lexical
+w02473	Unit 25	social	so·cial	lexical
+w02474	Unit 25	software	soft·ware	lexical
+w02475	Unit 25	solar	so·lar	lexical
+w02476	Unit 25	solicitor	so·lic·i·tor	lexical
+w02477	Unit 25	solo	so·lo	lexical
+w02478	Unit 25	sole	sole	lexical
+w02479	Unit 25	solid	sol·id	lexical
+w02480	Unit 25	solution	so·lu·tion	lexical
+w02481	Unit 25	somewhat	some·what	lexical
+w02482	Unit 25	sophisticated	so·phis·ti·cat·ed	reviewed
+w02483	Unit 25	sorrow	sor·row	lexical
+w02484	Unit 25	sort	sort	lexical
+w02485	Unit 25	sound	sound	lexical
+w02486	Unit 25	source	source	lexical
+w02487	Unit 25	souvenir	sou·ve·nir	lexical
+w02488	Unit 25	spacious	spa·cious	lexical
+w02489	Unit 25	span	span	lexical
+w02490	Unit 25	spare	spare	lexical
+w02491	Unit 25	spark	spark	lexical
+w02492	Unit 25	spawn	spawn	lexical
+w02493	Unit 25	specialist	spe·cial·ist	lexical
+w02494	Unit 25	species	spe·cies	lexical
+w02495	Unit 25	specific	spe·cif·ic	reviewed
+w02496	Unit 25	specify	spec·i·fy	reviewed
+w02497	Unit 25	specimen	spec·i·men	lexical
+w02498	Unit 25	spectacle	spec·ta·cle	lexical
+w02499	Unit 25	spectacular	spec·tac·u·lar	lexical
+w02500	Unit 25	spectator	spec·ta·tor	lexical
+w02501	Unit 25	spectrum	spec·trum	lexical
+w02502	Unit 25	spell	spell	lexical
+w02503	Unit 25	sphere	sphere	lexical
+w02504	Unit 25	spice	spice	lexical
+w02505	Unit 25	spill	spill	lexical
+w02506	Unit 25	spin	spin	lexical
+w02507	Unit 25	spiritual	spir·it·u·al	reviewed
+w02508	Unit 25	split	split	lexical
+w02509	Unit 25	spoil	spoil	lexical
+w02510	Unit 25	sponge	sponge	lexical
+w02511	Unit 25	sponsor	spon·sor	lexical
+w02512	Unit 26	spot	spot	lexical
+w02513	Unit 26	spotlight	spot·light	lexical
+w02514	Unit 26	spouse	spouse	lexical
+w02515	Unit 26	sprawl	sprawl	lexical
+w02516	Unit 26	spray	spray	lexical
+w02517	Unit 26	spring	spring	lexical
+w02518	Unit 26	sprout	sprout	lexical
+w02519	Unit 26	spur	spur	lexical
+w02520	Unit 26	squash	squash	lexical
+w02521	Unit 26	squeeze	squeeze	lexical
+w02522	Unit 26	stabiliz	stabiliz	special
+w02523	Unit 26	stable	sta·ble	lexical
+w02524	Unit 26	stadium	sta·di·um	lexical
+w02525	Unit 26	staff	staff	lexical
+w02526	Unit 26	stage	stage	lexical
+w02527	Unit 26	stagnant	stag·nant	lexical
+w02528	Unit 26	stain	stain	lexical
+w02529	Unit 26	stake	stake	lexical
+w02530	Unit 26	standard	stan·dard	lexical
+w02531	Unit 26	staple	sta·ple	reviewed
+w02532	Unit 26	stare	stare	lexical
+w02533	Unit 26	starve	starve	lexical
+w02534	Unit 26	statement	state·ment	lexical
+w02535	Unit 26	state-of-the-art	state-of-the-art	lexical
+w02536	Unit 26	static	stat·ic	reviewed
+w02537	Unit 26	stationary	sta·tion·ar·y	reviewed
+w02538	Unit 26	stationery	sta·tion·er·y	reviewed
+w02539	Unit 26	statistic	sta·tis·tic	reviewed
+w02540	Unit 26	statistics	sta·tis·tics	reviewed
+w02541	Unit 26	statue	stat·ue	lexical
+w02542	Unit 26	status	sta·tus	lexical
+w02543	Unit 26	stature	stat·ure	lexical
+w02544	Unit 26	steadfast	stead·fast	lexical
+w02545	Unit 26	steady	stead·y	lexical
+w02546	Unit 26	steep	steep	lexical
+w02547	Unit 26	steer	steer	lexical
+w02548	Unit 26	stem	stem	lexical
+w02549	Unit 26	stereotype	ster·e·o·type	reviewed
+w02550	Unit 26	steward	stew·ard	lexical
+w02551	Unit 26	stick	stick	lexical
+w02552	Unit 26	stiff	stiff	lexical
+w02553	Unit 26	stimulate	stim·u·late	lexical
+w02554	Unit 26	stimulus	stim·u·lus	lexical
+w02555	Unit 26	stipulate	stip·u·late	lexical
+w02556	Unit 26	stir	stir	lexical
+w02557	Unit 26	store	store	lexical
+w02558	Unit 26	straight	straight	lexical
+w02559	Unit 26	straightforward	straight·for·ward	lexical
+w02560	Unit 26	strain	strain	lexical
+w02561	Unit 26	strand	strand	lexical
+w02562	Unit 26	strangle	stran·gle	lexical
+w02563	Unit 26	strategy	strat·e·gy	lexical
+w02564	Unit 26	streamline	stream·line	lexical
+w02565	Unit 26	strenuous	stren·u·ous	reviewed
+w02566	Unit 26	strengthen	strength·en	lexical
+w02567	Unit 26	stress	stress	lexical
+w02568	Unit 26	stretch	stretch	lexical
+w02569	Unit 26	strict	strict	lexical
+w02570	Unit 26	stride	stride	lexical
+w02571	Unit 26	strike	strike	lexical
+w02572	Unit 26	striking	stri·king	lexical
+w02573	Unit 26	strip	strip	lexical
+w02574	Unit 26	strive	strive	lexical
+w02575	Unit 26	stroke	stroke	lexical
+w02576	Unit 26	stubborn	stub·born	lexical
+w02577	Unit 26	studio	stu·di·o	lexical
+w02578	Unit 26	stuff	stuff	lexical
+w02579	Unit 26	stunt	stunt	lexical
+w02580	Unit 26	sturdy	stur·dy	lexical
+w02581	Unit 26	style	style	lexical
+w02582	Unit 26	subject	sub·ject	lexical
+w02583	Unit 26	subjective	sub·jec·tive	lexical
+w02584	Unit 26	subjugate	sub·ju·gate	lexical
+w02585	Unit 26	submit	sub·mit	lexical
+w02586	Unit 26	subordinate	sub·or·di·nate	reviewed
+w02587	Unit 26	subscribe	sub·scribe	lexical
+w02588	Unit 26	subsequent	sub·se·quent	lexical
+w02589	Unit 26	subsidy	sub·si·dy	lexical
+w02590	Unit 26	substance	sub·stance	lexical
+w02591	Unit 26	substantial	sub·stan·tial	lexical
+w02592	Unit 26	substitute	sub·sti·tute	lexical
+w02593	Unit 26	subtitle	sub·ti·tle	lexical
+w02594	Unit 26	subtle	sub·tle	lexical
+w02595	Unit 26	subtract	sub·tract	lexical
+w02596	Unit 26	suburb	sub·urb	lexical
+w02597	Unit 26	successor	suc·ces·sor	lexical
+w02598	Unit 26	succinct	suc·cinct	lexical
+w02599	Unit 26	succumb	suc·cumb	lexical
+w02600	Unit 26	suck	suck	lexical
+w02601	Unit 26	sue	sue	lexical
+w02602	Unit 26	sufficient	suf·fi·cient	lexical
+w02603	Unit 26	suffix	suf·fix	lexical
+w02604	Unit 26	suicide	su·i·cide	reviewed
+w02605	Unit 26	sum	sum	lexical
+w02606	Unit 26	summary	sum·ma·ry	lexical
+w02607	Unit 26	summit	sum·mit	lexical
+w02608	Unit 26	sundial	sun·di·al	lexical
+w02609	Unit 26	superb	su·perb	lexical
+w02610	Unit 26	superior	su·pe·ri·or	reviewed
+w02611	Unit 26	superstition	su·per·sti·tion	lexical
+w02612	Unit 26	supervise	su·per·vise	reviewed
+w02613	Unit 26	supervisor	su·per·vi·sor	lexical
+w02614	Unit 27	supplement	sup·ple·ment	lexical
+w02615	Unit 27	supplementary	sup·ple·men·ta·ry	reviewed
+w02616	Unit 27	supply	sup·ply	lexical
+w02617	Unit 27	suppose	sup·pose	lexical
+w02618	Unit 27	supreme	su·preme	lexical
+w02619	Unit 27	surface	sur·face	lexical
+w02620	Unit 27	surge	surge	lexical
+w02621	Unit 27	surgery	sur·ger·y	lexical
+w02622	Unit 27	surmount	sur·mount	lexical
+w02623	Unit 27	surpass	sur·pass	lexical
+w02624	Unit 27	surplus	sur·plus	lexical
+w02625	Unit 27	surrender	sur·ren·der	reviewed
+w02626	Unit 27	surrounding	surr·oun·ding	lexical
+w02627	Unit 27	survey	sur·vey	lexical
+w02628	Unit 27	survive	sur·vive	lexical
+w02629	Unit 27	susceptible	sus·cep·ti·ble	reviewed
+w02630	Unit 27	suspect	sus·pect	lexical
+w02631	Unit 27	suspend	sus·pend	lexical
+w02632	Unit 27	suspicious	sus·pi·cious	lexical
+w02633	Unit 27	sustain	sus·tain	lexical
+w02634	Unit 27	swallow	swal·low	lexical
+w02635	Unit 27	swap	swap	lexical
+w02636	Unit 27	swarm	swarm	lexical
+w02637	Unit 27	sway	sway	lexical
+w02638	Unit 27	swear	swear	lexical
+w02639	Unit 27	sweep	sweep	lexical
+w02640	Unit 27	swell	swell	lexical
+w02641	Unit 27	swift	swift	lexical
+w02642	Unit 27	switch	switch	lexical
+w02643	Unit 27	sydney	syd·ney	reviewed
+w02644	Unit 27	syllabus	syl·la·bus	lexical
+w02645	Unit 27	symbol	sym·bol	lexical
+w02646	Unit 27	symbolise	sym·bol·ise	reviewed
+w02647	Unit 27	symmetry	sym·me·try	lexical
+w02648	Unit 27	sympathetic	sym·pa·the·tic	lexical
+w02649	Unit 27	symphony	sym·pho·ny	lexical
+w02650	Unit 27	symposium	sym·po·si·um	reviewed
+w02651	Unit 27	symptom	symp·tom	lexical
+w02652	Unit 27	synergy	syn·er·gy	lexical
+w02653	Unit 27	synonymous	syn·on·y·mous	lexical
+w02654	Unit 27	synthetic	syn·thet·ic	reviewed
+w02655	Unit 27	system	sys·tem	lexical
+w02656	Unit 27	systematic	sys·tem·at·ic	reviewed
+w02657	Unit 27	tab	tab	lexical
+w02658	Unit 27	tablet	tab·let	lexical
+w02659	Unit 27	taboo	ta·boo	lexical
+w02660	Unit 27	tackle	tack·le	reviewed
+w02661	Unit 27	tactic	tac·tic	lexical
+w02662	Unit 27	tag	tag	lexical
+w02663	Unit 27	tailor	tai·lor	lexical
+w02664	Unit 27	takeaway	take·a·way	lexical
+w02665	Unit 27	talent	tal·ent	lexical
+w02666	Unit 27	tally	tal·ly	lexical
+w02667	Unit 27	tame	tame	lexical
+w02668	Unit 27	tangible	tan·gi·ble	lexical
+w02669	Unit 27	tap	tap	lexical
+w02670	Unit 27	tape	tape	lexical
+w02671	Unit 27	target	tar·get	lexical
+w02672	Unit 27	tariff	tar·iff	lexical
+w02673	Unit 27	taxation	tax·a·tion	lexical
+w02674	Unit 27	tease	tease	lexical
+w02675	Unit 27	technical	tech·ni·cal	lexical
+w02676	Unit 27	technique	tech·nique	lexical
+w02677	Unit 27	technological	tech·no·log·i·cal	lexical
+w02678	Unit 27	technology	tech·nol·o·gy	lexical
+w02679	Unit 27	tedious	te·di·ous	lexical
+w02680	Unit 27	teenager	teen·ag·er	lexical
+w02681	Unit 27	temper	tem·per	lexical
+w02682	Unit 27	temperate	tem·per·ate	lexical
+w02683	Unit 27	temple	tem·ple	lexical
+w02684	Unit 27	tempo	tem·po	lexical
+w02685	Unit 27	temporary	tem·po·rar·y	reviewed
+w02686	Unit 27	temptation	temp·ta·tion	lexical
+w02687	Unit 27	tenant	ten·ant	lexical
+w02688	Unit 27	tend	tend	lexical
+w02689	Unit 27	tendency	ten·den·cy	reviewed
+w02690	Unit 27	tender	ten·der	lexical
+w02691	Unit 27	tense	tense	lexical
+w02692	Unit 27	tension	ten·sion	lexical
+w02693	Unit 27	tent	tent	lexical
+w02694	Unit 27	term	term	lexical
+w02695	Unit 27	terminate	ter·mi·nate	lexical
+w02696	Unit 27	terminology	ter·mi·nol·o·gy	lexical
+w02697	Unit 27	terrace	ter·race	lexical
+w02698	Unit 27	terrain	ter·rain	lexical
+w02699	Unit 27	terrestrial	ter·res·tri·al	reviewed
+w02700	Unit 27	terrify	ter·ri·fy	reviewed
+w02701	Unit 27	terrific	ter·rif·ic	reviewed
+w02702	Unit 27	territory	ter·ri·to·ry	lexical
+w02703	Unit 27	tertiary	ter·ti·ar·y	reviewed
+w02704	Unit 27	testify	tes·ti·fy	lexical
+w02705	Unit 27	testimony	tes·ti·mo·ny	reviewed
+w02706	Unit 27	thaw	thaw	lexical
+w02707	Unit 27	theft	theft	lexical
+w02708	Unit 27	theme	theme	lexical
+w02709	Unit 28	theoretical	the·o·ret·i·cal	reviewed
+w02710	Unit 28	theory	the·o·ry	lexical
+w02711	Unit 28	thereby	there·by	lexical
+w02712	Unit 28	thesis	the·sis	lexical
+w02713	Unit 28	texture	tex·ture	lexical
+w02714	Unit 28	therapy	ther·a·py	lexical
+w02715	Unit 28	thermal	ther·mal	lexical
+w02716	Unit 28	thigh	thigh	lexical
+w02717	Unit 28	thorough	thor·ough	lexical
+w02718	Unit 28	thoughtful	thought·ful	lexical
+w02719	Unit 28	threaten	threat·en	lexical
+w02720	Unit 28	threshold	thresh·old	lexical
+w02721	Unit 28	thrift	thrift	lexical
+w02722	Unit 28	thrive	thrive	lexical
+w02723	Unit 28	tide	tide	lexical
+w02724	Unit 28	tidy	ti·dy	lexical
+w02725	Unit 28	tilt	tilt	lexical
+w02726	Unit 28	timber	tim·ber	lexical
+w02727	Unit 28	time-consuming	time-con·sum·ing	reviewed
+w02728	Unit 28	timely	time·ly	lexical
+w02729	Unit 28	timetable	time·ta·ble	lexical
+w02730	Unit 28	timid	tim·id	lexical
+w02731	Unit 28	tiny	ti·ny	lexical
+w02732	Unit 28	tip	tip	lexical
+w02733	Unit 28	tissue	tis·sue	lexical
+w02734	Unit 28	titanic	ti·tan·ic	lexical
+w02735	Unit 28	toast	toast	lexical
+w02736	Unit 28	toil	toil	lexical
+w02737	Unit 28	token	to·ken	reviewed
+w02738	Unit 28	tolerance	tol·er·ance	lexical
+w02739	Unit 28	toll	toll	lexical
+w02740	Unit 28	topic	top·ic	reviewed
+w02741	Unit 28	torch	torch	lexical
+w02742	Unit 28	toss	toss	lexical
+w02743	Unit 28	total	to·tal	lexical
+w02744	Unit 28	tough	tough	lexical
+w02745	Unit 28	tournament	tour·na·ment	lexical
+w02746	Unit 28	tow	tow	lexical
+w02747	Unit 28	towel	tow·el	reviewed
+w02748	Unit 28	toxic	tox·ic	reviewed
+w02749	Unit 28	trace	trace	lexical
+w02750	Unit 28	track	track	lexical
+w02751	Unit 28	tradition	tra·di·tion	lexical
+w02752	Unit 28	tragedy	trag·e·dy	lexical
+w02753	Unit 28	trail	trail	lexical
+w02754	Unit 28	trait	trait	lexical
+w02755	Unit 28	tramp	tramp	lexical
+w02756	Unit 28	tranquil	tran·quil	lexical
+w02757	Unit 28	transaction	trans·ac·tion	lexical
+w02758	Unit 28	transcribe	tran·scribe	lexical
+w02759	Unit 28	transfer	trans·fer	lexical
+w02760	Unit 28	transform	trans·form	lexical
+w02761	Unit 28	transit	tran·sit	lexical
+w02762	Unit 28	translate	trans·late	lexical
+w02763	Unit 28	transmit	trans·mit	lexical
+w02764	Unit 28	transparent	trans·par·ent	lexical
+w02765	Unit 28	transplant	trans·plant	lexical
+w02766	Unit 28	transport	trans·port	reviewed
+w02767	Unit 28	trap	trap	lexical
+w02768	Unit 28	trauma	trau·ma	lexical
+w02769	Unit 28	treasure	treas·ure	lexical
+w02770	Unit 28	treatise	trea·tise	lexical
+w02771	Unit 28	treatment	treat·ment	lexical
+w02772	Unit 28	treaty	trea·ty	lexical
+w02773	Unit 28	tremble	trem·ble	lexical
+w02774	Unit 28	tremendous	tre·men·dous	lexical
+w02775	Unit 28	trench	trench	lexical
+w02776	Unit 28	trend	trend	lexical
+w02777	Unit 28	trespass	tres·pass	lexical
+w02778	Unit 28	trial	tri·al	lexical
+w02779	Unit 28	triangle	tri·an·gle	lexical
+w02780	Unit 28	tribe	tribe	lexical
+w02781	Unit 28	tributary	trib·u·tar·y	reviewed
+w02782	Unit 28	trick	trick	lexical
+w02783	Unit 28	trifle	tri·fle	reviewed
+w02784	Unit 28	trigger	trig·ger	reviewed
+w02785	Unit 28	trim	trim	lexical
+w02786	Unit 28	triple	tri·ple	lexical
+w02787	Unit 28	triumph	tri·umph	lexical
+w02788	Unit 28	trivial	triv·i·al	lexical
+w02789	Unit 28	tropic	trop·ic	reviewed
+w02790	Unit 28	trunk	trunk	lexical
+w02791	Unit 28	trustworthy	trust·wor·thy	lexical
+w02792	Unit 28	tube	tube	lexical
+w02793	Unit 28	tuition	tu·i·tion	reviewed
+w02794	Unit 28	turbulent	tur·bu·lent	lexical
+w02795	Unit 28	turmoil	tur·moil	lexical
+w02796	Unit 28	turnout	turn·out	lexical
+w02797	Unit 28	turnover	turn·o·ver	lexical
+w02798	Unit 28	tutor	tu·tor	lexical
+w02799	Unit 28	tutorial	tu·to·ri·al	reviewed
+w02800	Unit 28	twilight	twi·light	lexical
+w02801	Unit 28	twin	twin	lexical
+w02802	Unit 28	twinkle	twin·kle	lexical
+w02803	Unit 28	twist	twist	lexical
+w02804	Unit 28	typical	typ·i·cal	lexical
+w02805	Unit 29	ubiquitous	u·biq·ui·tous	reviewed
+w02806	Unit 29	ultimate	ul·ti·mate	lexical
+w02807	Unit 29	ultimately	ul·ti·mate·ly	lexical
+w02808	Unit 29	umpire	um·pire	lexical
+w02809	Unit 29	unanimous	u·nan·i·mous	reviewed
+w02810	Unit 29	unconditional	un·con·di·tion·al	lexical
+w02811	Unit 29	underestimate	un·der·es·ti·mate	lexical
+w02812	Unit 29	undergo	un·der·go	lexical
+w02813	Unit 29	undergraduate	un·der·grad·u·ate	lexical
+w02814	Unit 29	underground	un·der·ground	lexical
+w02815	Unit 29	underlie	un·der·lie	lexical
+w02816	Unit 29	underline	un·der·line	lexical
+w02817	Unit 29	undermine	un·der·mine	lexical
+w02818	Unit 29	undertake	un·der·take	lexical
+w02819	Unit 29	undone	un·done	lexical
+w02820	Unit 29	unfold	un·fold	lexical
+w02821	Unit 29	unfortunate	un·for·tu·nate	lexical
+w02822	Unit 29	uniform	u·ni·form	lexical
+w02823	Unit 29	unify	u·ni·fy	reviewed
+w02824	Unit 29	union	un·ion	lexical
+w02825	Unit 29	unique	u·nique	lexical
+w02826	Unit 29	unite	u·nite	lexical
+w02827	Unit 29	universal	u·ni·ver·sal	lexical
+w02828	Unit 29	universe	u·ni·verse	lexical
+w02829	Unit 29	unlikely	un·like·ly	lexical
+w02830	Unit 29	unofficial	un·of·fi·cial	lexical
+w02831	Unit 29	unprecedented	un·prec·e·dent·ed	lexical
+w02832	Unit 29	update	up·date	lexical
+w02833	Unit 29	upgrade	up·grade	lexical
+w02834	Unit 29	uphold	up·hold	lexical
+w02835	Unit 29	upset	up·set	lexical
+w02836	Unit 29	upside down	up·side down	reviewed
+w02837	Unit 29	urban	ur·ban	lexical
+w02838	Unit 29	urgent	ur·gent	lexical
+w02839	Unit 29	utensil	u·ten·sil	lexical
+w02840	Unit 29	utility	u·til·i·ty	lexical
+w02841	Unit 29	utilize	u·ti·lize	lexical
+w02842	Unit 29	utmost	ut·most	lexical
+w02843	Unit 29	utterly	ut·ter·ly	lexical
+w02844	Unit 29	vacancy	va·can·cy	lexical
+w02845	Unit 29	vacant	va·cant	lexical
+w02846	Unit 29	vacation	va·ca·tion	lexical
+w02847	Unit 29	vaccinate	vac·ci·nate	lexical
+w02848	Unit 29	vacuum	vac·uum	reviewed
+w02849	Unit 29	vague	vague	lexical
+w02850	Unit 29	vain	vain	lexical
+w02851	Unit 29	valentine	val·en·tine	reviewed
+w02852	Unit 29	valid	val·id	lexical
+w02853	Unit 29	value	val·ue	lexical
+w02854	Unit 29	van	van	lexical
+w02855	Unit 29	vanilla	va·nil·la	reviewed
+w02856	Unit 29	vanish	van·ish	lexical
+w02857	Unit 29	vapour	va·pour	reviewed
+w02858	Unit 29	variable	var·i·a·ble	reviewed
+w02859	Unit 29	variation	var·i·a·tion	lexical
+w02860	Unit 29	variety	va·ri·e·ty	reviewed
+w02861	Unit 29	various	var·i·ous	lexical
+w02862	Unit 29	vary	var·y	lexical
+w02863	Unit 29	vast	vast	lexical
+w02864	Unit 29	vegetarian	veg·e·tar·i·an	reviewed
+w02865	Unit 29	vegetation	veg·e·ta·tion	reviewed
+w02866	Unit 29	vehicle	ve·hi·cle	lexical
+w02867	Unit 29	velocity	ve·loc·i·ty	reviewed
+w02868	Unit 29	venom	ven·om	lexical
+w02869	Unit 29	venture	ven·ture	reviewed
+w02870	Unit 29	venue	ven·ue	reviewed
+w02871	Unit 29	verbal	ver·bal	lexical
+w02872	Unit 29	verge	verge	lexical
+w02873	Unit 29	verify	ver·i·fy	lexical
+w02874	Unit 29	versatile	ver·sa·tile	lexical
+w02875	Unit 29	version	ver·sion	lexical
+w02876	Unit 29	versus	ver·sus	lexical
+w02877	Unit 29	vertebrate	ver·te·brate	lexical
+w02878	Unit 29	vertical	ver·ti·cal	reviewed
+w02879	Unit 29	vessel	ves·sel	lexical
+w02880	Unit 29	veterinary	vet·er·i·nar·y	reviewed
+w02881	Unit 29	veto	ve·to	lexical
+w02882	Unit 29	via	vi·a	lexical
+w02883	Unit 29	viable	vi·a·ble	reviewed
+w02884	Unit 29	vibrate	vi·brate	lexical
+w02885	Unit 29	vice versa	vice ver·sa	reviewed
+w02886	Unit 29	vicinity	vi·cin·i·ty	reviewed
+w02887	Unit 29	vicious	vi·cious	lexical
+w02888	Unit 29	victim	vic·tim	lexical
+w02889	Unit 29	victory	vic·to·ry	lexical
+w02890	Unit 29	vigorous	vig·or·ous	reviewed
+w02891	Unit 29	villa	vil·la	lexical
+w02892	Unit 29	violate	vi·o·late	lexical
+w02893	Unit 29	violence	vi·o·lence	lexical
+w02894	Unit 29	virgin	vir·gin	lexical
+w02895	Unit 30	virtual	vir·tu·al	reviewed
+w02896	Unit 30	virtue	vir·tue	lexical
+w02897	Unit 30	virus	vi·rus	lexical
+w02898	Unit 30	visa	vi·sa	lexical
+w02899	Unit 30	visible	vis·i·ble	lexical
+w02900	Unit 30	vision	vi·sion	lexical
+w02901	Unit 30	visual	vis·u·al	lexical
+w02902	Unit 30	vital	vi·tal	lexical
+w02903	Unit 30	vitamin	vi·ta·min	reviewed
+w02904	Unit 30	vivid	viv·id	lexical
+w02905	Unit 30	vocabulary	vo·cab·u·lar·y	reviewed
+w02906	Unit 30	vocational	vo·ca·tion·al	lexical
+w02907	Unit 30	vogue	vogue	lexical
+w02908	Unit 30	void	void	lexical
+w02909	Unit 30	volatile	vol·a·tile	lexical
+w02910	Unit 30	volcano	vol·ca·no	lexical
+w02911	Unit 30	volt	volt	lexical
+w02912	Unit 30	volume	vol·ume	lexical
+w02913	Unit 30	voluntary	vol·un·tar·y	reviewed
+w02914	Unit 30	volunteer	vol·un·teer	reviewed
+w02915	Unit 30	voucher	vouch·er	lexical
+w02916	Unit 30	vow	vow	lexical
+w02917	Unit 30	vulgar	vul·gar	lexical
+w02918	Unit 30	voyage	voy·age	lexical
+w02919	Unit 30	vulnerable	vul·ner·a·ble	reviewed
+w02920	Unit 30	wage	wage	lexical
+w02921	Unit 30	wagon	wag·on	reviewed
+w02922	Unit 30	wander	wan·der	lexical
+w02923	Unit 30	ward	ward	lexical
+w02924	Unit 30	wardrobe	ward·robe	lexical
+w02925	Unit 30	warehouse	ware·house	lexical
+w02926	Unit 30	warranty	war·ran·ty	reviewed
+w02927	Unit 30	wax	wax	lexical
+w02928	Unit 30	weave	weave	lexical
+w02929	Unit 30	weight	weight	lexical
+w02930	Unit 30	weird	weird	lexical
+w02931	Unit 30	welfare	wel·fare	lexical
+w02932	Unit 30	well-being	well-be·ing	lexical
+w02933	Unit 30	whale	whale	lexical
+w02934	Unit 30	whereas	where·as	lexical
+w02935	Unit 30	whereby	where·by	lexical
+w02936	Unit 30	whilst	whilst	lexical
+w02937	Unit 30	whirl	whirl	lexical
+w02938	Unit 30	whisper	whis·per	lexical
+w02939	Unit 30	whistle	whis·tle	lexical
+w02940	Unit 30	wholesale	whole·sale	lexical
+w02941	Unit 30	wholesome	whole·some	lexical
+w02942	Unit 30	wicked	wick·ed	reviewed
+w02943	Unit 30	widespread	wide·spread	lexical
+w02944	Unit 30	widow	wid·ow	lexical
+w02945	Unit 30	width	width	lexical
+w02946	Unit 30	wilderness	wil·der·ness	reviewed
+w02947	Unit 30	wildlife	wild·life	lexical
+w02948	Unit 30	windfall	wind·fall	lexical
+w02949	Unit 30	winding	wind·ing	lexical
+w02950	Unit 30	wisdom	wis·dom	lexical
+w02951	Unit 30	wit	wit	lexical
+w02952	Unit 30	withdraw	with·draw	lexical
+w02953	Unit 30	wither	with·er	reviewed
+w02954	Unit 30	withstand	with·stand	lexical
+w02955	Unit 30	witness	wit·ness	lexical
+w02956	Unit 30	womb	womb	mono
+w02957	Unit 30	workaholic	work·a·hol·ic	reviewed
+w02958	Unit 30	workforce	work·force	lexical
+w02959	Unit 30	workload	work·load	lexical
+w02960	Unit 30	workshop	work·shop	lexical
+w02961	Unit 30	worldwide	world·wide	lexical
+w02962	Unit 30	worship	wor·ship	lexical
+w02963	Unit 30	wrap	wrap	lexical
+w02964	Unit 30	wreck	wreck	lexical
+w02965	Unit 30	wretched	wretch·ed	lexical
+w02966	Unit 30	x-rated	x-ra·ted	special
+w02967	Unit 30	xerox	xe·rox	lexical
+w02968	Unit 30	Xmas	Xmas	special
+w02969	Unit 30	X-ray	X-ray	special
+w02970	Unit 30	y-axis	y-ax·is	special
+w02971	Unit 30	yawn	yawn	lexical
+w02972	Unit 30	yearn	yearn	lexical
+w02973	Unit 30	yelp	yelp	lexical
+w02974	Unit 30	yield	yield	lexical
+w02975	Unit 30	yoga	yo·ga	lexical
+w02976	Unit 30	yoghurt	yo·ghurt	lexical
+w02977	Unit 30	yummy	yum·my	lexical
+w02978	Unit 30	youngster	young·ster	lexical
+w02979	Unit 30	zeal	zeal	lexical
+w02980	Unit 30	zest	zest	lexical
+w02981	Unit 30	zigzag	zig·zag	lexical
+w02982	Unit 30	zone	zone	lexical
+a00001	描述人的外表衣着	gender	gen·der	lexical
+a00002	描述人的外表衣着	medium build	me·di·um build	lexical
+a00003	描述人的外表衣着	average height	av·er·age height	lexical
+a00004	描述人的外表衣着	slim	slim	lexical
+a00005	描述人的外表衣着	stout	stout	lexical
+a00006	描述人的外表衣着	plump	plump	lexical
+a00007	描述人的外表衣着	bald	bald	lexical
+a00008	描述人的外表衣着	hair color	hair col·or	lexical
+a00009	描述人的外表衣着	brown	brown	mono
+a00010	描述人的外表衣着	blond	blond	lexical
+a00011	描述人的外表衣着	straight	straight	lexical
+a00012	描述人的外表衣着	fair hair	fair hair	lexical
+a00013	描述人的外表衣着	dyed hair	dyed hair	lexical
+a00014	描述人的外表衣着	parted in the middle	par·ted in the mid·dle	lexical
+a00015	描述人的外表衣着	a pony tail	a po·ny tail	special
+a00016	描述人的外表衣着	long	long	lexical
+a00017	描述人的外表衣着	scar	scar	lexical
+a00018	描述人的外表衣着	beard	beard	lexical
+a00019	描述人的外表衣着	moustache	mous·tache	lexical
+a00020	描述人的外表衣着	wearing glasses	we·aring gla·sses	lexical
+a00021	描述人的外表衣着	contact lenses	con·tact len·ses	lexical
+a00022	描述人的外表衣着	tattoo	tat·too	lexical
+a00023	描述人的外表衣着	trousers	trou·sers	lexical
+a00024	描述人的外表衣着	jeans	jeans	lexical
+a00025	描述人的外表衣着	T-shirt	T-shirt	special
+a00026	描述人的外表衣着	top	top	lexical
+a00027	描述人的外表衣着	pullover	pull·o·ver	reviewed
+a00028	描述人的外表衣着	suit	suit	lexical
+a00029	描述人的外表衣着	sweater	sweat·er	lexical
+a00030	描述人的外表衣着	pink and white striped skirt	pink and white striped skirt	lexical
+a00031	描述人的外表衣着	spotted shirt	spot·ted shirt	reviewed
+a00032	描述人的外表衣着	checked shirt	checked shirt	lexical
+a00033	描述人的外表衣着	be in red	be in red	lexical
+a00034	描述人的外表衣着	be in	be in	lexical
+a00035	描述人的外表衣着	bracelet	brace·let	reviewed
+a00036	描述人的外表衣着	stockings	stock·ings	reviewed
+a00037	描述人的外表衣着	boots	boots	lexical
+a00038	描述人的外表衣着	high-heel shoe	high-heel shoe	lexical
+a00039	描述人的外表衣着	sandal	san·dal	lexical
+a00040	描述人的外表衣着	sports shoes	sports shoes	mono
+a00041	个人信息	full name	full name	lexical
+a00042	个人信息	surname	sur·name	reviewed
+a00043	个人信息	first	first	lexical
+a00044	个人信息	middle initial	mid·dle in·i·tial	lexical
+a00045	个人信息	nationality	na·tion·al·i·ty	lexical
+a00046	个人信息	passport number	pass·port num·ber	lexical
+a00047	个人信息	visa	vi·sa	lexical
+a00048	个人信息	ID	ID	lexical
+a00049	个人信息	driving	driv·ing	lexical
+a00050	个人信息	date ofbirth	date ofbirth	special
+a00051	个人信息	age	age	lexical
+a00052	个人信息	blood type	blood type	lexical
+a00053	个人信息	height	height	lexical
+a00054	个人信息	weight	weight	lexical
+a00055	个人信息	marital status	mar·i·tal sta·tus	lexical
+a00056	个人信息	home address	home ad·dress	lexical
+a00057	个人信息	course applied	course ap·plied	reviewed
+a00058	个人信息	preferred	pre·ferred	lexical
+a00059	个人信息	hobbies	ho·bbies	lexical
+a00060	个人信息	register	reg·is·ter	lexical
+a00061	个人信息	English proficiency	Eng·lish pro·fi·cien·cy	reviewed
+a00062	个人信息	the city	the cit·y	lexical
+a00063	个人信息	home	home	lexical
+a00064	个人信息	date of arrival	date of ar·ri·val	lexical
+a00065	个人信息	signature	sig·na·ture	lexical
+a00066	租房场景	Student Accommodation Center	Stu·dent Ac·com·mo·da·tion Cen·ter	reviewed
+a00067	租房场景	Student Accommodation Officer	Stu·dent Ac·com·mo·da·tion Of·fi·cer	reviewed
+a00068	租房场景	housing coordinator	hous·ing co·or·di·na·tor	reviewed
+a00069	租房场景	newspaper advertisements	news·pa·per ad·ver·tise·ments	lexical
+a00070	租房场景	real estate agency	re·al es·tate a·gen·cy	lexical
+a00071	租房场景	landlord	land·lord	lexical
+a00072	租房场景	landlady	land·la·dy	lexical
+a00073	租房场景	roommate	room·mate	lexical
+a00074	租房场景	for lease	for lease	lexical
+a00075	租房场景	for sale	for sale	lexical
+a00076	租房场景	surroundings	surr·oun·dings	lexical
+a00077	租房场景	rural areas	ru·ral a·re·as	lexical
+a00078	租房场景	suburb	sub·urb	lexical
+a00079	租房场景	downtown	down·town	lexical
+a00080	租房场景	Road(Rd.),Street(St.), lane	Road(Rd.),Street(St.), lane	lexical
+a00081	租房场景	Avenue	Av·e·nue	lexical
+a00082	租房场景	floor number	floor num·ber	lexical
+a00083	租房场景	room number	room num·ber	lexical
+a00084	租房场景	flat	flat	lexical
+a00085	租房场景	dormitory(dorm)	dor·mi·to·ry(dorm)	reviewed
+a00086	租房场景	student hostel	stu·dent hos·tel	lexical
+a00087	租房场景	youth hostel	youth hos·tel	lexical
+a00088	租房场景	homestay	home·stay	lexical
+a00089	租房场景	unit	u·nit	lexical
+a00090	租房场景	townhouse	town·house	lexical
+a00091	租房场景	motel	mo·tel	lexical
+a00092	租房场景	hall	hall	lexical
+a00093	租房场景	bedroom	bed·room	lexical
+a00094	租房场景	a double	a dou·ble	special
+a00095	租房场景	a single bedroom	a sin·gle bed·room	special
+a00096	租房场景	balcony	bal·co·ny	reviewed
+a00097	租房场景	bedroom	bed·room	lexical
+a00098	租房场景	kitchen	kitch·en	lexical
+a00099	租房场景	laundry room	laun·dry room	lexical
+a00100	租房场景	bathroom	bath·room	lexical
+a00101	租房场景	shower	show·er	lexical
+a00102	租房场景	garage	ga·rage	lexical
+a00103	租房场景	hallway	hall·way	lexical
+a00104	租房场景	store room	store room	lexical
+a00105	租房场景	yard	yard	lexical
+a00106	租房场景	garden	gar·den	lexical
+a00107	租房场景	stove	stove	lexical
+a00108	租房场景	fridge	fridge	lexical
+a00109	租房场景	microwave oven	mi·cro·wave ov·en	reviewed
+a00110	租房场景	washing machine	wa·shing ma·chine	lexical
+a00111	租房场景	airconditioner	air·con·di·tion·er	reviewed
+a00112	租房场景	electric fan	e·lec·tric fan	lexical
+a00113	租房场景	radiator	ra·di·a·tor	lexical
+a00114	租房场景	electric stove	e·lec·tric stove	lexical
+a00115	租房场景	unfurnished	un·fur·nished	lexical
+a00116	租房场景	furnished	fur·nished	lexical
+a00117	租房场景	pillow	pil·low	lexical
+a00118	租房场景	pillow case	pil·low case	lexical
+a00119	租房场景	bed linen	bed lin·en	lexical
+a00120	租房场景	spread	spread	lexical
+a00121	租房场景	sheet	sheet	lexical
+a00122	租房场景	mattress	mat·tress	lexical
+a00123	租房场景	blanket	blan·ket	lexical
+a00124	租房场景	towel	tow·el	reviewed
+a00125	租房场景	curtain	cur·tain	lexical
+a00126	租房场景	carpet	car·pet	lexical
+a00127	租房场景	wardrobe	ward·robe	lexical
+a00128	租房场景	utilities	u·ti·li·ties	lexical
+a00129	租房场景	rent	rent	lexical
+a00130	租房场景	bond	bond	lexical
+a00131	租房场景	blackout	black·out	lexical
+a00132	租房场景	pet	pet	lexical
+a00133	租房场景	insect infestation	in·sect in·fes·ta·tion	lexical
+a00134	交 通	travel agency	trav·el a·gen·cy	lexical
+a00135	交 通	book the ticket	book the tick·et	lexical
+a00136	交 通	motel	mo·tel	lexical
+a00137	交 通	hostel	hos·tel	lexical
+a00138	交 通	passport	pass·port	lexical
+a00139	交 通	visa	vi·sa	lexical
+a00140	交 通	make a reservation	make a res·er·va·tion	special
+a00141	交 通	confirm a reservation	con·firm a res·er·va·tion	special
+a00142	交 通	cancel one's reservation	can·cel one's res·er·va·tion	special
+a00143	交 通	frist come,first serve	frist come,first serve	lexical
+a00144	交 通	book a room	book a room	special
+a00145	交 通	cancel one's reservation	can·cel one's res·er·va·tion	special
+a00146	交 通	timetable	time·ta·ble	lexical
+a00147	交 通	fare	fare	lexical
+a00148	交 通	toll	toll	lexical
+a00149	交 通	saver ticket	sav·er tick·et	lexical
+a00150	交 通	open ticket	o·pen tick·et	lexical
+a00151	交 通	oneway ticket	one·way tick·et	reviewed
+a00152	交 通	round-trip	round-trip	lexical
+a00153	交 通	first class	first class	lexical
+a00154	交 通	business class	busi·ness class	lexical
+a00155	交 通	economy class	e·con·o·my class	reviewed
+a00156	交 通	layover	lay·o·ver	lexical
+a00157	交 通	non-stop flight	non-stop flight	lexical
+a00158	交 通	connecting-flight	co·nnec·ting-flight	lexical
+a00159	交 通	flight number	flight num·ber	lexical
+a00160	交 通	take off	take off	lexical
+a00161	交 通	land	land	lexical
+a00162	交 通	check in	check in	lexical
+a00163	交 通	airport tax	air·port tax	lexical
+a00164	交 通	duty-free shop	du·ty-free shop	lexical
+a00165	交 通	excess charge	ex·cess charge	lexical
+a00166	交 通	vacant seat	va·cant seat	lexical
+a00167	交 通	extra charge	ex·tra charge	lexical
+a00168	交 通	fulling-booked	full·ing-booked	lexical
+a00169	交 通	seat arrangement	seat ar·range·ment	lexical
+a00170	交 通	E.T.A(estimated time of arrival)	E.T.A(e·sti·ma·ted time of ar·ri·val)	special
+a00171	交 通	E.T.D(estimated time of departure)	E.T.D(e·sti·ma·ted time of de·par·ture)	special
+a00172	交 通	Expressway	Ex·press·way	lexical
+a00173	交 通	express train	ex·press train	lexical
+a00174	交 通	van	van	lexical
+a00175	交 通	shuttle bus	shut·tle bus	lexical
+a00176	交 通	airport limousine	air·port lim·ou·sine	lexical
+a00177	交 通	berth	berth	lexical
+a00178	交 通	Ford	Ford	mono
+a00179	交 通	Rolls &Royce	Rolls &Royce	lexical
+a00180	交 通	Benz	Benz	mono
+a00181	交 通	BMW	BMW	special
+a00182	交 通	parking lot	park·ing lot	lexical
+a00183	交 通	car park	car park	lexical
+a00184	交 通	parking meter	park·ing me·ter	lexical
+a00185	交 通	parking permit	park·ing per·mit	lexical
+a00186	交 通	pay a fine	pay a fine	special
+a00187	交 通	tow away	tow a·way	lexical
+a00188	交 通	clamp the wheel	clamp the wheel	lexical
+a00189	旅游场景	credit card	cred·it card	lexical
+a00190	旅游场景	driving license	driv·ing li·cense	lexical
+a00191	旅游场景	expire	ex·pire	lexical
+a00192	旅游场景	platform	plat·form	lexical
+a00193	旅游场景	book the room(make a reservation)	book the room(make a res·er·va·tion)	special
+a00194	旅游场景	currency	cur·ren·cy	lexical
+a00195	旅游场景	Canadian dollars	Ca·na·di·an do·llars	reviewed
+a00196	旅游场景	Australian dollars	Aus·tral·ian do·llars	reviewed
+a00197	旅游场景	Pound	Pound	lexical
+a00198	旅游场景	Japanese Yen	Jap·a·nese Yen	reviewed
+a00199	旅游场景	credit card	cred·it card	lexical
+a00200	旅游场景	Visa	Vi·sa	lexical
+a00201	旅游场景	MasterCard	Mas·ter·Card	reviewed
+a00202	旅游场景	American Express	A·mer·i·can Ex·press	reviewed
+a00203	旅游场景	deserts	de·serts	lexical
+a00204	旅游场景	hilly areas	hill·y a·re·as	lexical
+a00205	旅游场景	wetlands	wet·lands	lexical
+a00206	旅游场景	bushland	bush·land	lexical
+a00207	旅游场景	tropical rain forests	trop·i·cal rain fo·rests	lexical
+a00208	旅游场景	resorts	re·sorts	lexical
+a00209	旅游场景	coastal areas	coast·al a·re·as	reviewed
+a00210	旅游场景	lake	lake	lexical
+a00211	旅游场景	hotsprings	hot·springs	reviewed
+a00212	旅游场景	fountain	foun·tain	lexical
+a00213	旅游场景	beaches	bea·ches	lexical
+a00214	旅游场景	spotlight tour	spot·light tour	lexical
+a00215	旅游场景	four-wheel drive	four-wheel drive	lexical
+a00216	旅游场景	waterfalls	wa·ter·falls	lexical
+a00217	旅游场景	castle	cas·tle	lexical
+a00218	旅游场景	art gallery	art gal·ler·y	lexical
+a00219	旅游场景	museum	mu·se·um	lexical
+a00220	旅游场景	public transport	pub·lic trans·port	reviewed
+a00221	旅游场景	private transport	pri·vate trans·port	reviewed
+a00222	旅游场景	ferry	fer·ry	reviewed
+a00223	旅游场景	underground	un·der·ground	lexical
+a00224	旅游场景	river cruise	riv·er cruise	lexical
+a00225	旅游场景	boat trips	boat trips	lexical
+a00226	旅游场景	hiking	hi·king	lexical
+a00227	旅游场景	hitch-hike	hitch-hike	lexical
+a00228	旅游场景	backpacker	back·pack·er	lexical
+a00229	旅游场景	swimming	swim·ming	lexical
+a00230	旅游场景	diving	div·ing	reviewed
+a00231	旅游场景	scuba diving	scu·ba div·ing	reviewed
+a00232	旅游场景	surfing	sur·fing	lexical
+a00233	旅游场景	skiing	ski·ing	reviewed
+a00234	旅游场景	water skiing	wa·ter ski·ing	reviewed
+a00235	旅游场景	hang gliding	hang glid·ing	lexical
+a00236	旅游场景	water polo	wa·ter po·lo	lexical
+a00237	旅游场景	souvenir	sou·ve·nir	lexical
+a00238	旅游场景	snake	snake	lexical
+a00239	旅游场景	stingers	sti·ngers	lexical
+a00240	旅游场景	shark	shark	lexical
+a00241	旅游场景	jellyfish	jel·ly·fish	lexical
+a00242	旅游场景	certain plants	cer·tain plants	lexical
+a00243	旅游场景	beach towel	beach tow·el	reviewed
+a00244	旅游场景	telescopes	te·les·copes	lexical
+a00245	旅游场景	walking boots	walk·ing boots	lexical
+a00246	旅游场景	socks	socks	lexical
+a00247	旅游场景	sunscreen	sun·screen	lexical
+a00248	旅游场景	long trousers	long trou·sers	lexical
+a00249	打工场景	labour market	la·bour mar·ket	lexical
+a00250	打工场景	Labour exchange	La·bour ex·change	lexical
+a00251	打工场景	seasonal work	sea·son·al work	lexical
+a00252	打工场景	piecework	piece·work	reviewed
+a00253	打工场景	timework	time·work	lexical
+a00254	打工场景	position	po·si·tion	lexical
+a00255	打工场景	vacancy	va·can·cy	lexical
+a00256	打工场景	work permit	work per·mit	lexical
+a00257	打工场景	to apply for a job	to ap·ply for a job	special
+a00258	打工场景	occupational disease	oc·cu·pa·tion·al dis·ease	reviewed
+a00259	打工场景	vocational guidance	vo·ca·tion·al guid·ance	lexical
+a00260	打工场景	vocational training	vo·ca·tion·al trai·ning	lexical
+a00261	打工场景	personnel	per·son·nel	lexical
+a00262	打工场景	clerk	clerk	lexical
+a00263	打工场景	trainee	train·ee	lexical
+a00264	打工场景	night shift	night shift	lexical
+a00265	打工场景	trade union	trade un·ion	lexical
+a00266	打工场景	pay	pay	lexical
+a00267	打工场景	premium	pre·mi·um	lexical
+a00268	打工场景	payday	pay·day	lexical
+a00269	打工场景	pay slip	pay slip	lexical
+a00270	打工场景	payroll	pay·roll	lexical
+a00271	打工场景	pension	pen·sion	lexical
+a00272	打工场景	receptionist	re·cep·tion·ist	lexical
+a00273	打工场景	typist	typ·ist	lexical
+a00274	打工场景	key puncher	key punch·er	lexical
+a00275	打工场景	stenographer	ste·nog·ra·pher	lexical
+a00276	打工场景	telephone operator	tel·e·phone op·er·a·tor	lexical
+a00277	打工场景	shorthand typist	short·hand typ·ist	lexical
+a00278	打工场景	delivery boy	de·liv·er·y boy	reviewed
+a00279	打工场景	secretary	sec·re·tar·y	reviewed
+a00280	打工场景	model	mod·el	lexical
+a00281	打工场景	clerk	clerk	lexical
+a00282	打工场景	mailman	mail·man	lexical
+a00283	打工场景	newspaper boy	news·pa·per boy	lexical
+a00284	打工场景	milkman	milk·man	lexical
+a00285	打工场景	florist	flo·rist	lexical
+a00286	打工场景	baker	bak·er	lexical
+a00287	打工场景	guide	guide	lexical
+a00288	打工场景	window dressing	win·dow dress·ing	lexical
+a00289	打工场景	shoplifters	shop·lif·ters	lexical
+a00290	打工场景	keep an eye on stock	keep an eye on stock	lexical
+a00291	打工场景	coffee break	cof·fee break	lexical
+a00292	银 行	ATM	ATM	special
+a00293	银 行	cashier	cash·ier	lexical
+a00294	银 行	loan	loan	lexical
+a00295	银 行	draw	draw	lexical
+a00296	银 行	give the money in fives	give the mon·ey in fives	lexical
+a00297	银 行	pin number	pin num·ber	lexical
+a00298	银 行	credit card	cred·it card	lexical
+a00299	银 行	open a student account	o·pen a stu·dent ac·count	special
+a00300	银 行	check the present balance in your account	check the pres·ent bal·ance in your ac·count	lexical
+a00301	银 行	apply for a personal loan	ap·ply for a per·son·al loan	special
+a00302	银 行	change pounds into dollars	change pounds in·to do·llars	lexical
+a00303	银 行	the current rate	the cur·rent rate	lexical
+a00304	医疗场景	clinic	clin·ic	reviewed
+a00305	医疗场景	physician	phy·si·cian	lexical
+a00306	医疗场景	oculist	oc·u·list	lexical
+a00307	医疗场景	surgeon	sur·geon	lexical
+a00308	医疗场景	dentist	den·tist	lexical
+a00309	医疗场景	vet	vet	lexical
+a00310	医疗场景	see a doctor	see a doc·tor	special
+a00311	医疗场景	send for a doctor	send for a doc·tor	special
+a00312	医疗场景	make an appointment	make an ap·point·ment	lexical
+a00313	医疗场景	symptom	symp·tom	lexical
+a00314	医疗场景	have	have	lexical
+a00315	医疗场景	have a sore throat	have a sore throat	special
+a00316	医疗场景	stomachache	stom·ach·ache	lexical
+a00317	医疗场景	fever	fe·ver	lexical
+a00318	医疗场景	cough	cough	lexical
+a00319	医疗场景	headache	head·ache	lexical
+a00320	医疗场景	toothache	tooth·ache	lexical
+a00321	医疗场景	have a runny nose	have a run·ny nose	special
+a00322	医疗场景	depression	de·pres·sion	reviewed
+a00323	医疗场景	vomit	vom·it	lexical
+a00324	医疗场景	dizzy	diz·zy	lexical
+a00325	医疗场景	feel chilly	feel chill·y	lexical
+a00326	医疗场景	phlegm	phlegm	lexical
+a00327	医疗场景	liver trouble	liv·er trou·ble	lexical
+a00328	医疗场景	pneumonia	pneu·mo·ni·a	reviewed
+a00329	医疗场景	flu	flu	lexical
+a00330	医疗场景	allergy	al·ler·gy	lexical
+a00331	医疗场景	twisted	twi·sted	lexical
+a00332	医疗场景	asthma	asth·ma	lexical
+a00333	医疗场景	diabetics	di·a·bet·ics	reviewed
+a00334	医疗场景	cramps	cramps	lexical
+a00335	医疗场景	diarrhea	di·ar·rhe·a	reviewed
+a00336	医疗场景	have a stuffed nose	have a stuffed nose	special
+a00337	医疗场景	cholera	chol·er·a	reviewed
+a00338	医疗场景	stiff neck	stiff neck	lexical
+a00339	医疗场景	yellow fever	yel·low fe·ver	lexical
+a00340	医疗场景	hay fever	hay fe·ver	lexical
+a00341	医疗场景	pills	pills	lexical
+a00342	医疗场景	tablet	tab·let	lexical
+a00343	医疗场景	capsule	cap·sule	lexical
+a00344	医疗场景	mixture	mix·ture	lexical
+a00345	医疗场景	eyedrops	eye·drops	lexical
+a00346	医疗场景	syrup	syr·up	lexical
+a00347	医疗场景	pad	pad	lexical
+a00348	医疗场景	vitamin	vi·ta·min	reviewed
+a00349	医疗场景	penicillin	pen·i·cil·lin	lexical
+a00350	医疗场景	antibiotic	an·ti·bi·ot·ic	reviewed
+a00351	医疗场景	ointment	oint·ment	lexical
+a00352	医疗场景	medication	med·i·ca·tion	lexical
+a00353	医疗场景	aspirin	as·pi·rin	reviewed
+a00354	医疗场景	cold cure	cold cure	lexical
+a00355	医疗场景	sweating medicine	sweat·ing med·i·cine	lexical
+a00356	医疗场景	febrifuge	feb·ri·fuge	lexical
+a00357	医疗场景	bandage	band·age	lexical
+a00358	医疗场景	syringe	sy·ringe	lexical
+a00359	医疗场景	stethoscope	steth·o·scope	lexical
+a00360	医疗场景	injection	in·jec·tion	lexical
+a00361	医疗场景	preventive injection	pre·ven·tive in·jec·tion	lexical
+a00362	医疗场景	gauze	gauze	lexical
+a00363	医疗场景	case history	case his·to·ry	lexical
+a00364	医疗场景	extract	ex·tract	lexical
+a00365	医疗场景	take one's temperature	take one's tem·per·a·ture	special
+a00366	医疗场景	feel one's pulse	feel one's pulse	special
+a00367	医疗场景	take one's blood pressure	take one's blood pres·sure	special
+a00368	医疗场景	give a prescription	give a pre·scrip·tion	special
+a00369	医疗场景	have an operation	have an op·er·a·tion	lexical
+a00370	地区介绍	province	prov·ince	lexical
+a00371	地区介绍	state	state	lexical
+a00372	地区介绍	county	coun·ty	lexical
+a00373	地区介绍	cost of living	cost of liv·ing	lexical
+a00374	地区介绍	crime	crime	lexical
+a00375	地区介绍	pace of life	pace of life	lexical
+a00376	地区介绍	interesting	in·ter·est·ing	reviewed
+a00377	地区介绍	dull	dull	lexical
+a00378	地区介绍	main	main	lexical
+a00379	地区介绍	manufacturing	man·u·fac·tur·ing	reviewed
+a00380	地区介绍	processing	proc·ess·ing	reviewed
+a00381	地区介绍	farming	farm·ing	lexical
+a00382	地区介绍	sheep and cattle farming	sheep and cat·tle farm·ing	lexical
+a00383	地区介绍	fishing	fish·ing	lexical
+a00384	地区介绍	fish farming	fish farm·ing	lexical
+a00385	地区介绍	wine-making	wine-mak·ing	lexical
+a00386	地区介绍	transportation	trans·por·ta·tion	reviewed
+a00387	地区介绍	printing	prin·ting	lexical
+a00388	地区介绍	electronics	e·lec·tro·nics	lexical
+a00389	地区介绍	climate	cli·mate	lexical
+a00390	地区介绍	annual average	an·nu·al av·er·age	lexical
+a00391	地区介绍	highest	high·est	lexical
+a00392	地区介绍	minus twenty degrees Celsius	mi·nus twen·ty de·grees Cel·si·us	reviewed
+a00393	地区介绍	wet	wet	lexical
+a00394	地区介绍	windy	wind·y	lexical
+a00395	地区介绍	old and wet	old and wet	lexical
+a00396	地区介绍	rainy	rain·y	lexical
+a00397	地区介绍	cloudy	cloud·y	lexical
+a00398	地区介绍	flood	flood	lexical
+a00399	地区介绍	drought	drought	lexical
+a00400	地区介绍	language	lan·guage	lexical
+a00401	地区介绍	accent	ac·cent	lexical
+a00402	地区介绍	dialect	di·a·lect	lexical
+a00403	地区介绍	main attraction	main at·trac·tion	lexical
+a00404	地区介绍	wine	wine	lexical
+a00405	地区介绍	wool	wool	lexical
+a00406	地区介绍	cereals	ce·re·als	lexical
+a00407	地区介绍	timber	tim·ber	lexical
+a00408	地理方位	be far from	be far from	lexical
+a00409	地理方位	be nearby	be near·by	lexical
+a00410	地理方位	go straight across	go straight a·cross	lexical
+a00411	地理方位	go up	go up	lexical
+a00412	地理方位	go back	go back	lexical
+a00413	地理方位	go east	go east	lexical
+a00414	地理方位	be on sb's left	be on sb's left	special
+a00415	地理方位	be the first	be the first	lexical
+a00416	地理方位	directly opposite	di·rect·ly op·po·site	lexical
+a00417	地理方位	be located behind	be lo·ca·ted be·hind	lexical
+a00418	地理方位	be on the corner of A street and B street	be on the cor·ner of A street and B street	special
+a00419	地理方位	be in the corner of	be in the cor·ner of	lexical
+a00420	地理方位	wing	wing	lexical
+a00421	地理方位	annex	an·nex	lexical
+a00422	地理方位	basement	base·ment	lexical
+a00423	地理方位	twin building	twin build·ing	lexical
+a00424	地理方位	landmark	land·mark	lexical
+a00425	地理方位	block	block	lexical
+a00426	地理方位	complex	com·plex	lexical
+a00427	地理方位	stair	stair	lexical
+a00428	地理方位	step	step	lexical
+a00429	地理方位	aisle	aisle	lexical
+a00430	地理方位	wheel chair access	wheel chair ac·cess	lexical
+a00431	地理方位	intersection	in·ter·sec·tion	lexical
+a00432	地理方位	a fork on the road	a fork on the road	special
+a00433	地理方位	a T road	a T road	special
+a00434	地理方位	intersection	in·ter·sec·tion	lexical
+a00435	地理方位	flyover	fly·o·ver	lexical
+a00436	地名	U.K.	U.K.	special
+a00437	地名	London	Lon·don	reviewed
+a00438	地名	England	Eng·land	reviewed
+a00439	地名	Liverpool	Liv·er·pool	reviewed
+a00440	地名	Manchester	Man·ches·ter	reviewed
+a00441	地名	Sheffield	Shef·field	reviewed
+a00442	地名	Birmingham	Bir·ming·ham	reviewed
+a00443	地名	Coventry	Cov·en·try	reviewed
+a00444	地名	Leeds	Leeds	lexical
+a00445	地名	Scotland	Scot·land	reviewed
+a00446	地名	Glasgow	Glas·gow	reviewed
+a00447	地名	Edinburgh	Edinburgh	special
+a00448	地名	Wales	Wales	lexical
+a00449	地名	Cardiff	Car·diff	reviewed
+a00450	地名	North Ireland	North Ire·land	reviewed
+a00451	地名	Belfast	Bel·fast	reviewed
+a00452	地名	Ireland	Ire·land	reviewed
+a00453	地名	Dublin	Dub·lin	reviewed
+a00454	地名	Australia	Aus·tral·ia	reviewed
+a00455	地名	Canberra	Can·ber·ra	reviewed
+a00456	地名	Queensland	Queens·land	reviewed
+a00457	地名	Brisbane	Bris·bane	reviewed
+a00458	地名	New South Wales	New South Wales	lexical
+a00459	地名	Sydney	Syd·ney	reviewed
+a00460	地名	South Australia	South Aus·tral·ia	reviewed
+a00461	地名	Adelaide	Ad·e·laide	reviewed
+a00462	地名	Victoria	Vic·to·ri·a	reviewed
+a00463	地名	Melbourne	Mel·bourne	reviewed
+a00464	地名	Western Australia	West·ern Aus·tral·ia	reviewed
+a00465	地名	Perth	Perth	mono
+a00466	地名	New Zealand	New Zeal·and	reviewed
+a00467	地名	Wellington	Wel·ling·ton	reviewed
+a00468	地名	British Columbia	Brit·ish Co·lum·bi·a	reviewed
+a00469	地名	Vancouver	Van·cou·ver	reviewed
+a00470	地名	Edmonton	Ed·mon·ton	reviewed
+a00471	地名	Toronto	To·ron·to	reviewed
+a00472	地名	Montreal	Mon·tre·al	reviewed
+a00473	地名	The United States of America	The U·nit·ed States of A·mer·i·ca	reviewed
+a00474	地名	Washington	Wash·ing·ton	reviewed
+a00475	地名	New York	New York	lexical
+a00476	地名	Boston	Bos·ton	reviewed
+a00477	地名	Atlanta	At·lan·ta	reviewed
+a00478	地名	Seattle	Se·at·tle	reviewed
+a00479	地名	Los Angeles	Los An·ge·les	reviewed
+a00480	地名	Chicago	Chi·ca·go	reviewed
+a00481	新生报到会	admission office	ad·mis·sion of·fice	lexical
+a00482	新生报到会	register	reg·is·ter	lexical
+a00483	新生报到会	student union	stu·dent un·ion	lexical
+a00484	新生报到会	opening ceremony	o·pen·ing cer·e·mo·ny	reviewed
+a00485	新生报到会	orientation meeting	o·ri·en·ta·tion meet·ing	lexical
+a00486	新生报到会	lecture	lec·ture	lexical
+a00487	新生报到会	picnic	pic·nic	lexical
+a00488	新生报到会	barbecue	bar·be·cue	reviewed
+a00489	新生报到会	president	pres·i·dent	lexical
+a00490	新生报到会	chancellor	chan·cel·lor	reviewed
+a00491	新生报到会	headmaster	head·mas·ter	lexical
+a00492	新生报到会	headmistress	head·mis·tress	lexical
+a00493	新生报到会	faculty	fac·ul·ty	lexical
+a00494	新生报到会	dean	dean	lexical
+a00495	新生报到会	professor	pro·fes·sor	lexical
+a00496	新生报到会	associate professor	as·so·ci·ate pro·fes·sor	reviewed
+a00497	新生报到会	assistant professor	as·sis·tant pro·fes·sor	lexical
+a00498	新生报到会	adviser	ad·vis·er	lexical
+a00499	新生报到会	lecturer	lec·tur·er	lexical
+a00500	新生报到会	counselor	coun·se·lor	lexical
+a00501	新生报到会	coordinator	co·or·di·na·tor	reviewed
+a00502	选课场景	Portuguese	Por·tu·guese	reviewed
+a00503	选课场景	Italian	I·tal·ian	reviewed
+a00504	选课场景	Russian	Rus·sian	reviewed
+a00505	选课场景	Arabic	Ar·a·bic	reviewed
+a00506	选课场景	Mandarin(Standard Chinese )	Man·da·rin(Stan·dard Chi·nese )	reviewed
+a00507	选课场景	Cantonese	Can·ton·ese	reviewed
+a00508	选课场景	Spanish	Spa·nish	lexical
+a00509	选课场景	French	French	mono
+a00510	选课场景	German	Ger·man	lexical
+a00511	选课场景	Latin	Lat·in	reviewed
+a00512	选课场景	Greek	Greek	mono
+a00513	选课场景	fundamental	fun·da·men·tal	reviewed
+a00514	选课场景	intermediate	in·ter·me·di·ate	reviewed
+a00515	选课场景	advanced	ad·vanced	lexical
+a00516	选课场景	selective	se·lec·tive	lexical
+a00517	选课场景	required course	re·qui·red course	lexical
+a00518	选课场景	exemption	ex·emp·tion	lexical
+a00519	选课场景	applicant	ap·pli·cant	lexical
+a00520	选课场景	enrolment	en·rol·ment	reviewed
+a00521	选课场景	application form	ap·pli·ca·tion form	reviewed
+a00522	选课场景	course arrangement	course ar·range·ment	lexical
+a00523	选课场景	letter of recommendation	let·ter of rec·om·men·da·tion	lexical
+a00524	选课场景	school	school	lexical
+a00525	选课场景	graduate school	grad·u·ate school	lexical
+a00526	选课场景	undergraduate	un·der·grad·u·ate	lexical
+a00527	选课场景	postgraduate	post·grad·u·ate	lexical
+a00528	选课场景	School of Arts and Sciences	School of Arts and Sci·en·ces	lexical
+a00529	选课场景	score	score	lexical
+a00530	选课场景	credit	cred·it	lexical
+a00531	选课场景	degree	de·gree	lexical
+a00532	选课场景	certificate	cer·tif·i·cate	reviewed
+a00533	选课场景	diploma	di·plo·ma	lexical
+a00534	授课场景	literature	lit·er·a·ture	reviewed
+a00535	授课场景	philosophy	phi·los·o·phy	lexical
+a00536	授课场景	history	his·to·ry	lexical
+a00537	授课场景	art	art	lexical
+a00538	授课场景	sociology	so·ci·ol·o·gy	reviewed
+a00539	授课场景	linguistics	lin·guis·tics	lexical
+a00540	授课场景	psychology	psy·chol·o·gy	lexical
+a00541	授课场景	engineering	en·gi·neer·ing	lexical
+a00542	授课场景	architecture	ar·chi·tec·ture	reviewed
+a00543	授课场景	business	busi·ness	lexical
+a00544	授课场景	law	law	lexical
+a00545	授课场景	economics	e·co·nom·ics	reviewed
+a00546	授课场景	finance	fi·nance	lexical
+a00547	授课场景	accounting	ac·count·ing	lexical
+a00548	授课场景	banking	ban·king	lexical
+a00549	授课场景	biochemistry	bi·o·chem·is·try	lexical
+a00550	授课场景	TA(Teaching Assistant)	TA(Teach·ing As·sis·tant)	lexical
+a00551	授课场景	office hour	of·fice hour	lexical
+a00552	授课场景	assessment	as·sess·ment	lexical
+a00553	授课场景	handout	hand·out	lexical
+a00554	授课场景	assignment	as·sign·ment	lexical
+a00555	授课场景	presentation	pres·en·ta·tion	lexical
+a00556	授课场景	project	proj·ect	lexical
+a00557	授课场景	paper	pa·per	lexical
+a00558	授课场景	essay	es·say	lexical
+a00559	授课场景	class participation	class par·tic·i·pa·tion	reviewed
+a00560	授课场景	attendance	at·tend·ance	reviewed
+a00561	授课场景	lecture	lec·ture	lexical
+a00562	授课场景	tutorial	tu·to·ri·al	reviewed
+a00563	授课场景	seminar	sem·i·nar	lexical
+a00564	授课场景	workshop	work·shop	lexical
+a00565	授课场景	research	re·search	lexical
+a00566	授课场景	deadline	dead·line	lexical
+a00567	授课场景	teaching aid	teach·ing aid	lexical
+a00568	授课场景	laptop	lap·top	reviewed
+a00569	授课场景	Powerpoint (ppt.)	Pow·er·point (ppt.)	reviewed
+a00570	授课场景	overhead projector	o·ver·head pro·jec·tor	lexical
+a00571	授课场景	slide	slide	lexical
+a00572	图书馆场景	catalogue	cat·a·logue	lexical
+a00573	图书馆场景	reference stacks	ref·er·ence stacks	reviewed
+a00574	图书馆场景	library card	li·brar·y card	lexical
+a00575	图书馆场景	date slip	date slip	lexical
+a00576	图书馆场景	due	due	lexical
+a00577	图书馆场景	overdue and pay a fine	o·ver·due and pay a fine	special
+a00578	图书馆场景	renew	re·new	lexical
+a00579	图书馆场景	available	a·vail·a·ble	lexical
+a00580	图书馆场景	out on loan	out on loan	lexical
+a00581	图书馆场景	closed reserved	closed re·served	lexical
+a00582	图书馆场景	in circulation	in cir·cu·la·tion	lexical
+a00583	图书馆场景	out circulation	out cir·cu·la·tion	lexical
+a00584	图书馆场景	not for circulation	not for cir·cu·la·tion	lexical
+a00585	图书馆场景	held in the closed reserved	held in the closed re·served	lexical
+a00586	图书馆场景	classification	clas·si·fi·ca·tion	lexical
+a00587	图书馆场景	category	cat·e·go·ry	lexical
+a00588	图书馆场景	bibliography	bib·li·og·ra·phy	reviewed
+a00589	图书馆场景	periodical (magazines and journals)	pe·ri·od·i·cal (mag·a·zines and jour·nals)	reviewed
+a00590	图书馆场景	return in time	re·turn in time	lexical
+a00591	图书馆场景	interlibrary service	in·ter·li·brar·y ser·vice	lexical
+a00592	图书馆场景	open	o·pen	lexical
+a00593	计算机房	computer lab	com·put·er lab	reviewed
+a00594	计算机房	mainframe	main·frame	lexical
+a00595	计算机房	monitor	mon·i·tor	lexical
+a00596	计算机房	screen	screen	lexical
+a00597	计算机房	keyboard	key·board	lexical
+a00598	计算机房	modem	mo·dem	lexical
+a00599	计算机房	cable modem	ca·ble mo·dem	lexical
+a00600	计算机房	mouse	mouse	lexical
+a00601	计算机房	hard disk	hard disk	lexical
+a00602	计算机房	floppy disk	flop·py disk	lexical
+a00603	计算机房	disc	disc	lexical
+a00604	计算机房	memory	mem·o·ry	lexical
+a00605	计算机房	sound card	sound card	lexical
+a00606	计算机房	graphic card	graph·ic card	reviewed
+a00607	计算机房	loudspeaker	loud·speak·er	lexical
+a00608	计算机房	printer	print·er	lexical
+a00609	计算机房	scanner	scan·ner	lexical
+a00610	计算机房	photocopier	pho·to·cop·i·er	lexical
+a00611	计算机房	laser printer	la·ser print·er	lexical
+a00612	计算机房	dot-matrix printer	dot-ma·trix print·er	lexical
+a00613	计算机房	color inject printer	col·or in·ject print·er	lexical
+a00614	计算机房	software program	soft·ware pro·gram	lexical
+a00615	计算机房	virus	vi·rus	lexical
+a00616	计算机房	copyright law	cop·y·right law	lexical
+a00617	计算机房	copy	cop·y	lexical
+a00618	问卷调查	poll	poll	lexical
+a00619	问卷调查	survey	sur·vey	lexical
+a00620	问卷调查	sample	sam·ple	lexical
+a00621	问卷调查	respondent	re·spond·ent	reviewed
+a00622	问卷调查	interviewee	in·ter·view·ee	reviewed
+a00623	问卷调查	interview	in·ter·view	lexical
+a00624	问卷调查	questionnaire	ques·tion·naire	lexical
+a00625	问卷调查	observation	ob·ser·va·tion	lexical
+a00626	问卷调查	short answer questions	short an·swer ques·tions	reviewed
+a00627	问卷调查	multiple choice	mul·ti·ple choice	lexical
+a00628	问卷调查	matching	ma·tching	lexical
+a00629	问卷调查	rate	rate	lexical
+a00630	问卷调查	rank	rank	lexical
+a00631	问卷调查	classification	clas·si·fi·ca·tion	lexical
+a00632	问卷调查	gap filling	gap fill·ing	lexical
+a00633	问卷调查	hypothesis	hy·poth·e·sis	reviewed
+a00634	问卷调查	statistics	sta·tis·tics	reviewed
+a00635	问卷调查	statistically valid	sta·tis·ti·cal·ly val·id	reviewed
+a00636	问卷调查	data	da·ta	reviewed
+a00637	问卷调查	investigation	in·ves·ti·ga·tion	reviewed
+a00638	问卷调查	quantitative	quan·ti·ta·tive	reviewed
+a00639	问卷调查	significant difference	sig·nif·i·cant dif·fer·ence	reviewed
+a00640	问卷调查	analyze	an·a·lyze	lexical
+a00641	问卷调查	results	re·sults	lexical
+a00642	问卷调查	conclusion	con·clu·sion	lexical
+a00643	问卷调查	interpretation	in·ter·pre·ta·tion	reviewed
+a00644	问卷调查	opinion	o·pin·ion	lexical
+a00645	问卷调查	private opinions	pri·vate o·pin·ions	lexical
+a00646	问卷调查	public opinions	pub·lic o·pin·ions	lexical
+a00647	学校生活	campus	cam·pus	lexical
+a00648	学校生活	accommodation	ac·com·mo·da·tion	reviewed
+a00649	学校生活	dorm	dorm	lexical
+a00650	学校生活	dormmate	dor·mmate	lexical
+a00651	学校生活	canteen	can·teen	lexical
+a00652	学校生活	dining hall	din·ing hall	reviewed
+a00653	学校生活	cafeteria	caf·e·te·ri·a	reviewed
+a00654	学校生活	vegetarian	veg·e·tar·i·an	reviewed
+a00655	学校生活	pie	pie	lexical
+a00656	学校生活	pudding	pud·ding	reviewed
+a00657	学校生活	soup	soup	lexical
+a00658	学校生活	coffee	cof·fee	lexical
+a00659	学校生活	fish and chips	fish and chips	lexical
+a00660	学校生活	greasy	greas·y	lexical
+a00661	学校生活	parking lot	park·ing lot	lexical
+a00662	学校生活	parking regulations	park·ing reg·u·la·tions	reviewed
+a00663	学校生活	shopping mall	shop·ping mall	lexical
+a00664	学校生活	teaching building	teach·ing build·ing	lexical
+a00665	学校生活	lecture theatre	lec·ture the·a·tre	lexical
+a00666	学校生活	administrating office	ad·min·is·trat·ing of·fice	reviewed
+a00667	学校生活	laboratory	la·bor·a·to·ry	reviewed
+a00668	学校生活	student union	stu·dent un·ion	lexical
+a00669	学校生活	club	club	lexical
+a00670	学校生活	society	so·ci·e·ty	reviewed
+a00671	学校生活	student account	stu·dent ac·count	lexical
+a00672	学校生活	current account	cur·rent ac·count	lexical
+a00673	学校生活	chequebook	cheque·book	lexical
+a00674	学校生活	withdraw cash	with·draw cash	lexical
+a00675	学校生活	deposit money in a band	de·pos·it mon·ey in a band	special
+a00676	学校生活	tuition	tu·i·tion	reviewed
+a00677	学校生活	midterm	mid·term	lexical
+a00678	学校生活	final	fi·nal	lexical
+a00679	雅思写作名词精选	abolition	ab·o·li·tion	lexical
+a00680	雅思写作名词精选	absurdity	ab·surd·i·ty	lexical
+a00681	雅思写作名词精选	abuse	a·buse	lexical
+a00682	雅思写作名词精选	achievement	a·chieve·ment	lexical
+a00683	雅思写作名词精选	adaptation	ad·ap·ta·tion	lexical
+a00684	雅思写作名词精选	admiration	ad·mi·ra·tion	lexical
+a00685	雅思写作名词精选	adventurer	ad·ven·tur·er	lexical
+a00686	雅思写作名词精选	adverse impact	ad·verse im·pact	lexical
+a00687	雅思写作名词精选	adversity	ad·ver·si·ty	reviewed
+a00688	雅思写作名词精选	affection	af·fec·tion	lexical
+a00689	雅思写作名词精选	alienation	al·i·en·a·tion	reviewed
+a00690	雅思写作名词精选	ambition	am·bi·tion	reviewed
+a00691	雅思写作名词精选	amusement	a·muse·ment	lexical
+a00692	雅思写作名词精选	anecdote	an·ec·dote	lexical
+a00693	雅思写作名词精选	apathy	ap·a·thy	lexical
+a00694	雅思写作名词精选	approach	ap·proach	lexical
+a00695	雅思写作名词精选	assault	as·sault	lexical
+a00696	雅思写作名词精选	assessment	as·sess·ment	lexical
+a00697	雅思写作名词精选	association	as·so·ci·a·tion	reviewed
+a00698	雅思写作名词精选	athlete	ath·lete	lexical
+a00699	雅思写作名词精选	availability	a·vail·a·bil·i·ty	lexical
+a00700	雅思写作名词精选	barrier	bar·ri·er	reviewed
+a00701	雅思写作名词精选	behavior	be·hav·ior	reviewed
+a00702	雅思写作名词精选	beneficiary	ben·e·fi·ci·ar·y	lexical
+a00703	雅思写作名词精选	budget	budg·et	lexical
+a00704	雅思写作名词精选	burden	bur·den	lexical
+a00705	雅思写作名词精选	campaign	cam·paign	lexical
+a00706	雅思写作名词精选	candidate	can·di·date	lexical
+a00707	雅思写作名词精选	capacity	ca·pac·i·ty	lexical
+a00708	雅思写作名词精选	celebrity	ce·leb·ri·ty	reviewed
+a00709	雅思写作名词精选	character	char·ac·ter	lexical
+a00710	雅思写作名词精选	characteristic	char·ac·ter·is·tic	reviewed
+a00711	雅思写作名词精选	charm	charm	lexical
+a00712	雅思写作名词精选	clerk	clerk	lexical
+a00713	雅思写作名词精选	cohesion	co·he·sion	lexical
+a00714	雅思写作名词精选	colleague	col·league	lexical
+a00715	雅思写作名词精选	collectivism	col·lec·tiv·is·m	reviewed
+a00716	雅思写作名词精选	comfort	com·fort	reviewed
+a00717	雅思写作名词精选	commercial	com·mer·cial	lexical
+a00718	雅思写作名词精选	commercialization	com·mer·cial·i·za·tion	lexical
+a00719	雅思写作名词精选	commodity	com·mod·i·ty	lexical
+a00720	雅思写作名词精选	companion	com·pan·ion	reviewed
+a00721	雅思写作名词精选	conformity	con·form·i·ty	reviewed
+a00722	雅思写作名词精选	consultation	con·sul·ta·tion	lexical
+a00723	雅思写作名词精选	consumption	con·sump·tion	lexical
+a00724	雅思写作名词精选	content	con·tent	lexical
+a00725	雅思写作名词精选	contentment	con·tent·ment	lexical
+a00726	雅思写作名词精选	contribution	con·tri·bu·tion	lexical
+a00727	雅思写作名词精选	correlation	cor·re·la·tion	reviewed
+a00728	雅思写作名词精选	costume	cos·tume	lexical
+a00729	雅思写作名词精选	creativity	cre·a·tiv·i·ty	lexical
+a00730	雅思写作名词精选	criteria	cri·te·ri·a	reviewed
+a00731	雅思写作名词精选	cruelty	cru·el·ty	lexical
+a00732	雅思写作名词精选	customer	cus·tom·er	lexical
+a00733	雅思写作名词精选	cybercrime	cy·ber·crime	lexical
+a00734	雅思写作名词精选	depression	de·pres·sion	reviewed
+a00735	雅思写作名词精选	deprivation	de·pri·va·tion	lexical
+a00736	雅思写作名词精选	descendant	de·scend·ant	lexical
+a00737	雅思写作名词精选	deterioration	de·te·ri·o·ra·tion	reviewed
+a00738	雅思写作名词精选	detour	de·tour	lexical
+a00739	雅思写作名词精选	developed countries	de·vel·oped coun·tries	reviewed
+a00740	雅思写作名词精选	developing countries	de·vel·op·ing coun·tries	reviewed
+a00741	雅思写作名词精选	digestion	di·ges·tion	lexical
+a00742	雅思写作名词精选	dignity	dig·ni·ty	reviewed
+a00743	雅思写作名词精选	discipline	dis·ci·pline	lexical
+a00744	雅思写作名词精选	discomfort	dis·com·fort	reviewed
+a00745	雅思写作名词精选	discontent	dis·con·tent	lexical
+a00746	雅思写作名词精选	discrimination	dis·crim·i·na·tion	reviewed
+a00747	雅思写作名词精选	disgust	dis·gust	lexical
+a00748	雅思写作名词精选	disorder	dis·or·der	lexical
+a00749	雅思写作名词精选	disorientation	dis·o·ri·en·ta·tion	lexical
+a00750	雅思写作名词精选	disposition	dis·po·si·tion	reviewed
+a00751	雅思写作名词精选	distraction	dis·trac·tion	lexical
+a00752	雅思写作名词精选	diversity	di·ver·si·ty	reviewed
+a00753	雅思写作名词精选	domain	do·main	lexical
+a00754	雅思写作名词精选	duplication	du·pli·ca·tion	lexical
+a00755	雅思写作名词精选	duration	du·ra·tion	lexical
+a00756	雅思写作名词精选	employee	em·ploy·ee	lexical
+a00757	雅思写作名词精选	employer	em·ploy·er	lexical
+a00758	雅思写作名词精选	endeavor	en·deav·or	reviewed
+a00759	雅思写作名词精选	enjoyment	en·joy·ment	lexical
+a00760	雅思写作名词精选	enthusiasm	en·thu·si·as·m	reviewed
+a00761	雅思写作名词精选	equality	e·qual·i·ty	lexical
+a00762	雅思写作名词精选	evaluation	e·val·u·a·tion	reviewed
+a00763	雅思写作名词精选	exception	ex·cep·tion	lexical
+a00764	雅思写作名词精选	export	ex·port	lexical
+a00765	雅思写作名词精选	feature	fea·ture	lexical
+a00766	雅思写作名词精选	fidelity	fi·del·i·ty	reviewed
+a00767	雅思写作名词精选	flexibility	flex·i·bil·i·ty	lexical
+a00768	雅思写作名词精选	forefather	fore·fa·ther	lexical
+a00769	雅思写作名词精选	freedom	free·dom	lexical
+a00770	雅思写作名词精选	frustration	frus·tra·tion	lexical
+a00771	雅思写作名词精选	goodwill	good·will	lexical
+a00772	雅思写作名词精选	grace	grace	lexical
+a00773	雅思写作名词精选	guardian	guard·i·an	reviewed
+a00774	雅思写作名词精选	halt	halt	lexical
+a00775	雅思写作名词精选	hardship	hard·ship	lexical
+a00776	雅思写作名词精选	heritage	her·it·age	lexical
+a00777	雅思写作名词精选	horizon	ho·ri·zon	lexical
+a00778	雅思写作名词精选	hostility	hos·til·i·ty	reviewed
+a00779	雅思写作名词精选	humanity	hu·man·i·ty	reviewed
+a00780	雅思写作名词精选	idol	i·dol	lexical
+a00781	雅思写作名词精选	immunity	im·mu·ni·ty	reviewed
+a00782	雅思写作名词精选	import	im·port	lexical
+a00783	雅思写作名词精选	indication	in·di·ca·tion	lexical
+a00784	雅思写作名词精选	indifference	in·dif·fer·ence	reviewed
+a00785	雅思写作名词精选	individuality	in·di·vid·u·al·i·ty	lexical
+a00786	雅思写作名词精选	industry	in·dus·try	lexical
+a00787	雅思写作名词精选	inequality	in·e·qual·i·ty	lexical
+a00788	雅思写作名词精选	infrastructure	in·fra·struc·ture	lexical
+a00789	雅思写作名词精选	ingenuity	in·ge·nu·i·ty	reviewed
+a00790	雅思写作名词精选	initiative	in·i·tia·tive	reviewed
+a00791	雅思写作名词精选	instruction	in·struc·tion	lexical
+a00792	雅思写作名词精选	integrity	in·teg·ri·ty	reviewed
+a00793	雅思写作名词精选	intellectual	in·tel·lec·tu·al	reviewed
+a00794	雅思写作名词精选	intelligence	in·tel·li·gence	reviewed
+a00795	雅思写作名词精选	interaction	in·ter·ac·tion	lexical
+a00796	雅思写作名词精选	interference	in·ter·fer·ence	reviewed
+a00797	雅思写作名词精选	interpretation	in·ter·pre·ta·tion	reviewed
+a00798	雅思写作名词精选	intolerance	in·tol·er·ance	reviewed
+a00799	雅思写作名词精选	involvement	in·volve·ment	lexical
+a00800	雅思写作名词精选	jealousy	jeal·ous·y	lexical
+a00801	雅思写作名词精选	joint effort	joint ef·fort	lexical
+a00802	雅思写作名词精选	journalist	jour·nal·ist	lexical
+a00803	雅思写作名词精选	lack	lack	lexical
+a00804	雅思写作名词精选	landmark	land·mark	lexical
+a00805	雅思写作名词精选	life expectancy	life ex·pect·an·cy	lexical
+a00806	雅思写作名词精选	literacy	lit·er·a·cy	lexical
+a00807	雅思写作名词精选	manufacturer	man·u·fac·tur·er	reviewed
+a00808	雅思写作名词精选	match	match	lexical
+a00809	雅思写作名词精选	measure	meas·ure	lexical
+a00810	雅思写作名词精选	minority	mi·nor·i·ty	lexical
+a00811	雅思写作名词精选	misconduct	mis·con·duct	lexical
+a00812	雅思写作名词精选	morality	mo·ral·i·ty	lexical
+a00813	雅思写作名词精选	motion	mo·tion	lexical
+a00814	雅思写作名词精选	norm	norm	mono
+a00815	雅思写作名词精选	notion	no·tion	lexical
+a00816	雅思写作名词精选	obligation	ob·li·ga·tion	lexical
+a00817	雅思写作名词精选	obstacle	ob·sta·cle	lexical
+a00818	雅思写作名词精选	occupation	oc·cu·pa·tion	lexical
+a00819	雅思写作名词精选	opponent	op·po·nent	lexical
+a00820	雅思写作名词精选	originality	o·rig·i·nal·i·ty	reviewed
+a00821	雅思写作名词精选	outcome	out·come	lexical
+a00822	雅思写作名词精选	outlook	out·look	lexical
+a00823	雅思写作名词精选	participation	par·tic·i·pa·tion	reviewed
+a00824	雅思写作名词精选	pastime	pas·time	reviewed
+a00825	雅思写作名词精选	peer	peer	lexical
+a00826	雅思写作名词精选	penalty	pen·al·ty	reviewed
+a00827	雅思写作名词精选	perseverance	per·se·ver·ance	reviewed
+a00828	雅思写作名词精选	personality	per·son·al·i·ty	lexical
+a00829	雅思写作名词精选	perspective	per·spec·tive	lexical
+a00830	雅思写作名词精选	popularity	pop·u·lar·i·ty	lexical
+a00831	雅思写作名词精选	popularization	pop·u·lar·i·za·tion	lexical
+a00832	雅思写作名词精选	practice	prac·tice	lexical
+a00833	雅思写作名词精选	precaution	pre·cau·tion	lexical
+a00834	雅思写作名词精选	principle	prin·ci·ple	lexical
+a00835	雅思写作名词精选	profession	pro·fes·sion	lexical
+a00836	雅思写作名词精选	proficiency	pro·fi·cien·cy	reviewed
+a00837	雅思写作名词精选	promotion	pro·mo·tion	lexical
+a00838	雅思写作名词精选	prospect	pros·pect	lexical
+a00839	雅思写作名词精选	prosperity	pros·per·i·ty	lexical
+a00840	雅思写作名词精选	protocol	pro·to·col	lexical
+a00841	雅思写作名词精选	prudence	pru·dence	lexical
+a00842	雅思写作名词精选	public opinion	pub·lic o·pin·ion	lexical
+a00843	雅思写作名词精选	punishment	pun·ish·ment	lexical
+a00844	雅思写作名词精选	purity	pu·ri·ty	lexical
+a00845	雅思写作名词精选	rebellion	re·bel·lion	lexical
+a00846	雅思写作名词精选	recovery	re·cov·er·y	reviewed
+a00847	雅思写作名词精选	regression	re·gres·sion	lexical
+a00848	雅思写作名词精选	regulator	reg·u·la·tor	reviewed
+a00849	雅思写作名词精选	reliability	re·li·a·bil·i·ty	lexical
+a00850	雅思写作名词精选	remedy	rem·e·dy	lexical
+a00851	雅思写作名词精选	remote education	re·mote ed·u·ca·tion	lexical
+a00852	雅思写作名词精选	revelation	rev·e·la·tion	lexical
+a00853	雅思写作名词精选	revenue	rev·e·nue	lexical
+a00854	雅思写作名词精选	reward	re·ward	lexical
+a00855	雅思写作名词精选	rumor	ru·mor	lexical
+a00856	雅思写作名词精选	satisfaction	sat·is·fac·tion	reviewed
+a00857	雅思写作名词精选	self-discipline	self-dis·ci·pline	lexical
+a00858	雅思写作名词精选	self-respect	self-re·spect	lexical
+a00859	雅思写作名词精选	shortcoming	short·com·ing	lexical
+a00860	雅思写作名词精选	side-effect	side-ef·fect	lexical
+a00861	雅思写作名词精选	signal	sig·nal	lexical
+a00862	雅思写作名词精选	sociologist	so·ci·ol·o·gist	reviewed
+a00863	雅思写作名词精选	soul	soul	lexical
+a00864	雅思写作名词精选	specialty	spe·cial·ty	reviewed
+a00865	雅思写作名词精选	stability	sta·bil·i·ty	reviewed
+a00866	雅思写作名词精选	status	sta·tus	lexical
+a00867	雅思写作名词精选	stereotype	ster·e·o·type	reviewed
+a00868	雅思写作名词精选	straightforwardness	straight·for·ward·ness	lexical
+a00869	雅思写作名词精选	strain	strain	lexical
+a00870	雅思写作名词精选	strategy	strat·e·gy	lexical
+a00871	雅思写作名词精选	strength	strength	lexical
+a00872	雅思写作名词精选	stress	stress	lexical
+a00873	雅思写作名词精选	substance	sub·stance	lexical
+a00874	雅思写作名词精选	supplement	sup·ple·ment	lexical
+a00875	雅思写作名词精选	sympathy	sym·pa·thy	lexical
+a00876	雅思写作名词精选	symptom	symp·tom	lexical
+a00877	雅思写作名词精选	talent	tal·ent	lexical
+a00878	雅思写作名词精选	teenager	teen·ag·er	lexical
+a00879	雅思写作名词精选	temper	tem·per	lexical
+a00880	雅思写作名词精选	temptation	temp·ta·tion	lexical
+a00881	雅思写作名词精选	threshold	thresh·old	lexical
+a00882	雅思写作名词精选	tip	tip	lexical
+a00883	雅思写作名词精选	tolerance	tol·er·ance	lexical
+a00884	雅思写作名词精选	tragedy	trag·e·dy	lexical
+a00885	雅思写作名词精选	trait	trait	lexical
+a00886	雅思写作名词精选	trap	trap	lexical
+a00887	雅思写作名词精选	triviality	triv·i·al·i·ty	reviewed
+a00888	雅思写作名词精选	troublemaker	trou·ble·mak·er	lexical
+a00889	雅思写作名词精选	tutor	tu·tor	lexical
+a00890	雅思写作名词精选	uniformity	u·ni·form·i·ty	lexical
+a00891	雅思写作名词精选	vanity	van·i·ty	lexical
+a00892	雅思写作名词精选	variety	va·ri·e·ty	reviewed
+a00893	雅思写作名词精选	vexation	vex·a·tion	lexical
+a00894	雅思写作名词精选	victim	vic·tim	lexical
+a00895	雅思写作名词精选	vitality	vi·tal·i·ty	lexical
+a00896	雅思写作名词精选	void	void	lexical
+a00897	雅思写作名词精选	warmth	warmth	lexical
+a00898	雅思写作名词精选	weakness	weak·ness	lexical
+a00899	雅思写作名词精选	withdrawal	with·draw·al	lexical
+a00900	雅思写作名词精选	zeal	zeal	lexical
+a00901	雅思写作动词精选	abide by	a·bide by	lexical
+a00902	雅思写作动词精选	abolish	a·bol·ish	lexical
+a00903	雅思写作动词精选	abuse	a·buse	lexical
+a00904	雅思写作动词精选	accommodate	ac·com·mo·date	lexical
+a00905	雅思写作动词精选	acquire	ac·quire	lexical
+a00906	雅思写作动词精选	adore	a·dore	lexical
+a00907	雅思写作动词精选	allocate	al·lo·cate	reviewed
+a00908	雅思写作动词精选	alter	al·ter	lexical
+a00909	雅思写作动词精选	attract	at·tract	lexical
+a00910	雅思写作动词精选	approach	ap·proach	lexical
+a00911	雅思写作动词精选	approve of	ap·prove of	lexical
+a00912	雅思写作动词精选	arise	a·rise	lexical
+a00913	雅思写作动词精选	arouse	a·rouse	lexical
+a00914	雅思写作动词精选	assume	as·sume	lexical
+a00915	雅思写作动词精选	attach	at·tach	reviewed
+a00916	雅思写作动词精选	attain	at·tain	lexical
+a00917	雅思写作动词精选	attend	at·tend	lexical
+a00918	雅思写作动词精选	ban	ban	lexical
+a00919	雅思写作动词精选	blossom	blos·som	lexical
+a00920	雅思写作动词精选	boom	boom	lexical
+a00921	雅思写作动词精选	bring sb.	bring sb.	lexical
+a00922	雅思写作动词精选	censor	cen·sor	lexical
+a00923	雅思写作动词精选	characterize	char·ac·ter·ize	lexical
+a00924	雅思写作动词精选	charge	charge	lexical
+a00925	雅思写作动词精选	cherish	cher·ish	lexical
+a00926	雅思写作动词精选	claim	claim	lexical
+a00927	雅思写作动词精选	coexist	co·ex·ist	lexical
+a00928	雅思写作动词精选	coincide with	co·in·cide with	lexical
+a00929	雅思写作动词精选	collect	col·lect	lexical
+a00930	雅思写作动词精选	commute	com·mute	lexical
+a00931	雅思写作动词精选	condemn	con·demn	lexical
+a00932	雅思写作动词精选	consult	con·sult	lexical
+a00933	雅思写作动词精选	contaminate	con·tam·i·nate	reviewed
+a00934	雅思写作动词精选	contribute to	con·trib·ute to	lexical
+a00935	雅思写作动词精选	crack down on	crack down on	lexical
+a00936	雅思写作动词精选	cultivate	cul·ti·vate	lexical
+a00937	雅思写作动词精选	defy	de·fy	lexical
+a00938	雅思写作动词精选	degenerate	de·gen·er·ate	lexical
+a00939	雅思写作动词精选	degrade	de·grade	reviewed
+a00940	雅思写作动词精选	depreciate	de·pre·ci·ate	reviewed
+a00941	雅思写作动词精选	deprive(of)	de·prive(of)	lexical
+a00942	雅思写作动词精选	desert	de·sert	lexical
+a00943	雅思写作动词精选	detect	de·tect	lexical
+a00944	雅思写作动词精选	deter	de·ter	lexical
+a00945	雅思写作动词精选	deteriorate	de·te·ri·o·rate	reviewed
+a00946	雅思写作动词精选	determine	de·ter·mine	lexical
+a00947	雅思写作动词精选	disclose	dis·close	lexical
+a00948	雅思写作动词精选	discourage	dis·cour·age	lexical
+a00949	雅思写作动词精选	diversify	di·ver·si·fy	reviewed
+a00950	雅思写作动词精选	divert	di·vert	lexical
+a00951	雅思写作动词精选	dominate	dom·i·nate	lexical
+a00952	雅思写作动词精选	drop out	drop out	lexical
+a00953	雅思写作动词精选	eliminate	e·lim·i·nate	lexical
+a00954	雅思写作动词精选	endanger	en·dan·ger	lexical
+a00955	雅思写作动词精选	enlighten	en·light·en	lexical
+a00956	雅思写作动词精选	enrich	en·rich	reviewed
+a00957	雅思写作动词精选	entertain	en·ter·tain	lexical
+a00958	雅思写作动词精选	evaluate	e·val·u·ate	reviewed
+a00959	雅思写作动词精选	evolve	e·volve	lexical
+a00960	雅思写作动词精选	exaggerate	ex·ag·ger·ate	reviewed
+a00961	雅思写作动词精选	exert	ex·ert	lexical
+a00962	雅思写作动词精选	expel	ex·pel	lexical
+a00963	雅思写作动词精选	explore	ex·plore	lexical
+a00964	雅思写作动词精选	expose	ex·pose	lexical
+a00965	雅思写作动词精选	guarantee	guar·an·tee	lexical
+a00966	雅思写作动词精选	hamper	ham·per	lexical
+a00967	雅思写作动词精选	hinder	hin·der	reviewed
+a00968	雅思写作动词精选	idealize	i·de·al·ize	lexical
+a00969	雅思写作动词精选	identify	i·den·ti·fy	lexical
+a00970	雅思写作动词精选	ignore	ig·nore	lexical
+a00971	雅思写作动词精选	imitate	im·i·tate	lexical
+a00972	雅思写作动词精选	impair	im·pair	lexical
+a00973	雅思写作动词精选	impose	im·pose	lexical
+a00974	雅思写作动词精选	incur	in·cur	lexical
+a00975	雅思写作动词精选	inherit	in·her·it	reviewed
+a00976	雅思写作动词精选	innovate	in·no·vate	lexical
+a00977	雅思写作动词精选	install	in·stall	lexical
+a00978	雅思写作动词精选	lavish	lav·ish	reviewed
+a00979	雅思写作动词精选	maltreat	mal·treat	lexical
+a00980	雅思写作动词精选	maximize	max·i·mize	reviewed
+a00981	雅思写作动词精选	minimize	min·i·mize	reviewed
+a00982	雅思写作动词精选	mould	mould	lexical
+a00983	雅思写作动词精选	neglect	ne·glect	lexical
+a00984	雅思写作动词精选	oblige	o·blige	lexical
+a00985	雅思写作动词精选	observe	ob·serve	lexical
+a00986	雅思写作动词精选	overcome	o·ver·come	lexical
+a00987	雅思写作动词精选	participate	par·tic·i·pate	reviewed
+a00988	雅思写作动词精选	perform	per·form	lexical
+a00989	雅思写作动词精选	please	please	lexical
+a00990	雅思写作动词精选	preserve	pre·serve	lexical
+a00991	雅思写作动词精选	prohibit	pro·hib·it	lexical
+a00992	雅思写作动词精选	publicize	pub·li·cize	lexical
+a00993	雅思写作动词精选	pursue	pur·sue	lexical
+a00994	雅思写作动词精选	quit	quit	lexical
+a00995	雅思写作动词精选	quote	quote	lexical
+a00996	雅思写作动词精选	refine	re·fine	lexical
+a00997	雅思写作动词精选	reflect	re·flect	lexical
+a00998	雅思写作动词精选	reform	re·form	lexical
+a00999	雅思写作动词精选	regulate	reg·u·late	reviewed
+a01000	雅思写作动词精选	rehabilitate	re·ha·bil·i·tate	lexical
+a01001	雅思写作动词精选	release	re·lease	lexical
+a01002	雅思写作动词精选	render	ren·der	lexical
+a01003	雅思写作动词精选	represent	rep·re·sent	lexical
+a01004	雅思写作动词精选	resort to	re·sort to	lexical
+a01005	雅思写作动词精选	restore	re·store	lexical
+a01006	雅思写作动词精选	restrain	re·strain	lexical
+a01007	雅思写作动词精选	retain	re·tain	lexical
+a01008	雅思写作动词精选	roam	roam	lexical
+a01009	雅思写作动词精选	sacrifice	sac·ri·fice	lexical
+a01010	雅思写作动词精选	shun	shun	lexical
+a01011	雅思写作动词精选	signify	sig·ni·fy	lexical
+a01012	雅思写作动词精选	spoil	spoil	lexical
+a01013	雅思写作动词精选	spread	spread	lexical
+a01014	雅思写作动词精选	steer	steer	lexical
+a01015	雅思写作动词精选	stick to	stick to	lexical
+a01016	雅思写作动词精选	stimulate	stim·u·late	lexical
+a01017	雅思写作动词精选	stipulate	stip·u·late	lexical
+a01018	雅思写作动词精选	substitute	sub·sti·tute	lexical
+a01019	雅思写作动词精选	supervise	su·per·vise	reviewed
+a01020	雅思写作动词精选	control	con·trol	lexical
+a01021	雅思写作动词精选	surpass	sur·pass	lexical
+a01022	雅思写作动词精选	survive	sur·vive	lexical
+a01023	雅思写作动词精选	threaten	threat·en	lexical
+a01024	雅思写作动词精选	tolerate	tol·er·ate	lexical
+a01025	雅思写作动词精选	treasure	treas·ure	lexical
+a01026	雅思写作动词精选	trigger	trig·ger	reviewed
+a01027	雅思写作动词精选	underestimate	un·der·es·ti·mate	lexical
+a01028	雅思写作动词精选	undermine	un·der·mine	lexical
+a01029	雅思写作动词精选	unload	un·load	lexical
+a01030	雅思写作动词精选	vanish	van·ish	lexical
+a01031	雅思写作动词精选	wither	with·er	reviewed
+a01032	雅思写作形容词精选	absurd	ab·surd	lexical
+a01033	雅思写作形容词精选	addictive	ad·dic·tive	lexical
+a01034	雅思写作形容词精选	affectionate	af·fec·tion·ate	lexical
+a01035	雅思写作形容词精选	aggressive	ag·gres·sive	lexical
+a01036	雅思写作形容词精选	alert	a·lert	lexical
+a01037	雅思写作形容词精选	arduous	ar·du·ous	reviewed
+a01038	雅思写作形容词精选	authoritative	au·thor·i·ta·tive	reviewed
+a01039	雅思写作形容词精选	awkward	awk·ward	lexical
+a01040	雅思写作形容词精选	balanced	ba·lanced	lexical
+a01041	雅思写作形容词精选	cogent	co·gent	lexical
+a01042	雅思写作形容词精选	cold-blooded	cold-blood·ed	lexical
+a01043	雅思写作形容词精选	cold-hearted	cold-heart·ed	lexical
+a01044	雅思写作形容词精选	compassionate	com·pas·sion·ate	lexical
+a01045	雅思写作形容词精选	compatible	com·pat·i·ble	reviewed
+a01046	雅思写作形容词精选	complicated	com·pli·ca·ted	lexical
+a01047	雅思写作形容词精选	confident	con·fi·dent	lexical
+a01048	雅思写作形容词精选	contributive	con·trib·u·tive	lexical
+a01049	雅思写作形容词精选	corrupt	cor·rupt	lexical
+a01050	雅思写作形容词精选	demanding	de·mand·ing	lexical
+a01051	雅思写作形容词精选	detrimental	det·ri·men·tal	lexical
+a01052	雅思写作形容词精选	devious	de·vi·ous	reviewed
+a01053	雅思写作形容词精选	dishonorable	dis·hon·or·a·ble	reviewed
+a01054	雅思写作形容词精选	disturbed	di·sturbed	lexical
+a01055	雅思写作形容词精选	eccentric	ec·cen·tric	lexical
+a01056	雅思写作形容词精选	economical	e·co·nom·i·cal	reviewed
+a01057	雅思写作形容词精选	enlightened	en·ligh·tened	lexical
+a01058	雅思写作形容词精选	exotic	ex·ot·ic	reviewed
+a01059	雅思写作形容词精选	fashionable	fash·ion·a·ble	lexical
+a01060	雅思写作形容词精选	feasible	fea·si·ble	lexical
+a01061	雅思写作形容词精选	fictitious	fic·ti·tious	reviewed
+a01062	雅思写作形容词精选	flexile	fle·xile	lexical
+a01063	雅思写作形容词精选	fruitful	fruit·ful	lexical
+a01064	雅思写作形容词精选	glamorous	gla·mor·ous	lexical
+a01065	雅思写作形容词精选	ignorant (of)	ig·no·rant (of)	lexical
+a01066	雅思写作形容词精选	impressive	im·pre·ssive	lexical
+a01067	雅思写作形容词精选	inborn	in·born	reviewed
+a01068	雅思写作形容词精选	incompatible	in·com·pat·i·ble	reviewed
+a01069	雅思写作形容词精选	inconceivable	in·con·ceiv·a·ble	lexical
+a01070	雅思写作形容词精选	indecent	in·de·cent	lexical
+a01071	雅思写作形容词精选	indifferent	in·dif·fer·ent	reviewed
+a01072	雅思写作形容词精选	indispensable	in·dis·pen·sa·ble	lexical
+a01073	雅思写作形容词精选	inexhaustible	in·ex·haust·i·ble	lexical
+a01074	雅思写作形容词精选	infectious	in·fec·tious	reviewed
+a01075	雅思写作形容词精选	influential	in·flu·en·tial	lexical
+a01076	雅思写作形容词精选	ingrain	in·grain	reviewed
+a01077	雅思写作形容词精选	inhumane	in·hu·mane	reviewed
+a01078	雅思写作形容词精选	initial	in·i·tial	lexical
+a01079	雅思写作形容词精选	innocent	in·no·cent	lexical
+a01080	雅思写作形容词精选	instructive	in·struc·tive	lexical
+a01081	雅思写作形容词精选	intellectual	in·tel·lec·tu·al	reviewed
+a01082	雅思写作形容词精选	interpersonal	in·ter·per·son·al	lexical
+a01083	雅思写作形容词精选	intimate	in·ti·mate	lexical
+a01084	雅思写作形容词精选	irreparable	ir·rep·a·ra·ble	reviewed
+a01085	雅思写作形容词精选	irresistible	ir·re·sist·i·ble	lexical
+a01086	雅思写作形容词精选	irritating	i·rri·ta·ting	lexical
+a01087	雅思写作形容词精选	isolated(from)	i·so·la·ted(from)	lexical
+a01088	雅思写作形容词精选	laudable	laud·a·ble	lexical
+a01089	雅思写作形容词精选	lavish	lav·ish	reviewed
+a01090	雅思写作形容词精选	legitimate	le·git·i·mate	reviewed
+a01091	雅思写作形容词精选	loyal	loy·al	lexical
+a01092	雅思写作形容词精选	luxurious	lux·u·ri·ous	reviewed
+a01093	雅思写作形容词精选	magnanimous	mag·nan·i·mous	reviewed
+a01094	雅思写作形容词精选	mature	ma·ture	lexical
+a01095	雅思写作形容词精选	misleading	mis·lead·ing	lexical
+a01096	雅思写作形容词精选	money-oriented	mon·ey-o·ri·en·ted	lexical
+a01097	雅思写作形容词精选	nourished	nour·ished	lexical
+a01098	雅思写作形容词精选	obscure	ob·scure	lexical
+a01099	雅思写作形容词精选	old-fashioned	old-fa·shioned	lexical
+a01100	雅思写作形容词精选	perilous	per·il·ous	lexical
+a01101	雅思写作形容词精选	permissive	per·mis·sive	lexical
+a01102	雅思写作形容词精选	pornographic	por·no·graph·ic	lexical
+a01103	雅思写作形容词精选	potential	po·ten·tial	lexical
+a01104	雅思写作形容词精选	practical	prac·ti·cal	reviewed
+a01105	雅思写作形容词精选	pressing	press·ing	lexical
+a01106	雅思写作形容词精选	prevailing	pre·vai·ling	lexical
+a01107	雅思写作形容词精选	professional	pro·fes·sion·al	lexical
+a01108	雅思写作形容词精选	prosperous	pros·per·ous	lexical
+a01109	雅思写作形容词精选	prudent	pru·dent	lexical
+a01110	雅思写作形容词精选	psychological	psy·cho·log·i·cal	lexical
+a01111	雅思写作形容词精选	rational	ra·tion·al	lexical
+a01112	雅思写作形容词精选	reverse	re·verse	lexical
+a01113	雅思写作形容词精选	rewarding	re·ward·ing	reviewed
+a01114	雅思写作形容词精选	ridiculous	ri·dic·u·lous	lexical
+a01115	雅思写作形容词精选	rigid	rig·id	lexical
+a01116	雅思写作形容词精选	rough	rough	lexical
+a01117	雅思写作形容词精选	self-contemptuous	self-con·temp·tu·ous	lexical
+a01118	雅思写作形容词精选	shabby	shab·by	lexical
+a01119	雅思写作形容词精选	sheltered	shel·tered	lexical
+a01120	雅思写作形容词精选	sociable	so·cia·ble	lexical
+a01121	雅思写作形容词精选	sole	sole	lexical
+a01122	雅思写作形容词精选	stern	stern	lexical
+a01123	雅思写作形容词精选	stressful	stress·ful	lexical
+a01124	雅思写作形容词精选	stringent	strin·gent	lexical
+a01125	雅思写作形容词精选	stylish	styl·ish	lexical
+a01126	雅思写作形容词精选	superficial	su·per·fi·cial	lexical
+a01127	雅思写作形容词精选	tempting	temp·ting	lexical
+a01128	雅思写作形容词精选	time-honored	time-hon·ored	reviewed
+a01129	雅思写作形容词精选	traditional	tra·di·tion·al	lexical
+a01130	雅思写作形容词精选	typical	typ·i·cal	lexical
+a01131	雅思写作形容词精选	unadvised	un·ad·vised	lexical
+a01132	雅思写作形容词精选	uncompromising	un·com·pro·mis·ing	lexical
+a01133	雅思写作形容词精选	unconcerned	un·con·cerned	lexical
+a01134	雅思写作形容词精选	uneasy	un·eas·y	lexical
+a01135	雅思写作形容词精选	unethical	un·eth·i·cal	lexical
+a01136	雅思写作形容词精选	unfeeling	un·feel·ing	lexical
+a01137	雅思写作形容词精选	unhealthy	un·health·y	lexical
+a01138	雅思写作形容词精选	unified	u·ni·fied	reviewed
+a01139	雅思写作形容词精选	unique	u·nique	lexical
+a01140	雅思写作形容词精选	unjust	un·just	lexical
+a01141	雅思写作形容词精选	unsociable	un·so·cia·ble	lexical
+a01142	雅思写作形容词精选	untimely	un·time·ly	lexical
+a01143	雅思写作形容词精选	unwholesome	un·whole·some	lexical
+a01144	雅思写作形容词精选	vexing	ve·xing	lexical
+a01145	雅思写作形容词精选	vivid	viv·id	lexical
+a01146	雅思写作形容词精选	voluntary	vol·un·tar·y	reviewed
+a01147	雅思写作形容词精选	vulnerable	vul·ner·a·ble	reviewed
+a01148	雅思写作形容词精选	well-grounded	well-groun·ded	lexical
+a01149	雅思写作形容词精选	wholesome	whole·some	lexical
+c0001	写作关联词 · 顺序	first	first	lexical
+c0002	写作关联词 · 顺序	initially	in·i·tial·ly	lexical
+c0003	写作关联词 · 顺序	second	sec·ond	lexical
+c0004	写作关联词 · 顺序	etc.	etc.	special
+c0005	写作关联词 · 顺序	to begin with	to be·gin with	lexical
+c0006	写作关联词 · 顺序	then	then	lexical
+c0007	写作关联词 · 顺序	next	next	lexical
+c0008	写作关联词 · 顺序	earlier	ear·li·er	reviewed
+c0009	写作关联词 · 顺序	later	lat·er	lexical
+c0010	写作关联词 · 顺序	following that	fo·llow·ing that	lexical
+c0011	写作关联词 · 顺序	afterwards	af·ter·wards	lexical
+c0012	写作关联词 · 此外	in addition	in ad·di·tion	reviewed
+c0013	写作关联词 · 此外	and	and	lexical
+c0014	写作关联词 · 此外	similarly	sim·i·lar·ly	lexical
+c0015	写作关联词 · 此外	likewise	like·wise	lexical
+c0016	写作关联词 · 此外	as well as	as well as	lexical
+c0017	写作关联词 · 此外	besides	be·sides	lexical
+c0018	写作关联词 · 此外	furthermore	fur·ther·more	lexical
+c0019	写作关联词 · 此外	also	al·so	lexical
+c0020	写作关联词 · 此外	moreover	more·o·ver	lexical
+c0021	写作关联词 · 此外	too	too	lexical
+c0022	写作关联词 · 此外	not only ... but also	not on·ly ... but al·so	lexical
+c0023	写作关联词 · 此外	even	e·ven	lexical
+c0024	写作关联词 · 此外	besides this	be·sides this	lexical
+c0025	写作关联词 · 原因	since	since	lexical
+c0026	写作关联词 · 原因	as	as	lexical
+c0027	写作关联词 · 原因	so	so	lexical
+c0028	写作关联词 · 原因	because	be·cause	lexical
+c0029	写作关联词 · 原因	due to	due to	lexical
+c0030	写作关联词 · 原因	owing to	ow·ing to	lexical
+c0031	写作关联词 · 原因	the reason why	the rea·son why	lexical
+c0032	写作关联词 · 原因	leads to	leads to	lexical
+c0033	写作关联词 · 原因	thanks to	thanks to	lexical
+c0034	写作关联词 · 结果	as a result	as a re·sult	special
+c0035	写作关联词 · 结果	thus	thus	lexical
+c0036	写作关联词 · 结果	so	so	lexical
+c0037	写作关联词 · 结果	therefore	there·fore	lexical
+c0038	写作关联词 · 结果	consequently	con·se·quent·ly	lexical
+c0039	写作关联词 · 结果	it follows that	it fo·llows that	lexical
+c0040	写作关联词 · 结果	thereby	there·by	lexical
+c0041	写作关联词 · 结果	eventually	e·ven·tu·al·ly	lexical
+c0042	写作关联词 · 结果	in that case	in that case	lexical
+c0043	写作关联词 · 结果	admittedly	ad·mit·ted·ly	lexical
+c0044	写作关联词 · 对比	however	how·ev·er	lexical
+c0045	写作关联词 · 对比	on the other hand	on the oth·er hand	lexical
+c0046	写作关联词 · 对比	despite	de·spite	lexical
+c0047	写作关联词 · 对比	in spite of	in spite of	lexical
+c0048	写作关联词 · 对比	though	though	lexical
+c0049	写作关联词 · 对比	although	al·though	lexical
+c0050	写作关联词 · 对比	but	but	lexical
+c0051	写作关联词 · 对比	on the contrary	on the con·trar·y	lexical
+c0052	写作关联词 · 对比	otherwise	oth·er·wise	lexical
+c0053	写作关联词 · 对比	yet	yet	lexical
+c0054	写作关联词 · 对比	instead of	in·stead of	lexical
+c0055	写作关联词 · 对比	rather	rath·er	lexical
+c0056	写作关联词 · 对比	whereas	where·as	lexical
+c0057	写作关联词 · 对比	nonetheless	none·the·less	lexical
+c0058	写作关联词 · 对比	compared with	com·pared with	lexical
+c0059	写作关联词 · 对比	in contrast	in con·trast	lexical
+c0060	写作关联词 · 确定	obviously	ob·vi·ous·ly	lexical
+c0061	写作关联词 · 确定	certainly	cer·tain·ly	lexical
+c0062	写作关联词 · 确定	plainly	plain·ly	lexical
+c0063	写作关联词 · 确定	of course	of course	lexical
+c0064	写作关联词 · 确定	undoubtedly	un·doubt·ed·ly	lexical
+c0065	写作关联词 · 条件	if	if	lexical
+c0066	写作关联词 · 条件	unless	un·less	lexical
+c0067	写作关联词 · 条件	whether	wheth·er	lexical
+c0068	写作关联词 · 条件	provided that	pro·vi·ded that	lexical
+c0069	写作关联词 · 条件	for	for	lexical
+c0070	写作关联词 · 条件	so that	so that	lexical
+c0071	写作关联词 · 条件	whether	wheth·er	lexical
+c0072	写作关联词 · 条件	depending on	de·pen·ding on	lexical
+c0073	写作关联词 · 时间	before	be·fore	lexical
+c0074	写作关联词 · 时间	since	since	lexical
+c0075	写作关联词 · 时间	as	as	lexical
+c0076	写作关联词 · 时间	until	un·til	lexical
+c0077	写作关联词 · 时间	meanwhile	mean·while	lexical
+c0078	写作关联词 · 时间	at the moment	at the mo·ment	lexical
+c0079	写作关联词 · 时间	when	when	lexical
+c0080	写作关联词 · 时间	whenever	when·ev·er	reviewed
+c0081	写作关联词 · 时间	as soon as	as soon as	lexical
+c0082	写作关联词 · 举例	for example	for ex·am·ple	lexical
+c0083	写作关联词 · 举例	for instance	for in·stance	lexical
+c0084	写作关联词 · 举例	just as	just as	lexical
+c0085	写作关联词 · 举例	in particular	in par·tic·u·lar	lexical
+c0086	写作关联词 · 举例	such as	such as	lexical
+c0087	写作关联词 · 举例	namely	name·ly	lexical
+c0088	写作关联词 · 总结	in conclusion	in con·clu·sion	lexical
+c0089	写作关联词 · 总结	in summary	in sum·ma·ry	lexical
+c0090	写作关联词 · 总结	lastly	last·ly	lexical
+c0091	写作关联词 · 总结	finally	fi·nal·ly	lexical
+c0092	写作关联词 · 总结	to sum up	to sum up	lexical
+c0093	写作关联词 · 总结	to conclude	to con·clude	lexical
+c0094	写作关联词 · 总结	in short	in short	lexical
